@@ -18,6 +18,7 @@ MIN_VIEWS = int(os.environ.get("MIN_VIEWS", "100000"))
 MIN_OUTLIER = float(os.environ.get("MIN_OUTLIER", "3"))
 MODELO_VIDEO = os.environ.get("MODELO_VIDEO", "gemini-flash-latest")
 MODELO_TEXTO = os.environ.get("MODELO_TEXTO", "gemini-flash-lite-latest")
+MODELO_RESERVA = os.environ.get("MODELO_RESERVA", "gemini-flash-lite-latest")
 
 
 def ler(nome, padrao):
@@ -144,12 +145,22 @@ def pontuar(v):
 
 # ---------------------------------------------------------------- análise
 def gemini(modelo, partes):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
-    r = http_json(url, cabecalhos={"x-goog-api-key": GEM}, corpo={"contents": [{"parts": partes}],
-                        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4,
-                                             "mediaResolution": "MEDIA_RESOLUTION_LOW"}})
-    txt = r["candidates"][0]["content"]["parts"][0]["text"]
-    return json.loads(txt)
+    # tenta o modelo pedido; se estiver sobrecarregado ou o JSON vier quebrado, tenta de novo / cai pro reserva
+    ultimo = None
+    for m in [modelo, modelo, MODELO_RESERVA]:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent"
+        try:
+            r = http_json(url, cabecalhos={"x-goog-api-key": GEM}, tentativas=2, corpo={
+                "contents": [{"parts": partes}],
+                "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4,
+                                     "mediaResolution": "MEDIA_RESOLUTION_LOW"}})
+            return json.loads(r["candidates"][0]["content"]["parts"][0]["text"])
+        except (RuntimeError, json.JSONDecodeError, KeyError) as e:
+            ultimo = e
+            if "429" in str(e):
+                raise
+            time.sleep(5)
+    raise ultimo
 
 
 PROMPT_GANCHO = """Você é um estrategista de conteúdo viral. Assista este Short (nicho: {nicho}).
