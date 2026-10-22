@@ -16,8 +16,8 @@ BUSCAS = int(os.environ.get("BUSCAS_POR_RODADA", "6"))
 MAX_ANALISES = int(os.environ.get("MAX_ANALISES", "8"))
 MIN_VIEWS = int(os.environ.get("MIN_VIEWS", "100000"))
 MIN_OUTLIER = float(os.environ.get("MIN_OUTLIER", "3"))
-MODELO_VIDEO = os.environ.get("MODELO_VIDEO", "gemini-2.5-flash")
-MODELO_TEXTO = os.environ.get("MODELO_TEXTO", "gemini-2.5-flash-lite")
+MODELO_VIDEO = os.environ.get("MODELO_VIDEO", "gemini-flash-latest")
+MODELO_TEXTO = os.environ.get("MODELO_TEXTO", "gemini-flash-lite-latest")
 
 
 def ler(nome, padrao):
@@ -36,10 +36,10 @@ def salvar(nome, obj):
     os.replace(tmp, os.path.join(DADOS, nome))
 
 
-def http_json(url, corpo=None, tentativas=3):
+def http_json(url, corpo=None, tentativas=3, cabecalhos=None):
     for i in range(tentativas):
         req = urllib.request.Request(url, data=json.dumps(corpo).encode() if corpo else None,
-                                     headers={"Content-Type": "application/json"})
+                                     headers={"Content-Type": "application/json", **(cabecalhos or {})})
         try:
             with urllib.request.urlopen(req, timeout=180) as r:
                 return json.load(r)
@@ -144,8 +144,8 @@ def pontuar(v):
 
 # ---------------------------------------------------------------- análise
 def gemini(modelo, partes):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent?key={GEM}"
-    r = http_json(url, {"contents": [{"parts": partes}],
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+    r = http_json(url, cabecalhos={"x-goog-api-key": GEM}, corpo={"contents": [{"parts": partes}],
                         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4,
                                              "mediaResolution": "MEDIA_RESOLUTION_LOW"}})
     txt = r["candidates"][0]["content"]["parts"][0]["text"]
