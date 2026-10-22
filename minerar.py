@@ -146,7 +146,8 @@ def pontuar(v):
 def gemini(modelo, partes):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent?key={GEM}"
     r = http_json(url, {"contents": [{"parts": partes}],
-                        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4}})
+                        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4,
+                                             "mediaResolution": "MEDIA_RESOLUTION_LOW"}})
     txt = r["candidates"][0]["content"]["parts"][0]["text"]
     return json.loads(txt)
 
