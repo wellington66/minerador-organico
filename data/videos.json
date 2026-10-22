@@ -33,23 +33,68 @@
     "É por isso que você tem celular caro e ainda não sabe nem tirar uma foto profissional."
    ]
   },
-  "dores": null,
+  "dores": {
+   "dores": [
+    "batalhar com batatas que ficam muchas na air fryer",
+    "falta de tempo ou preguiça extrema para elaborar algo para comer",
+    "dificuldade em acertar o ponto ideal de crocância"
+   ],
+   "correcoes": [
+    "preaquecer a air fryer e usar um borrifador com fio de azeite",
+    "deixar 40 minutos na air fryer para ficar mais crocante",
+    "fazer tudo isso e usar o próprio tempero ou maionese para acompanhar"
+   ],
+   "duvidas": [
+    "como se escreve air fryer corretamente",
+    "quantos vídeos eu perdi"
+   ],
+   "desejos": [
+    "conseguir fazer uma batata que fique crocante por fora e macia por dentro",
+    "ter praticidade e rapidez no preparo na air fryer",
+    "testar a receita em casa no almoço de domingo"
+   ],
+   "objecoes": [
+    "demasiado complicado para quem usa a air fryer por preguiça",
+    "mais fácil fazer no óleo mesmo",
+    "tanto capricho pra fritar batata"
+   ],
+   "elogios": [
+    "a batata fica bem crocante e macia por dentro",
+    "funcionou e ficou sensacional",
+    "o sabor ficou maravilhoso e foi um sucesso em casa"
+   ],
+   "frases_exatas": [
+    "a batata virou outra",
+    "ficou bem crocante e macia por dentro",
+    "demasiado complicado",
+    "salvou aqui",
+    "o objetivo da batata de airfryer é ser um preparo rápido e simples",
+    "aprendi fazer batata sem ficar murcha",
+    "a batata fica mais crocante",
+    "tanto capricho pra fritar batata"
+   ],
+   "ideias_produto": [
+    "manual básico de culinária prático para jovens e iniciantes na cozinha",
+    "curso rápido de receitas descomplicadas para quem tem preguiça de cozinhar",
+    "guia definitivo de petiscos perfeitos feitos na air fryer"
+   ]
+  },
   "top_comentarios": [
    {
     "t": "É apenas uma brincadeira.....",
-    "l": 8218
+    "l": 8219
    },
    {
     "t": "Eu provei e fica mais crocante mesmo! Top filho ❤",
-    "l": 2651
+    "l": 2663
    },
    {
     "t": "Eu lembro dele pedido skin de jogo kkk.  Tao feliz agora mudei já",
-    "l": 1767
+    "l": 1777
    },
    {
     "t": "Realidade preaquece a airfryer coloca a batata nela com um fio de azeite (eu uso um borrifador) e coloca ela para fritar… é assim q a gente faz em alguns restaurantes(sim restaurante usa airfryer)",
-    "l": 416
+    "l": 422
    },
    {
     "t": "E o legado continua",
@@ -57,7 +102,7 @@
    },
    {
     "t": "O Maior glow up do Brasil Parece que foi ontem que vi esse muleke ganhando skin do pai nos vídeos  Agora ele já tá um homem  Tô ficando velho",
-    "l": 336
+    "l": 338
    },
    {
     "t": "So aparece quando to com fome",
@@ -65,7 +110,7 @@
    },
    {
     "t": "Eu estou muito feliz! Venci o cancêr tbm!",
-    "l": 80
+    "l": 81
    },
    {
     "t": "Eu fiz tudo menos o tempero e ficou bom, a batata fica bem crocante e macia por dentro, recomendo",
@@ -83,7 +128,8 @@
     "t": "Dinastia familiar na cozinha",
     "l": 12
    }
-  ]
+  ],
+  "analisado": "2026-10-22T21:43:46+00:00"
  },
  "ANJ8m3daNpc": {
   "id": "ANJ8m3daNpc",
@@ -102,8 +148,119 @@
   ],
   "termo": "receita air fryer",
   "achado": "2026-10-22T17:08:36+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Você não vai mais dizer que berinjela é sem graça depois de ver essa receita.",
+   "texto_tela": "",
+   "visual_inicial": "Mãos cortando a ponta de uma berinjela com uma faca sobre uma tábua de madeira na cozinha.",
+   "tipo_gancho": "curiosidade",
+   "formato": "mãos fazendo",
+   "emocao": "desejo",
+   "retencao": "promessa adiada de uma preparação surpreendente para um vegetal que costuma dividir opiniões.",
+   "cta": "",
+   "por_que_funciona": "Usa um gancho emocional forte atacando uma crença comum ('berinjela é sem graça') e promete transformar a percepção do espectador.",
+   "modelo_gancho": "Você não vai mais dizer que [alimento/objeto] é [qualidade negativa] depois de ver [esta/este] [receita/método].",
+   "variacoes": [
+    "Você não vai mais dizer que frango com brócolis é sem graça depois de ver esta receita.",
+    "Você não vai mais dizer que treino de perna é chato depois de ver este método.",
+    "Você não vai mais dizer que organização é difícil depois de ver esta dica."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "medo de cortar berinjela e encontrar verme",
+    "medo de intoxicação alimentar por berinjela assada",
+    "aversão ao sabor ou à berinjela em si"
+   ],
+   "correcoes": [
+    "berinjela deve ser consumida muito bem cozida e é melhor frita que assada por causa de toxinas",
+    "botou farinha de fresco já perde a graça",
+    "faço só com a farinha de pão e molho de tomate à la parmegiana"
+   ],
+   "duvidas": [
+    "O que significa o molho de iogurte?",
+    "Acho que tem vitamina zero depois dessa preparação... Será? Assando fininho assim?"
+   ],
+   "desejos": [
+    "aprender a preparar berinjela de um jeito que até quem não gosta vai querer comer",
+    "fazer a receita hoje em casa"
+   ],
+   "objecoes": [
+    "sinceramente eu não gosto, mas vou ser obrigada a fazer assim",
+    "não gosto de berinjela",
+    "essa eu passo devido ao medo de vermes"
+   ],
+   "elogios": [
+    "só receita boa nesse canal",
+    "receita nota mil, adorei",
+    "parece peixe",
+    "parece carne",
+    "muito boa receita, brigaduuuu"
+   ],
+   "frases_exatas": [
+    "ATÉ QUEM NÃO GOSTA VAI QUERER!",
+    "Pensei que era peixe",
+    "Parece carne",
+    "Sinceramente eu não gosto, mas vou ser obrigada a fazer assim",
+    "Só receita boa nesse canal",
+    "Receita nota mil"
+   ],
+   "ideias_produto": [
+    "E-book de receitas ocultas na Air Fryer para converter quem odeia legumes",
+    "Guia prático de higienização e segurança de alimentos para acabar com o medo de pragas e toxinas",
+    "Curso de culinária saudável e prática na Air Fryer com foco em vegetais"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Adoro beringela. Por acaso ontem fui na minha horta e achei um monte delas. Beringela sem nenhum agrotóxico. Peguei 4. A maiorzinha tem 540 gramas. Maravilha",
+    "l": 25
+   },
+   {
+    "t": "só receita boa nesse canal",
+    "l": 6
+   },
+   {
+    "t": "Obrigada pela receita.  Gosto muito de berinjela.",
+    "l": 5
+   },
+   {
+    "t": "Nossa, amei a receita 🙏💖",
+    "l": 4
+   },
+   {
+    "t": "Muito top kakakaka, vou fazer",
+    "l": 4
+   },
+   {
+    "t": "Muito boa receita!! Brigaduuuu!! 👍👏😋",
+    "l": 3
+   },
+   {
+    "t": "GRATIDÃO GRATIDÃO GRATIDÃO ADOREI A RECEITA NOTA MIL GRATIDÃO GRATIDÃO GRATIDÃO ❤😂❤😂❤😂❤",
+    "l": 3
+   },
+   {
+    "t": "Voy a prepararla así.",
+    "l": 3
+   },
+   {
+    "t": "Eu faço   só com a farinha  de pão, faço  um  molho  de tomate  a la parmergiana  fica top.",
+    "l": 3
+   },
+   {
+    "t": "Pensei que era peixe",
+    "l": 3
+   },
+   {
+    "t": "Amei!!! Delícia",
+    "l": 3
+   },
+   {
+    "t": "Vou fazer hoje. Obrigada pela receita🥰👍",
+    "l": 2
+   }
+  ],
+  "analisado": "2026-10-22T21:43:22+00:00"
  },
  "vLeUZyazerg": {
   "id": "vLeUZyazerg",
@@ -863,5 +1020,804 @@
    }
   ],
   "analisado": "2026-10-22T17:09:27+00:00"
+ },
+ "MKlfjefFpaQ": {
+  "id": "MKlfjefFpaQ",
+  "titulo": "Testemunho de Conversão do Pr. Angelo Galvão! Muito forte! #shorts #testemunho #fé",
+  "canal": "Sopro do Espírito",
+  "canal_id": "UCBFEC8NBWTfti_whfMNtGjQ",
+  "inscritos": 512000,
+  "publicado": "2026-09-23T21:00:00Z",
+  "duracao": 180,
+  "views": 2699924,
+  "likes": 133979,
+  "comentarios": 2184,
+  "outlier": 1.6,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "oração poderosa",
+  "achado": "2026-10-22T21:42:35+00:00",
+  "gancho": null,
+  "dores": null
+ },
+ "LidfuDCz7Ok": {
+  "id": "LidfuDCz7Ok",
+  "titulo": "Nunca saia da cama sem estas três orações 🙏 #shorts",
+  "canal": "Padre Bento ",
+  "canal_id": "UC6zfHkLAljURJYy3ATHwi1A",
+  "inscritos": 11300,
+  "publicado": "2026-10-05T01:41:34Z",
+  "duracao": 122,
+  "views": 709271,
+  "likes": 33561,
+  "comentarios": 6287,
+  "outlier": 34.1,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "oração poderosa",
+  "achado": "2026-10-22T21:42:35+00:00",
+  "gancho": {
+   "gancho_falado": "nunca saia da cama sem dizer estas três orações a Deus.",
+   "texto_tela": "",
+   "visual_inicial": "Um homem de meia-idade, com cabelos e barba grisalhos, vestindo uma camisa preta com colarinho clerical e um colar com crucifixo, fala diretamente para a câmera em um ambiente iluminado ao ar livre.",
+   "tipo_gancho": "erro-comum",
+   "formato": "talking head",
+   "emocao": "serenidade",
+   "retencao": "A promessa de que a terceira oração pode transformar completamente o dia, mantendo o espectador curioso até o final.",
+   "cta": "",
+   "por_que_funciona": "Combina autoridade visual (padre) com uma rotina matinal essencial, criando um forte senso de urgência e curiosidade sobre a terceira oração.",
+   "modelo_gancho": "nunca [ação diária] sem [fazer/dizer] [número] [elementos/ações] [benefício/resultado].",
+   "variacoes": [
+    "nunca comece o dia sem fazer estes três exercícios para a coluna.",
+    "nunca tome café sem antes comer estes três alimentos essenciais.",
+    "nunca abra o e-mail sem enviar estas três mensagens."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Pelo que já sofri na minha vida, SOU GRATA a Deus Por me sustentar",
+    "Senhor tenha misericórdia de nós minha família"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Eu quero a oração de 21 dias",
+    "Senhor cuide de mim, familiares e amigos",
+    "Jornada, quero ter esta intimidade com Deus",
+    "Deus proteja eu, minhas filhas, meus netos",
+    "Meu Deus guia meus passos neste dia. Livra de todo mal."
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Amém glórias a Deus e eu creio e recebo e tomo posse dessa palavra",
+    "Padre Bento, agradeço de coração estas lindas Orações",
+    "Que oração mais linda jornada da vida Jesus Cristo te abençoe sempre",
+    "Gratidão por Nós transmitir seus conhecimentos Deus lhe pague",
+    "Gratidão ao Canal por suas irAções e Ensinamentos"
+   ],
+   "frases_exatas": [
+    "Senhor eu me entrego e a minha família em tuas mãos",
+    "Eu creio, eu recebo e tomo posse dessa palavra",
+    "Meu Deus guia meus passos neste dia e livra de todo mal",
+    "Senhor Jesus Eu confio e Espero em Ti",
+    "Pelo que já sofri na minha vida, sou grata a Deus",
+    "Amém, glórias a Deus, eu creio e recebo",
+    "Senhor entrego este dia nas tuas mãos"
+   ],
+   "ideias_produto": [
+    "Desafio ou Jornada de Oração de 21 Dias",
+    "E-book ou Guia de Orações Matinais para Começar o Dia",
+    "Áudio-guia de Orações de Proteção para a Família e Filhos"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Amém glórias a Deus e eu creio e recebo e tomo posse dessa palavra dessa benção em nome de Jesus Cristo amém",
+    "l": 43
+   },
+   {
+    "t": "Jornada,Deus cuide de mim,familiares e amigos.  ❤",
+    "l": 41
+   },
+   {
+    "t": "Senhor eu min entrego a minha  e família  em tuas mãos 🙏🙏🙏",
+    "l": 40
+   },
+   {
+    "t": "Jornada cuida de mim e da minha família gratidão ❤❤❤❤❤❤❤❤",
+    "l": 31
+   },
+   {
+    "t": "Amém eu creio eu recebo sim meu Deus que assim seja a minha vida está mão de Deus amém verdade gratidão ❤️ ❤️ ❤️",
+    "l": 31
+   },
+   {
+    "t": "Senhor  eu me entrego em suas mãos e a vida da minha família  em seu nome amém Jesus",
+    "l": 24
+   },
+   {
+    "t": "Jornada",
+    "l": 22
+   },
+   {
+    "t": "Boa tarde jornada vídeos de meu pai❤fe",
+    "l": 20
+   },
+   {
+    "t": "Jornada , eu quero oração de 21 dias !Amém !🙏🙏🌹🌹",
+    "l": 20
+   },
+   {
+    "t": "Eu quero  a oração de  21 dias eu espero  o que vem de ti",
+    "l": 20
+   },
+   {
+    "t": "❤❤🎉🎉🙏🙏🙏🙏🙏🙏,,JORNADA,,,",
+    "l": 18
+   },
+   {
+    "t": "Senhor eu me entrego ao senhor tudo em tuas mãos eu tomo posse e recebo confio em vós",
+    "l": 18
+   }
+  ],
+  "analisado": "2026-10-22T21:43:04+00:00"
+ },
+ "lqx-gV86hBY": {
+  "id": "lqx-gV86hBY",
+  "titulo": "Testemunho forte da Rayssa Buq - Parte 1 #fé #shorts #viral",
+  "canal": "Reflexão & Fé",
+  "canal_id": "UCFJjB70eGfAE2S8azhFna9A",
+  "inscritos": 88400,
+  "publicado": "2026-10-14T15:15:16Z",
+  "duracao": 180,
+  "views": 394060,
+  "likes": 14676,
+  "comentarios": 62,
+  "outlier": 3.1,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "oração poderosa",
+  "achado": "2026-10-22T21:42:35+00:00",
+  "gancho": null,
+  "dores": null
+ },
+ "H_c3OoMx6Vo": {
+  "id": "H_c3OoMx6Vo",
+  "titulo": "[REVELADO] PLANOS DE DEUS PARA O BRASIL 🇧🇷 🙌🏽 #shorts #oração #profecia #deus",
+  "canal": "AMarinaCarvalho",
+  "canal_id": "UCYYAe9pF3AD989LGaOE3x3g",
+  "inscritos": 1870,
+  "publicado": "2026-10-15T21:00:00Z",
+  "duracao": 118,
+  "views": 389406,
+  "likes": 22036,
+  "comentarios": 2692,
+  "outlier": 10.0,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "oração poderosa",
+  "achado": "2026-10-22T21:42:35+00:00",
+  "gancho": {
+   "gancho_falado": "Olha que profecia poderosa para o nosso país!",
+   "texto_tela": "OLHA QUE PROFECIA PODEROSA PRO NOSSO PAÍS, PRESTA ATENÇÃO",
+   "visual_inicial": "Tela dividida com um homem de óculos falando em cima e uma mulher sorrindo embaixo.",
+   "tipo_gancho": "curiosidade",
+   "formato": "tela dividida",
+   "emocao": "esperança",
+   "retencao": "promessa de revelação sobre o futuro do país",
+   "cta": "Segue @marinacarvalhooficial Coisas boas",
+   "por_que_funciona": "Combina apelo nacional urgente com promessa de revelação espiritual, despertando curiosidade imediata.",
+   "modelo_gancho": "Olha que [revelação/profecia] [adjetivo] para o nosso [país/futuro]!",
+   "variacoes": [
+    "Olha que segredo poderoso para o nosso negócio!",
+    "Olha que estratégia poderosa para o nosso lar!",
+    "Olha que alerta poderoso para o nosso futuro!"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "agente precisa livramento urgente",
+    "precisamos dessa mudança, desse reboliço"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Que Deus faça justiça no Brasil",
+    "Estamos precisando de um avivamento",
+    "Que Deus restaure e proteja a nossa nação brasileira"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Profecia poderosa",
+    "Me arrepiei tda"
+   ],
+   "frases_exatas": [
+    "O Brasil está nas mãos de Deus",
+    "Deus sempre no controle e comando",
+    "Profecia poderosa, eu creio no milagre divino",
+    "Estamos precisando de um avivamento",
+    "Deus a cima de tudo",
+    "A igreja de Deus está em oração",
+    "Feliz é a Nação cujo Deus é o Senhor",
+    "Eu creio e recebo e tomo posse"
+   ],
+   "ideias_produto": [
+    "Corrente de oração ou novena profética para o Brasil",
+    "E-book ou diário de orações pela nação e líderes políticos"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Deus sempre no controle e comando....🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷",
+    "l": 181
+   },
+   {
+    "t": "O Brasil está nas mãos de Deus",
+    "l": 162
+   },
+   {
+    "t": "Profecia poderosa,eu creio  no milagre divino",
+    "l": 155
+   },
+   {
+    "t": "DEUS DA VITÓRIA VITÓRIA AMÉM AMÉM 🙏 GLÓRIAS A DEUS 🙏",
+    "l": 113
+   },
+   {
+    "t": "Glória a Deus! Estamos precisando de um avivamento.",
+    "l": 101
+   },
+   {
+    "t": "Eu estou contando os dias e me alegrei muito com essa palavra hoje",
+    "l": 90
+   },
+   {
+    "t": "Deus a cima de tudo 🙏🇧🇷22🇧🇷❤️",
+    "l": 63
+   },
+   {
+    "t": "Deus está no controle de tudo",
+    "l": 39
+   },
+   {
+    "t": "Deus está no controle do nosso país amém",
+    "l": 38
+   },
+   {
+    "t": "Toda honra toda glória ao Senhor Jesus Cristo amém 🙌",
+    "l": 37
+   },
+   {
+    "t": "glória Deus assim seja amém ❤",
+    "l": 27
+   },
+   {
+    "t": "O meu filho será Neminlhas, na frente desta nação em nome de Jesus❤❤❤",
+    "l": 20
+   }
+  ],
+  "analisado": "2026-10-22T21:43:39+00:00"
+ },
+ "b2URXjK7s6A": {
+  "id": "b2URXjK7s6A",
+  "titulo": "Deus não decepciona    #shorts #aparecidaborges #gospel #oração",
+  "canal": "Fala, Cida!",
+  "canal_id": "UCY71wWa4B_xYvR7vUk7IAtQ",
+  "inscritos": 5040,
+  "publicado": "2026-10-09T12:00:08Z",
+  "duracao": 132,
+  "views": 211282,
+  "likes": 17979,
+  "comentarios": 573,
+  "outlier": 27.8,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "oração poderosa",
+  "achado": "2026-10-22T21:42:35+00:00",
+  "gancho": {
+   "gancho_falado": "Eu nunca vi ninguém esperar em Deus pra ser decepcionado.",
+   "texto_tela": "EU NUNCA VI",
+   "visual_inicial": "Uma mulher de óculos segurando um microfone e falando com emoção em um púlpito enfeitado de flores.",
+   "tipo_gancho": "identificacao",
+   "formato": "talking head",
+   "emocao": "fé e esperança",
+   "retencao": "promessa adiada sobre a demora trazer um resultado maior e melhor",
+   "cta": "",
+   "por_que_funciona": "Usa uma afirmação forte e reconfortante logo no início, gerando conexão imediata com quem está passando por momentos de espera.",
+   "modelo_gancho": "Eu nunca vi ninguém [esperar / tentar] [situação] e se [resultado negativo].",
+   "variacoes": [
+    "Eu nunca vi ninguém investir em [nicho] e sair no prejuízo.",
+    "Eu nunca vi ninguém estudar [assunto] e reprovar na prova da vida.",
+    "Eu nunca vi ninguém cuidar de [área] e não ver resultados."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Espera prolongada por milagres e respostas (meses ou anos de angústia)",
+    "Filha internada na UTI com médicos dando o caso como sem resposta",
+    "Sensação de esgotamento diante das lutas",
+    "Anos de deserto e humilhação"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Receber o milagre e a promessa de Deus",
+    "Continuar firme na fé durante a espera"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Deus é fiel e cumpre todas as coisas",
+    "Palavra abençoada",
+    "O testemunho de que a espera em Deus tem resposta"
+   ],
+   "frases_exatas": [
+    "Deus não decepciona",
+    "Eu vivi a espera",
+    "Estou aguardando o meu milagre mas estou firme no Senhor",
+    "Esperei com paciência no SENHOR e Ele ouviu a minha oração",
+    "Estou a 9 anos esperando mas tenho certeza que vai chegar",
+    "Já estou esgotada mas Eis-me aqui",
+    "Estou esperando a 16 anos não é fácil, mas Jesus tem me sustentado",
+    "Deus não nos decepciona diante de nossa fé"
+   ],
+   "ideias_produto": [
+    "Devocional ou guia prático para manter a fé durante a espera prolongada",
+    "Imersão ou jornada de oração para quem está esgotado no deserto"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Eu vivi a espera 8 meses na UTI esperando minha filha, depois mas dois meses em outro hospital na restauração capital recife, humilhação os médicos dando o caso como sem resposta mas Deus foi a resposta foi a providência glória, Deus é fiel Deus é fiel ❤hj minha promessa tem 10 anos fes dia 3 deste ",
+    "l": 90
+   },
+   {
+    "t": "É desse jeito mesmo! Eu estou aguardando o meu milagre a 15 , mas estou firme no Senhor! Oh glória a Deus!🙌🏻🙏🏻",
+    "l": 19
+   },
+   {
+    "t": "Esperei com paciência no SENHOR e Ele ouviu a minha oração",
+    "l": 16
+   },
+   {
+    "t": "Eu creio jesus Cristo obrigado amém louvado seja Deus aleluia 🙏🙌🙏🙏",
+    "l": 9
+   },
+   {
+    "t": "Amém eu creio Deus maravilhoso justo é fiel Aleluia Amém ✨❤🕊️",
+    "l": 7
+   },
+   {
+    "t": "Amém eu creio tomo posse aleluia Deus seja louvado aleluia Deus vai fazer na minha vida eu creio aleluia",
+    "l": 5
+   },
+   {
+    "t": "OooooooGloooooriiiass Deus. Eu tomo posse destas palavra",
+    "l": 3
+   },
+   {
+    "t": "Deus é fiel para cumprir todas as coisas. Aleluia",
+    "l": 3
+   },
+   {
+    "t": "📖Eclesiastes 3:1📖 «Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.»",
+    "l": 2
+   },
+   {
+    "t": "Eu creio e tomo posse em nome de Jesus Cristo Gratidão Deus",
+    "l": 2
+   },
+   {
+    "t": "eu acredito,estou a 9 anos esperando ,mas tenho certeza que vai chegar porq Deus e fiel",
+    "l": 2
+   },
+   {
+    "t": "Verdade louvado seja Deus Amém eu creio recebo e tomo posse Amém",
+    "l": 2
+   }
+  ],
+  "analisado": "2026-10-22T21:43:13+00:00"
+ },
+ "UWJznqH2eqg": {
+  "id": "UWJznqH2eqg",
+  "titulo": "\"O Preço das Nossas Escolhas\"🌿 #espiritismo #allankardec#oração#chicoxavier#shorts#deusnocontrole",
+  "canal": "Seara de Luz 💛",
+  "canal_id": "UCSGcsXplYI1shSI6h4iDnMQ",
+  "inscritos": 11000,
+  "publicado": "2026-10-01T14:15:25Z",
+  "duracao": 174,
+  "views": 222629,
+  "likes": 10472,
+  "comentarios": 124,
+  "outlier": 7.4,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "oração poderosa",
+  "achado": "2026-10-22T21:42:35+00:00",
+  "gancho": {
+   "gancho_falado": "O Chico teve um sobrinho...",
+   "texto_tela": "O CHICO TEVE UM SOBRINHO",
+   "visual_inicial": "Uma mulher de cabelo escuro falando em uma tribuna, com microfone e letreiro centralizado 'Mayse Braga'",
+   "tipo_gancho": "historia",
+   "formato": "talking head",
+   "emocao": "curiosidade",
+   "retencao": "promessa adiada de como a história do sobrinho de Chico Xavier se resolve",
+   "cta": "",
+   "por_que_funciona": "Usa a autoridade e curiosidade em torno de uma figura histórica querida (Chico Xavier) logo na abertura, criando um gatilho de narrativa irresistível.",
+   "modelo_gancho": "O [Famoso/Personagem] teve um [parente/caso] que...",
+   "variacoes": [
+    "O Einstein teve um filho que...",
+    "O Ayrton Senna teve um amigo que...",
+    "O Steve Jobs teve um sócio que..."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "tenho um neto especial de 20 anos muito violento e teimoso, moramos só eu e ele aos 60 anos e com comorbidades",
+    "queria saber o que eu fui no passado pra merecer a vida que levo hoje",
+    "tenho vários erros e equívocos, o bem que faço é tão pouco e quase insignificante",
+    "tenho até medo da passagem",
+    "tem ensinamentos que ainda não entendo"
+   ],
+   "correcoes": [
+    "a questão não é pedir oração, é pedir na justiça que o pai e a mãe assumam a responsabilidade",
+    "faltou explicar o porquê Chico tinha que cuidar, qual a ligação dele no século 18 com este carrasco"
+   ],
+   "duvidas": [
+    "qual a ligação do Chico com este carrasco para ser ele a cuidar dele",
+    "foi este sobrinho que no seu desencarne disse obrigado ao Chico",
+    "o que somos nós?"
+   ],
+   "desejos": [
+    "reze por nós e pelo nosso Brasil para que a urna não seja alterada",
+    "quer saber mais sobre a vida reencarnatória e histórias profundas"
+   ],
+   "objecoes": [
+    "não sou espírita, mas reconheço o trabalho dele",
+    "no lugar dele eu recusaria, pois não tenho vocação de ser mãe"
+   ],
+   "elogios": [
+    "Chico foi puro amor de verdade e o maior brasileiro de todos os tempos",
+    "fico super calma ouvindo a Mayse contar histórias",
+    "esse homem foi um sinal de Deus na terra, um anjo de luz"
+   ],
+   "frases_exatas": [
+    "cada um de nós temos o que precisarmos para evolução da alma",
+    "as provas chegam para nós e nossa escolha é se as acolhemos ou não",
+    "o bem que faço é tão pouco e quase insignificante",
+    "o preço das nossas escolhas",
+    "quem ganha perde e quem perde ganha",
+    "a justiça de Deus é infinitamente grande",
+    "sempre com Deus no comando e controle de tudo em nossas vidas"
+   ],
+   "ideias_produto": [
+    "Guia prático sobre o Karma e as Leis Reencarnatórias explicado de forma simples",
+    "Curso ou mentoria sobre paciência, resiliência e o fardo dos cuidados familiares à luz da espiritualidade",
+    "Livro de reflexões diárias com histórias e ensinamentos de Chico Xavier para acalmar a alma"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Chico foi puro amor de verdade❤❤❤❤❤",
+    "l": 77
+   },
+   {
+    "t": "Não sou espírita, mas pela vida que Chico teve e por tudo que fez, ele foi o maior brasileiro de todos os tempos...um espírito altamente evoluído.Infelizmente não tive a graça de conhecê-lo.",
+    "l": 77
+   },
+   {
+    "t": "cada um de nós temos,o que precisarmos para evolução da alma ❤❤❤",
+    "l": 51
+   },
+   {
+    "t": "Meu Deus quanto amor! Esse homem foi um sinal de Deus na terra 🙏🙌",
+    "l": 47
+   },
+   {
+    "t": "Grande Chico , iluminado sempre🙏💖",
+    "l": 28
+   },
+   {
+    "t": "Nosso amado Chico exemplo de amor humanidade e humildade",
+    "l": 25
+   },
+   {
+    "t": "Pelo amor de Deus me ajudem🙏 tenho um neto especial de 20 anos e 1.85 de altura e mesmo tomando cerca de 15 comprimidos por dia agora está muito violento e teimoso😢 Já tenho 60 anos e muitas comorbidades de saúde...a mãe dele nunca cuidou do filho e moramos só eu e ele em João Pessoa.....rezem por m",
+    "l": 25
+   },
+   {
+    "t": "E ainda assim ganhou a graça de ser cuidado por esse ser tão iluminado que foi o CHICO.",
+    "l": 19
+   },
+   {
+    "t": "Sem palavras para descrever esse Anjo que foi Chico!!! ❤❤❤❤❤",
+    "l": 17
+   },
+   {
+    "t": "Uma noite abençoada a todos!",
+    "l": 17
+   },
+   {
+    "t": "Verdade quanto amor quanta luz Deus maravilhoso.🙏❤",
+    "l": 16
+   },
+   {
+    "t": "Meu Deus abençoado Senhor Francisco Xavier 🕯️🕊️❤️🙏",
+    "l": 14
+   }
+  ],
+  "analisado": "2026-10-22T21:44:00+00:00"
+ },
+ "FgQ5QlorLrI": {
+  "id": "FgQ5QlorLrI",
+  "titulo": "4 Palavras Para Dormir em Paz e Despertar Melhor 🙏 #shorts #oração #pazinterior",
+  "canal": "Ecos Ancestrais",
+  "canal_id": "UC0KcRxc56Z7sFMAHZkug8yw",
+  "inscritos": 5420,
+  "publicado": "2026-10-20T01:10:19Z",
+  "duracao": 127,
+  "views": 132165,
+  "likes": 10003,
+  "comentarios": 1742,
+  "outlier": 5.7,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "oração poderosa",
+  "achado": "2026-10-22T21:42:35+00:00",
+  "gancho": {
+   "gancho_falado": "nunca vá dormir sem dizer estas quatro coisas para Deus antes de fechar os olhos",
+   "texto_tela": "nunca vá dormir sem dizer estas quatro coisas para Deus antes de fechar os olhos",
+   "visual_inicial": "Homem idoso com vestes tradicionais sentado à sombra de uma árvore grande ao pôr do sol, olhando diretamente para a câmera.",
+   "tipo_gancho": "curiosidade",
+   "formato": "talking head",
+   "emocao": "serenidade",
+   "retencao": "promessa adiada no início afirmando que 'a última muda completamente a forma como você descansa', criando curiosidade para assistir até o final.",
+   "cta": "salve esse vídeo",
+   "por_que_funciona": "Combina uma restrição forte ('nunca vá...') com uma lista numerada e a promessa de uma revelação transformadora no final.",
+   "modelo_gancho": "Nunca vá [ação] sem [fazer X] antes de [momento chave], a última muda completamente [resultado]",
+   "variacoes": [
+    "Nunca saia de casa sem conferir estas três coisas, a última vai salvar seu dia.",
+    "Nunca comece a semana sem fazer estas quatro orações, a última muda tudo.",
+    "Nunca coma isso antes de dormir sem fazer esse ritual, o último evita insônia."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "medos, preocupações e dúvidas ao final do dia",
+    "necessidade de proteção para o lar e a família",
+    "situações difíceis e dias cansativos",
+    "busca por paz para conseguir dormir em paz"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "dormir tranquilo e acordar melhor no dia seguinte",
+    "ter os passos guiadose caminhos verdadeiros",
+    "fechar portas que não servem com leveza",
+    "entregar a vida e a família nas mãos de Deus"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "mensagem muito edificante para todo o ser humano",
+    "ajuda a descansar e soltar as cargas da noite",
+    "palavras sábias e iluminadas",
+    "ótima orientação para antes de dormir"
+   ],
+   "frases_exatas": [
+    "Esta noite eu solto, essa noite eu descanso",
+    "Amém gratidão proteção direção paz",
+    "Deus é meu tudo meu porto seguro",
+    "Eu creio e recebo a proteção e bênçãos de Deus",
+    "Senhor proteja meu sono e toda família",
+    "Meus passos sejam guiados e me dê paz"
+   ],
+   "ideias_produto": [
+    "E-book ou diário de orações noturnas para acalmar a mente antes de dormir",
+    "Áudios guiados de 4 minutos para relaxar, agradecer e encontrar paz na hora de deitar",
+    "Guia prático de reflexões e salmos para combater a insônia e a ansiedade noturna"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Se isso tocou você, comente: Amém!",
+    "l": 43
+   },
+   {
+    "t": "Amém  Gratidão  Proteção  Direção  Paz Está noite eu solto Essa noite eu descanso.",
+    "l": 8
+   },
+   {
+    "t": "Amén ❤amén",
+    "l": 8
+   },
+   {
+    "t": "Ámem gratidão por tudo os bens, em nome de Jesus.",
+    "l": 7
+   },
+   {
+    "t": "Amem.  Gratidao infinita meu DEUS por tudo QUE FAZ POR TUDOSSS NOSSS AMEM GRACAS A DEUSSS",
+    "l": 7
+   },
+   {
+    "t": "Obrigada pela reflexão em nome de Jesus Cristo gratidão sempre em nome de Jesus Cristo Ele é o Deus todo poderoso amém 🎉🎉🎉",
+    "l": 5
+   },
+   {
+    "t": "Amém 🙏🏼🙏🏼  Obrigada Jesus Cristo por mais um dia abençoado que termina amém 🙏🏼🙏🏼",
+    "l": 4
+   },
+   {
+    "t": "Amém ❤🙏🤍🙌🌈✨💫🙌☮️amém - Gratidão ( Alegrias, Lições recebidas , Bençãos invisíveis r) , Proteção( ( lar, família, seu corpo), Direção(passos guisados, fecha portas que não te serve🙏🙌☮️, abre bons caminho ) e Paz ( dúvidas, medos, preocupações, termina o dia em silêncio",
+    "l": 2
+   },
+   {
+    "t": "Nam     Amém, gratidão, obrigado pelas benção , proteção guarde é guiar meus caminhos, é me de paz obrigado pela atenção é benção a todos meus familiares amigos é bem querer obrigado. Eu creio e que celo em nome da Santíssima Trindade amém.",
+    "l": 1
+   },
+   {
+    "t": "Amém amém amém 🙏🙏🙏🙏 gratidao gratidao gratidao universo ❤❤❤❤❤❤",
+    "l": 1
+   },
+   {
+    "t": "Gratidão..proteção ..direção e paz pedir a Deus com fé Amém",
+    "l": 1
+   },
+   {
+    "t": "Amém,gratidão senhor Jesus pelo dia pela dia, senhor  proteja  meu sono e toda família, está noite eu descanso.",
+    "l": 1
+   }
+  ],
+  "analisado": "2026-10-22T21:44:10+00:00"
+ },
+ "nnrSBBSf6iw": {
+  "id": "nnrSBBSf6iw",
+  "titulo": "Deus vai mudar o seu cenário 🙏🏽 #oração #reflexão #louvores #gospel #shorts #bomdia #pregação",
+  "canal": "Movido Pela Fé | Louvor e Oração",
+  "canal_id": "UCcfaUxVRkQhOxmq9DOoYBuQ",
+  "inscritos": 28100,
+  "publicado": "2026-10-09T09:38:33Z",
+  "duracao": 75,
+  "views": 128463,
+  "likes": 14408,
+  "comentarios": 3345,
+  "outlier": 4.9,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "oração poderosa",
+  "achado": "2026-10-22T21:42:35+00:00",
+  "gancho": null,
+  "dores": null
+ },
+ "SsIJbhzX37U": {
+  "id": "SsIJbhzX37U",
+  "titulo": "O que deixa o homem louco pela mulher? #dhuanklescastro #relacionamento #shorts",
+  "canal": "Dhuankles Castro",
+  "canal_id": "UCoTs7FcFS1_i18e7PH3Aauw",
+  "inscritos": 304000,
+  "publicado": "2026-10-04T04:18:04Z",
+  "duracao": 149,
+  "views": 216112,
+  "likes": 10075,
+  "comentarios": 1518,
+  "outlier": 15.0,
+  "nichos": [
+   "relacionamento"
+  ],
+  "termo": "relacionamento dicas",
+  "achado": "2026-10-22T21:42:35+00:00",
+  "gancho": {
+   "gancho_falado": "Você sabe que a mulher que quer fazer falta pra um homem ela precisa fazer uma única coisa",
+   "texto_tela": "O QUE DEIXA O HOMEM LOUCO PELA MULHER?",
+   "visual_inicial": "Homem de barba, usando boné amarelo e camiseta amarela, sentado em um estúdio falando diretamente para a câmera.",
+   "tipo_gancho": "curiosidade",
+   "formato": "talking head",
+   "emocao": "intrigado",
+   "retencao": "Promessa de revelar o 'ponto fraco' e o segredo para ser valorizada.",
+   "cta": "",
+   "por_que_funciona": "Desperta a curiosidade imediata ao prometer um segredo psicológico sobre como enlouquecer um homem e fazê-lo temer perdê-la.",
+   "modelo_gancho": "Você sabe que para [fazer X] você precisa fazer apenas [uma coisa]?",
+   "variacoes": [
+    "Você sabe que o homem que quer fazer falta para uma mulher precisa fazer uma única coisa?",
+    "Você sabe que para fazer um cliente comprar de você ele precisa sentir uma única coisa?",
+    "Você sabe que para passar em primeiro lugar você precisa dominar uma única coisa?"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "perdi 28 anos jogados no lixo num relacionamento ruim",
+    "priorizava tudo menos eu e cuidava dele",
+    "saudade de mim mesma tbm",
+    "depois de muita decepção eu comecei a entender"
+   ],
+   "correcoes": [
+    "o homem que te quer ele vai ficar com você de qualquer jeito, não existe fórmula pra aproximar homem",
+    "se vc precisar fazer algo para a pessoa te enxergar já começou errado"
+   ],
+   "duvidas": [],
+   "desejos": [
+    "quero o livro",
+    "quero ganhar esse livro, por favor"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "adoro qdo você fala Zé ruela",
+    "impressionante cada palavra, é exatamente isso",
+    "fui embora e agora cuido de mim",
+    "meu casamento mudou depois que aprendi a me priorizar",
+    "falou tudo, eu em primeiro lugar"
+   ],
+   "frases_exatas": [
+    "A pior coisa do mundo é ter um relacionamento",
+    "Melhor coisa é ter dinheiro, saúde e ser livre",
+    "O homem que te quer ele vai ficar com você de qualquer jeito",
+    "Se vc precisar fazer algo para a pessoa te enxergar já começou errado",
+    "Saudade é o que vai matar de agora em diante",
+    "Eu em primeiro lugar",
+    "Temos q viver pra nós mesma",
+    "Oxi espere sentado nunca vou atrás"
+   ],
+   "ideias_produto": [
+    "Livro físico ou digital sobre amor próprio e independência emocional",
+    "Guia prático para reconquistar a própria identidade após um casamento frustrado"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Foi o que eu fiz, fui embora e agora cuido de mim",
+    "l": 53
+   },
+   {
+    "t": "Adoro qdo você fala Zé ruela kkkkkkk só falou a verdade",
+    "l": 34
+   },
+   {
+    "t": "Eu comecei a entender isso depois de muita decepção.",
+    "l": 28
+   },
+   {
+    "t": "eu entendi aos 45 anos que a pior coisa do mundo é ter um relacionamento, infelizmente eu disperdicei 28 anos jogados no lixo aff e nao volta melhor coisa é ter dinheiro, saude e  ser livre",
+    "l": 18
+   },
+   {
+    "t": "Eu já me encontro numa mudança rápida e profunda.. Verdade!!!",
+    "l": 14
+   },
+   {
+    "t": "Meninas sempre disse isso e sempre vou repetir. O homem que te quer ele vai ficar com você  de qualquer jeito. Mesmo se você não jogar com ele, mesmo que você transar no primeiro dia e afins... Não existe fórmula pra aproximar homem isso e tudo balela. O homem escolhe a mulher que ele vai ter pra vi",
+    "l": 14
+   },
+   {
+    "t": "Nunca dancei  nunca fui atrás eu sou capaz  de viver comigo mesmo graças a Deus",
+    "l": 13
+   },
+   {
+    "t": "Impressionante cada palavra, é exatamente isso. Amei esse vídeo é incrível 👏",
+    "l": 11
+   },
+   {
+    "t": "Saudade é o que o vai matar de agora em diante! 😂",
+    "l": 8
+   },
+   {
+    "t": "Hoje eu mudei priorizo a minha vida i minha paz eu estava no relacionamento ele priorizava tudo de menos eu que cuidava dele ❤",
+    "l": 6
+   },
+   {
+    "t": "Se vc precisar fazer algo para a pessoa te enchergar já começou errado",
+    "l": 5
+   },
+   {
+    "t": "Amor próprio é tudo de bom ❤",
+    "l": 4
+   }
+  ],
+  "analisado": "2026-10-22T21:43:31+00:00"
  }
 }
