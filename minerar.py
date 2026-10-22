@@ -101,7 +101,8 @@ def minerar(nichos, videos, estado, canais_cache):
         if not ids:
             continue
         det = yt("videos", part="snippet,statistics,contentDetails", id=",".join(ids))
-        itens = [v for v in det.get("items", []) if duracao_seg(v["contentDetails"]["duration"]) <= 180]
+        itens = [v for v in det.get("items", [])
+                 if duracao_seg(v["contentDetails"]["duration"]) <= 180 and relevante(v, termo)]
         faltam = list({v["snippet"]["channelId"] for v in itens} - set(canais_cache))
         for k in range(0, len(faltam), 50):
             for c in yt("channels", part="statistics,snippet", id=",".join(faltam[k:k + 50])).get("items", []):
@@ -139,15 +140,34 @@ def minerar(nichos, videos, estado, canais_cache):
     print(f"mineração: {novos} vídeos virais novos (total {len(videos)})")
 
 
+PALAVRAS_FRACAS = {"para", "como", "com", "sem", "dicas", "dica", "fácil", "rápido", "casa", "que", "você"}
+
+
+def relevante(v, termo):
+    sn = v["snippet"]
+    lang = (sn.get("defaultAudioLanguage") or sn.get("defaultLanguage") or "").lower()
+    if lang and not lang.startswith("pt"):
+        return False
+    texto = " ".join([sn.get("title", ""), sn.get("description", ""), " ".join(sn.get("tags", []))]).lower()
+    chaves = [p for p in termo.lower().split() if len(p) > 3 and p not in PALAVRAS_FRACAS] or termo.lower().split()
+    return any(p[:max(4, len(p) - 3)] in texto for p in chaves)  # radical: tolera plural/gênero
+
+
 def pontuar(v):
     return min(v["outlier"], 50) * math.log10(max(v["views"], 10))
 
 
 # ---------------------------------------------------------------- análise
+ESGOTADO = set()
+
+
 def gemini(modelo, partes):
     # tenta o modelo pedido; se estiver sobrecarregado ou o JSON vier quebrado, tenta de novo / cai pro reserva
+    global ESGOTADO
     ultimo = None
     for m in [modelo, modelo, MODELO_RESERVA]:
+        if m in ESGOTADO:
+            continue
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent"
         try:
             r = http_json(url, cabecalhos={"x-goog-api-key": GEM}, tentativas=2, corpo={
@@ -158,7 +178,8 @@ def gemini(modelo, partes):
         except (RuntimeError, json.JSONDecodeError, KeyError) as e:
             ultimo = e
             if "429" in str(e):
-                raise
+                ESGOTADO.add(m)  # cota do dia acabou nesse modelo: segue com o reserva
+                continue
             time.sleep(5)
     raise ultimo
 
@@ -241,7 +262,7 @@ def analisar(videos, nichos):
             print(f"  ok {v['id']} {v['outlier']}x {v['titulo'][:50]}")
         except Exception as e:  # cota/erro: tenta na próxima rodada
             print("  análise falhou:", v["id"], str(e)[:200])
-            if "429" in str(e) or "quota" in str(e).lower():
+            if MODELO_RESERVA in ESGOTADO:
                 break
         time.sleep(4)
     print(f"análise: {feitos} vídeos")
