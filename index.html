@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Minerador Orgânico</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b0b0c;--card:#141416;--line:#26262a;--tx:#ececec;--mut:#8d8d95;--ouro:#c9a24a;--ouro2:#e6c77a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.5 Inter,system-ui,sans-serif}
+header{padding:22px 16px 0;max-width:1200px;margin:auto}
+h1{font:600 26px "Playfair Display",serif;margin:0;color:var(--ouro2)}
+.sub{color:var(--mut);font-size:13px;margin-top:4px}
+nav{display:flex;gap:6px;margin:18px 0 0;border-bottom:1px solid var(--line);overflow-x:auto}
+nav button{background:none;border:0;color:var(--mut);padding:10px 14px;font:500 14px Inter;cursor:pointer;border-bottom:2px solid transparent;white-space:nowrap}
+nav button.on{color:var(--ouro2);border-color:var(--ouro)}
+main{max-width:1200px;margin:auto;padding:16px}
+.filtros{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+select,input{background:var(--card);color:var(--tx);border:1px solid var(--line);border-radius:8px;padding:8px 10px;font:14px Inter;min-width:0}
+input{flex:1 1 200px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.card .top{display:flex;gap:12px;padding:12px}
+.thumb{width:84px;height:120px;flex:none;border-radius:8px;background:#222 center/cover;position:relative}
+.thumb b{position:absolute;bottom:4px;left:4px;background:#000c;color:var(--ouro2);font-size:11px;padding:1px 5px;border-radius:4px}
+.t{font-weight:600;font-size:13px;line-height:1.35}
+.meta{color:var(--mut);font-size:12px;margin-top:4px}
+.tag{display:inline-block;font-size:11px;padding:2px 7px;border-radius:99px;border:1px solid #3a3320;color:var(--ouro2);margin:4px 4px 0 0}
+.gancho{padding:0 12px 12px}
+.gancho .q{border-left:2px solid var(--ouro);padding:6px 10px;background:#1a1812;border-radius:0 8px 8px 0;font-size:14px}
+.lbl{color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.06em;margin:10px 0 3px}
+details{border-top:1px solid var(--line);padding:10px 12px}
+summary{cursor:pointer;color:var(--ouro2);font-size:13px}
+ul{margin:4px 0;padding-left:18px}li{margin:2px 0}
+.nicho{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:16px}
+.nicho h2{margin:0 0 4px;font:600 20px "Playfair Display",serif;color:var(--ouro2)}
+.cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin-top:12px}
+.col{background:#101012;border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.col h3{margin:0 0 6px;font-size:13px;color:var(--ouro2)}
+.rk{display:flex;gap:8px;margin:6px 0}.rk .n{color:var(--ouro);font-weight:700;min-width:22px}
+.ex{color:var(--mut);font-size:12px;font-style:italic}
+.bar{height:6px;background:var(--ouro);border-radius:3px}
+.vazio{color:var(--mut);padding:40px;text-align:center}
+a{color:var(--ouro2)}
+</style>
+</head>
+<body>
+<header>
+  <h1>Minerador Orgânico</h1>
+  <div class="sub" id="status">carregando…</div>
+  <nav>
+    <button data-aba="ganchos" class="on">Ganchos virais</button>
+    <button data-aba="dores">Dores e correções</button>
+    <button data-aba="padroes">Padrões de gancho</button>
+  </nav>
+</header>
+<main id="app"></main>
+<script>
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const k=n=>n>=1e6?(n/1e6).toFixed(1)+'M':n>=1e3?Math.round(n/1e3)+'k':n;
+const lista=(t,a)=>a&&a.length?`<div class="lbl">${t}</div><ul>${a.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:'';
+let V=[],C={nichos:{}},aba='ganchos',f={nicho:'',tipo:'',q:'',ord:'score'};
+const score=v=>Math.min(v.outlier,50)*Math.log10(Math.max(v.views,10));
+
+Promise.all([fetch('data/videos.json?'+Date.now()).then(r=>r.json()),fetch('data/cerebro.json?'+Date.now()).then(r=>r.json())])
+.then(([v,c])=>{V=Object.values(v);C=c.nichos?c:{nichos:{}};
+  const an=V.filter(x=>x.gancho).length;
+  document.getElementById('status').textContent=`${V.length} vídeos virais minerados · ${an} analisados · ${Object.keys(C.nichos).length} nichos no cérebro${c.gerado?' · atualizado '+new Date(c.gerado).toLocaleString('pt-BR'):''}`;
+  render()});
+
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelector('nav .on').classList.remove('on');b.classList.add('on');aba=b.dataset.aba;render()});
+
+function nichosOpts(){const s=new Set(V.flatMap(v=>v.nichos));return [...s].sort().map(n=>`<option value="${n}" ${f.nicho==n?'selected':''}>${esc(C.nichos[n]?.nome||n)}</option>`).join('')}
+
+function render(){const app=document.getElementById('app');
+ if(aba=='ganchos'){
+  const tipos=[...new Set(V.map(v=>v.gancho?.tipo_gancho).filter(Boolean))].sort();
+  let L=V.filter(v=>v.gancho&&(!f.nicho||v.nichos.includes(f.nicho))&&(!f.tipo||v.gancho.tipo_gancho==f.tipo)&&(!f.q||JSON.stringify([v.titulo,v.gancho]).toLowerCase().includes(f.q.toLowerCase())));
+  L.sort((a,b)=>f.ord=='views'?b.views-a.views:f.ord=='novo'?b.achado.localeCompare(a.achado):score(b)-score(a));
+  app.innerHTML=`<div class="filtros">
+   <select id="fn"><option value="">Todos os nichos</option>${nichosOpts()}</select>
+   <select id="ft"><option value="">Todos os tipos de gancho</option>${tipos.map(t=>`<option ${f.tipo==t?'selected':''}>${t}</option>`).join('')}</select>
+   <select id="fo"><option value="score">Mais virais (outlier)</option><option value="views" ${f.ord=='views'?'selected':''}>Mais views</option><option value="novo" ${f.ord=='novo'?'selected':''}>Mais recentes</option></select>
+   <input id="fq" placeholder="Buscar…" value="${esc(f.q)}"></div>
+   <div class="grid">${L.slice(0,300).map(card).join('')||'<div class="vazio">Nada ainda — o robô roda a cada 2 horas.</div>'}</div>`;
+  fn.onchange=e=>{f.nicho=e.target.value;render()};ft.onchange=e=>{f.tipo=e.target.value;render()};fo.onchange=e=>{f.ord=e.target.value;render()};
+  fq.oninput=e=>{f.q=e.target.value;clearTimeout(window._t);window._t=setTimeout(()=>{render();const i=document.getElementById('fq');i.focus();i.setSelectionRange(99,99)},300)};
+ }else if(aba=='dores'){
+  const ns=Object.entries(C.nichos).filter(([,n])=>n.dores);
+  app.innerHTML=ns.length?ns.sort((a,b)=>b[1].videos-a[1].videos).map(([key,n])=>`<div class="nicho"><h2>${esc(n.nome)}</h2>
+   <div class="meta">${n.videos} vídeos virais analisados</div>${n.resumo?`<p>${esc(n.resumo)}</p>`:''}
+   <div class="cols">${[['dores','Dores'],['correcoes','Correções (público discordando)'],['objecoes','Objeções'],['desejos','Desejos'],['duvidas','Dúvidas'],['ideias_produto','Ideias de produto']].map(([c,t])=>rank(t,n[c])).join('')}
+   ${n.angulos?.length?`<div class="col"><h3>Ângulos sugeridos</h3><ul>${n.angulos.map(a=>`<li>${esc(a)}</li>`).join('')}</ul></div>`:''}</div></div>`).join('')
+   :'<div class="vazio">O cérebro é consolidado 1x por dia (20h43 de Brasília).</div>';
+ }else{
+  const ns=Object.entries(C.nichos);
+  const geral=C.tipos_gancho_geral||[];const mx=geral[0]?.[1]||1;
+  app.innerHTML=(geral.length?`<div class="nicho"><h2>Tipos de gancho que mais viralizam (geral)</h2>${geral.map(([t,q])=>`<div class="rk"><span style="min-width:150px">${esc(t)}</span><div style="flex:1"><div class="bar" style="width:${q/mx*100}%"></div></div><span class="n">${q}</span></div>`).join('')}</div>`:'')+
+   ns.map(([key,n])=>`<div class="nicho"><h2>${esc(n.nome)}</h2><div class="meta">${n.tipos_gancho.map(([t,q])=>`${esc(t)} ${q}`).join(' · ')}</div>
+   <div class="lbl">Melhores chamadas de entrada</div>${n.melhores_ganchos.map(g=>`<div class="rk"><span class="n">${g.outlier}x</span><div>${esc(g.gancho||g.titulo)}<div class="ex">modelo: ${esc(g.modelo)} · ${k(g.views)} views · <a href="https://youtube.com/shorts/${g.id}" target="_blank">ver</a></div></div></div>`).join('')}</div>`).join('')
+   ||'<div class="vazio">Aguardando a primeira consolidação.</div>';
+ }}
+
+function rank(t,a){if(!a?.length)return '';return `<div class="col"><h3>${t}</h3>${a.map((x,i)=>`<div class="rk"><span class="n">${i+1}</span><div>${esc(x.tema||x)}${x.qtd?` <span class="ex">(${x.qtd} vídeos)</span>`:''}${x.exemplo?`<div class="ex">"${esc(x.exemplo)}"</div>`:''}</div></div>`).join('')}</div>`}
+
+function card(v){const g=v.gancho,d=v.dores||{};
+ return `<div class="card"><div class="top">
+  <a class="thumb" href="https://youtube.com/shorts/${v.id}" target="_blank" style="background-image:url(https://i.ytimg.com/vi/${v.id}/hqdefault.jpg)"><b>${v.outlier}x</b></a>
+  <div><div class="t">${esc(v.titulo)}</div><div class="meta">${esc(v.canal)} · ${k(v.views)} views · ${k(v.comentarios)} coment.</div>
+  <span class="tag">${esc(g.tipo_gancho)}</span><span class="tag">${esc(C.nichos[v.nichos[0]]?.nome||v.nichos[0])}</span></div></div>
+  <div class="gancho"><div class="q">${esc(g.gancho_falado||g.texto_tela||g.visual_inicial)}</div>
+  ${g.texto_tela&&g.gancho_falado?`<div class="ex" style="margin-top:4px">tela: ${esc(g.texto_tela)}</div>`:''}
+  <div class="lbl">Por que funciona</div>${esc(g.por_que_funciona)}
+  <div class="lbl">Modelo</div>${esc(g.modelo_gancho)}</div>
+  <details><summary>Variações, formato e retenção</summary>${lista('Variações',g.variacoes)}
+   <div class="lbl">Formato</div>${esc(g.formato)} · ${esc(g.emocao)}<div class="lbl">Retenção</div>${esc(g.retencao)}${g.cta?`<div class="lbl">CTA</div>${esc(g.cta)}`:''}</details>
+  ${Object.keys(d).length?`<details><summary>O que os comentários revelam</summary>${lista('Dores',d.dores)}${lista('Correções',d.correcoes)}${lista('Objeções',d.objecoes)}${lista('Desejos',d.desejos)}${lista('Dúvidas',d.duvidas)}${lista('Frases exatas',d.frases_exatas)}${lista('Ideias de produto',d.ideias_produto)}</details>`:''}
+ </div>`}
+</script>
+</body>
+</html>

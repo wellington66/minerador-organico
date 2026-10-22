@@ -1,0 +1,19 @@
+{
+  "receitas-fit": {"nome": "Receitas fit / emagrecimento", "termos": ["receita fit", "marmita fitness", "receita para emagrecer", "lanche saudável", "receita sem açúcar", "café da manhã saudável"]},
+  "receitas-gerais": {"nome": "Receitas e air fryer", "termos": ["receita air fryer", "receita fácil e rápida", "receita barata", "sobremesa fácil", "receita de pão caseiro", "almoço rápido"]},
+  "maternidade": {"nome": "Maternidade / bebê", "termos": ["introdução alimentar", "papinha de bebê", "dicas para mães", "sono do bebê", "maternidade real", "bebê não come"]},
+  "treino": {"nome": "Treino / academia", "termos": ["treino em casa", "treino para perder barriga", "exercício para glúteo", "treino de academia iniciante", "ganhar massa muscular", "hipertrofia dicas"]},
+  "pilates-yoga": {"nome": "Pilates / yoga / alongamento", "termos": ["pilates em casa", "pilates na parede", "yoga para iniciantes", "alongamento para dor nas costas", "exercício para postura"]},
+  "saude": {"nome": "Saúde / nutrição / diabetes", "termos": ["diabetes alimentação", "glicose alta o que comer", "dica de nutricionista", "intestino preso", "como desinchar", "chá para emagrecer"]},
+  "espiritualidade": {"nome": "Espiritualidade / oração", "termos": ["oração poderosa", "salmo do dia", "mensagem de deus", "oração para prosperidade", "lei da atração", "manifestação"]},
+  "relacionamento": {"nome": "Relacionamento", "termos": ["relacionamento dicas", "como reconquistar", "sinais que ele gosta de você", "casamento dicas", "autoestima feminina"]},
+  "renda-extra": {"nome": "Renda extra / marketing digital", "termos": ["renda extra", "como ganhar dinheiro na internet", "marketing digital iniciante", "afiliado hotmart", "vender no tiktok shop", "dropshipping"]},
+  "ia-tecnologia": {"nome": "IA / tecnologia", "termos": ["inteligência artificial dicas", "chatgpt truques", "ferramenta de ia", "ganhar dinheiro com ia", "dica de celular"]},
+  "financas": {"nome": "Finanças pessoais", "termos": ["como economizar dinheiro", "sair das dívidas", "investimento para iniciantes", "educação financeira"]},
+  "beleza": {"nome": "Beleza / skincare / cabelo", "termos": ["skincare barato", "rotina de skincare", "cabelo crescer rápido", "maquiagem fácil", "receita caseira para o cabelo"]},
+  "desenvolvimento": {"nome": "Desenvolvimento pessoal / produtividade", "termos": ["motivação", "disciplina", "produtividade dicas", "hábitos que mudaram minha vida", "ansiedade dicas"]},
+  "casa": {"nome": "Casa / limpeza / organização", "termos": ["dica de limpeza", "organização da casa", "truque caseiro", "decoração barata"]},
+  "pets": {"nome": "Pets", "termos": ["dica para cachorro", "adestramento de cachorro", "gato dicas", "comida natural para cachorro"]},
+  "idiomas-estudo": {"nome": "Idiomas / estudos / concursos", "termos": ["aprender inglês", "inglês fácil", "dica de estudo", "concurso público dicas"]},
+  "artesanato": {"nome": "Artesanato / renda em casa", "termos": ["artesanato para vender", "crochê iniciante", "confeitaria para vender", "doces para vender"]}
+}
