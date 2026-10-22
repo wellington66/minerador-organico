@@ -10,8 +10,8 @@ from datetime import datetime, timedelta, timezone
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 DADOS = os.path.join(RAIZ, "data")
-YT = os.environ.get("YOUTUBE_API_KEY", "")
-GEM = os.environ.get("GEMINI_API_KEY", "")
+YT = os.environ.get("YOUTUBE_API_KEY", "").strip()
+GEM = os.environ.get("GEMINI_API_KEY", "").strip()
 BUSCAS = int(os.environ.get("BUSCAS_POR_RODADA", "6"))
 MAX_ANALISES = int(os.environ.get("MAX_ANALISES", "8"))
 MIN_VIEWS = int(os.environ.get("MIN_VIEWS", "100000"))
