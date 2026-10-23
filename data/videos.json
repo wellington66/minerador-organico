@@ -139,10 +139,10 @@
   "inscritos": 43300,
   "publicado": "2026-10-16T14:00:22Z",
   "duracao": 67,
-  "views": 532171,
-  "likes": 8286,
-  "comentarios": 76,
-  "outlier": 21.0,
+  "views": 592304,
+  "likes": 8841,
+  "comentarios": 79,
+  "outlier": 23.4,
   "nichos": [
    "receitas-gerais"
   ],
@@ -900,8 +900,108 @@
   ],
   "termo": "pilates em casa",
   "achado": "2026-10-22T17:08:39+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Ao invés de caminhar 1h faça esses exercícios de pilates metabólico",
+   "texto_tela": "Ao invés de caminhar 1h faça esses exercícios de pilates metabólico",
+   "visual_inicial": "Mulher em pé fazendo movimento dinâmico com os braços e pernas em um ambiente claro.",
+   "tipo_gancho": "pare-de",
+   "formato": "talking head",
+   "emocao": "urgência",
+   "retencao": "Promessa de emagrecimento rápido e específico para a idade (após 50 anos) com exercícios alternativos.",
+   "cta": "",
+   "por_que_funciona": "Desafia um hábito comum (caminhar 1h) oferecendo uma alternativa mais eficiente e direcionada a um público específico.",
+   "modelo_gancho": "Ao invés de [hábito demorado] faça [solução rápida/alternativa]",
+   "variacoes": [
+    "Ao invés de passar 1h na esteira faça esses exercícios de yoga para queimar gordura",
+    "Ao invés de fazer dieta restritiva coma esses alimentos para acelerar o metabolismo",
+    "Ao invés de gastar horas na academia faça esse treino em casa"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "estou precisando",
+    "estou precisando fazer"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Eu quero",
+    "Eu quero a aula completa",
+    "estou tendo outro estilo de vida muito bom"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "É muito boa essas aulas",
+    "Amo essa prô faço suas aulas de segunda a sexta",
+    "muito legal os exercícios!",
+    "É bom, estou precisando obrigada linda"
+   ],
+   "frases_exatas": [
+    "Eu quero",
+    "Estou precisando fazer",
+    "Eu quero a aula completa",
+    "Estou tendo outro estilo de vida muito bom",
+    "É muito boa essas aulas",
+    "Amo essa prô faço suas aulas de segunda a sexta",
+    "Eu quero e preciso muito",
+    "muito legal os exercícios!"
+   ],
+   "ideias_produto": [
+    "Programa de aulas completas de pilates metabólico para mulheres após os 50 anos",
+    "Assinatura mensal de aulas de pilates de segunda a sexta"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Eu quero",
+    "l": 1
+   },
+   {
+    "t": "Gratidão por me insinar Deus abençoe grandemente você",
+    "l": 1
+   },
+   {
+    "t": "Eu quero .",
+    "l": 1
+   },
+   {
+    "t": "Eu quero",
+    "l": 1
+   },
+   {
+    "t": "Eu quero!",
+    "l": 1
+   },
+   {
+    "t": "Eu quero",
+    "l": 1
+   },
+   {
+    "t": "Eu quero",
+    "l": 1
+   },
+   {
+    "t": "Eu quero",
+    "l": 1
+   },
+   {
+    "t": "É muito boa essas aulas ❤",
+    "l": 0
+   },
+   {
+    "t": "Amo essa prô faço suas aulas de segunda a sexta e estou tendo outro estilo de vida muito bom obrigado prô Lais",
+    "l": 0
+   },
+   {
+    "t": "EU QUERO ❤❤❤❤",
+    "l": 0
+   },
+   {
+    "t": "Eu querooooo..",
+    "l": 0
+   }
+  ],
+  "analisado": "2026-10-23T18:39:37+00:00"
  },
  "aQ0DIrYL-Lc": {
   "id": "aQ0DIrYL-Lc",
@@ -3676,10 +3776,10 @@
   "inscritos": 22500,
   "publicado": "2026-10-13T21:46:52Z",
   "duracao": 48,
-  "views": 272166,
-  "likes": 6055,
-  "comentarios": 40,
-  "outlier": 9.5,
+  "views": 274593,
+  "likes": 6124,
+  "comentarios": 42,
+  "outlier": 9.6,
   "nichos": [
    "receitas-gerais"
   ],
@@ -4062,5 +4162,792 @@
    }
   ],
   "analisado": "2026-10-23T13:42:44+00:00"
+ },
+ "oYDsS69KzsM": {
+  "id": "oYDsS69KzsM",
+  "titulo": "A Poli pediu ajuda à Fran para a organização da casa alugada por Zé Felipe em Goiânia #shorts",
+  "canal": "Diário Virgínia e Família ",
+  "canal_id": "UCEXVCmop7PET1abYkDHZEDw",
+  "inscritos": 89300,
+  "publicado": "2026-10-18T12:57:43Z",
+  "duracao": 27,
+  "views": 124195,
+  "likes": 2500,
+  "comentarios": 13,
+  "outlier": 6.0,
+  "nichos": [
+   "casa"
+  ],
+  "termo": "organização da casa",
+  "achado": "2026-10-23T18:26:09+00:00",
+  "gancho": {
+   "gancho_falado": "Gente, eu acho que até o final do ano eu tô pneu, por quê?",
+   "texto_tela": "A Poli pediu ajuda à Fran para a organização da casa alugada por Zé Felipe em Goiânia",
+   "visual_inicial": "POV andando pelo chão de mármore com calça estampada e chinelo de dedo",
+   "tipo_gancho": "curiosidade",
+   "formato": "POV",
+   "emocao": "surpresa",
+   "retencao": "promessa adiada de mostrar os bastidores da organização da casa alugada por uma celebridade",
+   "cta": "",
+   "por_que_funciona": "Combina o gancho de curiosidade com a citação de um famoso (Zé Felipe), gerando identificação imediata com a rotina caótica de mudança.",
+   "modelo_gancho": "Gente, eu acho que até o final do ano eu tô [estado de exaustão], por quê? O [famoso/pessoa] acabou de [acontecimento impactante]!",
+   "variacoes": [
+    "Gente, eu acho que até o final do ano eu tô sem ar, por quê? A Virgínia acabou de comprar mais uma mansão!",
+    "Gente, eu acho que até o final do ano eu tô estressada, por quê? A cliente acabou de fechar uma mudança de última hora!",
+    "Gente, eu acho que até o final do ano eu tô rica, por quê? O Lucas acabou de me contratar pra organizar a casa toda!"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Zé Felipe troca de casa como se troca de roupa",
+    "Alugar pra que? jogar dinheiro fora"
+   ],
+   "correcoes": [
+    "Ele tinha que ter comprado e não ter levado",
+    "Saiu do trabalho e foi trabalhar novamente enquanto a dondoca filma"
+   ],
+   "duvidas": [
+    "Isso é normal?",
+    "Espero ao menos que tá recebendo hora extra"
+   ],
+   "desejos": [],
+   "objecoes": [
+    "Esse povo adora bajular rico né",
+    "Olha que dinheiro acaba"
+   ],
+   "elogios": [
+    "Você é uma mãe maravilhosa, é fran também é maravilhosa",
+    "Fran é maravilhosa",
+    "Nosso Zé Felipe é maravilhoso demais"
+   ],
+   "frases_exatas": [
+    "Você é uma mãe maravilhosa",
+    "Esse povo adora bajular rico",
+    "Zé Felipe troca de casa como se troca de roupa",
+    "Isso é normal?",
+    "Alugar pra que? jogar dinheiro fora",
+    "Olha que dinheiro acaba"
+   ],
+   "ideias_produto": []
+  },
+  "top_comentarios": [
+   {
+    "t": "Você é uma mãe maravilhosa, é fran também é maravilhosa 👏 ❤️❤️❤️",
+    "l": 10
+   },
+   {
+    "t": "Esse povo adora bajular rico né. Espero ao menos que tá recebendo hora extra.",
+    "l": 5
+   },
+   {
+    "t": "Nosso Zé Felipe é maravilhoso ❤️ demais",
+    "l": 4
+   },
+   {
+    "t": "Ele tinha que ter comprado e não ter levado!!",
+    "l": 4
+   },
+   {
+    "t": "Zé Felipe troca de casa como se troca de roupa… Isso é normal???   Não começo ninguém que é assim parece uma pessoa tão resolvida de cabeça…",
+    "l": 4
+   },
+   {
+    "t": "Fran é maravilhosa 😊❤😂",
+    "l": 3
+   },
+   {
+    "t": "Achei que tinha comprado",
+    "l": 2
+   },
+   {
+    "t": "❤❤",
+    "l": 2
+   },
+   {
+    "t": "❤",
+    "l": 2
+   },
+   {
+    "t": "Família maravilhosa! Fran muito amorosa ❤❤",
+    "l": 1
+   },
+   {
+    "t": "❤❤❤❤😍😍😍😍",
+    "l": 1
+   },
+   {
+    "t": "Alugar pra que? jogar dinheiro fora.olha qye dinheiro acaba.",
+    "l": 0
+   }
+  ],
+  "analisado": "2026-10-23T18:39:12+00:00"
+ },
+ "sSZaGF8BpNA": {
+  "id": "sSZaGF8BpNA",
+  "titulo": "O acabamento que parece difícil, mas qualquer iniciante consegue fazer! #shorts",
+  "canal": "CrochêDeElite",
+  "canal_id": "UCAAILEJNBoHLKqiF1i8HbRg",
+  "inscritos": 41400,
+  "publicado": "2026-10-01T11:00:23Z",
+  "duracao": 170,
+  "views": 159252,
+  "likes": 8270,
+  "comentarios": 180,
+  "outlier": 5.0,
+  "nichos": [
+   "artesanato"
+  ],
+  "termo": "crochê iniciante",
+  "achado": "2026-10-23T18:26:11+00:00",
+  "gancho": {
+   "gancho_falado": "Parece um acabamento super difícil, mas eu te garanto, até quem está começando no crochê consegue fazer!",
+   "texto_tela": "Acabamento caracol",
+   "visual_inicial": "Close em mãos fazendo crochê com acabamento em formato de caracol vermelho.",
+   "tipo_gancho": "identificacao",
+   "formato": "mãos fazendo",
+   "emocao": "curiosidade",
+   "retencao": "Promessa de ensinar um acabamento difícil de forma simples para iniciantes.",
+   "cta": "E já aproveita para conferir o kit de materiais completo que deixei na descrição.",
+   "por_que_funciona": "Confronta uma crença limitante do espectador (parece difícil) e oferece uma solução imediata e acessível (até iniciantes conseguem).",
+   "modelo_gancho": "Parece um [NOME DA TÉCNICA/PRODUTO] super difícil, mas até quem está começando em [NICHO] consegue fazer!",
+   "variacoes": [
+    "Parece um corte de cabelo super difícil, mas até quem está começando na barbearia consegue fazer!",
+    "Parece uma confeitaria super difícil, mas até quem está começando na cozinha consegue fazer!",
+    "Parece uma maquiagem super difícil, mas até quem está começando a se maquiar consegue fazer!"
+   ]
+  },
+  "dores": {
+   "dores": [],
+   "correcoes": [
+    "Queda bonito pero tiene su técnica gracias por compartir"
+   ],
+   "duvidas": [],
+   "desejos": [
+    "vou tentar fazer",
+    "vou usar",
+    "Me mande sempre amei"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Muito m lindo e delicado",
+    "A sua explicação é muito boa, conseguir entender direitinho como faz!",
+    "Facílimo e com um efeito de luxo",
+    "Amein, super fácil e delicado",
+    "ainda não tinho visto esse acabamento"
+   ],
+   "frases_exatas": [
+    "O acabamento que parece difícil, mas qualquer iniciante consegue fazer!",
+    "Facílimo e com um efeito de luxo!",
+    "A sua explicação é muito boa, conseguir entender direitinho!",
+    "Amei, super fácil e delicado.",
+    "Fica lindo demais parabéns.",
+    "Vivendo e aprendendo.",
+    "Amei e fiz é muito fácil muito lindo"
+   ],
+   "ideias_produto": [
+    "Curso passo a passo para iniciantes em acabamentos de luxo",
+    "Guia de técnicas de artesanato delicado para renda extra em casa"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Muito m lindo e delicado",
+    "l": 10
+   },
+   {
+    "t": "Simplesmente Belíssimo 🎉 Ameiiiiii 👏 😍",
+    "l": 6
+   },
+   {
+    "t": "É muito lindo esse acabamento",
+    "l": 4
+   },
+   {
+    "t": "DEUS ABENÇOE POR COMPARTILHAR  SEU TALENTO ❤❤❤",
+    "l": 3
+   },
+   {
+    "t": "Amei parabéns",
+    "l": 2
+   },
+   {
+    "t": "Confira minha coleção na Shopee 👇https://collshp.com/maistops?view=storefront",
+    "l": 1
+   },
+   {
+    "t": "Very beautiful ❤️",
+    "l": 1
+   },
+   {
+    "t": "Amei, muito delicado ❤",
+    "l": 1
+   },
+   {
+    "t": "Excelente Géminis ❤",
+    "l": 1
+   },
+   {
+    "t": "Lindo demais",
+    "l": 1
+   },
+   {
+    "t": "Queda bonito pero tiene su técnica gracias por compartir",
+    "l": 1
+   },
+   {
+    "t": "Vivendo e aprendendo com a graça de Deus. Obrigada.",
+    "l": 0
+   }
+  ],
+  "analisado": "2026-10-23T18:39:26+00:00"
+ },
+ "GZoUqYtD75Q": {
+  "id": "GZoUqYtD75Q",
+  "titulo": "Receita doce proteico pra não sair da dieta #dieta #emagrecimento #hipertrofia #shorts",
+  "canal": "RICK CORRÊA TV",
+  "canal_id": "UCJ8IDZwmI_XzG5ibDH1nNZA",
+  "inscritos": 4290,
+  "publicado": "2026-10-04T19:47:49Z",
+  "duracao": 28,
+  "views": 490449,
+  "likes": 13487,
+  "comentarios": 59,
+  "outlier": 189.9,
+  "nichos": [
+   "receitas-fit"
+  ],
+  "termo": "receita para emagrecer",
+  "achado": "2026-10-23T18:26:12+00:00",
+  "gancho": null,
+  "dores": null
+ },
+ "rcdVLBSMYoQ": {
+  "id": "rcdVLBSMYoQ",
+  "titulo": "RECEITAS SIMPLES #rshorts",
+  "canal": "Claudiana Kaele",
+  "canal_id": "UCXVrujKN42nPuR-F_Ft5MdA",
+  "inscritos": 300000,
+  "publicado": "2026-10-19T22:09:02Z",
+  "duracao": 62,
+  "views": 5322208,
+  "likes": 87527,
+  "comentarios": 367,
+  "outlier": 21.2,
+  "nichos": [
+   "receitas-gerais"
+  ],
+  "termo": "receita barata",
+  "achado": "2026-10-23T18:26:13+00:00",
+  "gancho": {
+   "gancho_falado": "Pronto, meu skincare! Espero que esse minha mãe não coma, vou só deixar aqui e vou já voltar pra mim poder comer meu colágeno.",
+   "texto_tela": "Comendo meu Skincare ✨",
+   "visual_inicial": "Uma menina segurando uma placa de gelatina com morangos em formato de rosto e balançando para a câmera.",
+   "tipo_gancho": "curiosidade",
+   "formato": "talking head",
+   "emocao": "divertido e inusitado",
+   "retencao": "promessa adiada de ver a mãe comendo o skincare achando que é cosmético",
+   "cta": "",
+   "por_que_funciona": "Mistura um tema de autocuidado (skincare) com uma comédia de confusão com alimentos, gerando curiosidade imediata sobre o que vai acontecer.",
+   "modelo_gancho": "Pronto, meu [produto]! Espero que [alguém] não [ação], vou só deixar aqui e vou já voltar pra [benefício].",
+   "variacoes": [
+    "Pronto, meu bolo fit! Espero que meu marido não coma, vou só deixar aqui e vou já voltar pra poder comer minha sobremesa.",
+    "Pronto, meu marmitão! Espero que meu colega não coma, vou só deixar aqui e vou já voltar pra almoçar em paz.",
+    "Pronto, meu docinho! Espero que meu irmão não pegue, vou só deixar aqui e vou já voltar pra comer tudinho."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Confusão inicial achando que o produto era para passar no rosto (skincare)",
+    "Falta de clareza nos ingredientes e medidas das receitas",
+    "Frustração por ver a mãe comer o doce que era da filha",
+    "Dificuldade com o tempo de preparo e espera das receitas"
+   ],
+   "correcoes": [
+    "Isso e geladinha de morango",
+    "Skincare nao e para rosto?",
+    "No primeiro que vc botou na caneca foi água gelada ou água fervente? E no segundo e água normal né?"
+   ],
+   "duvidas": [
+    "Sabão vai na receita também?",
+    "Como que fais isso",
+    "Qual vc gostou mais a me morango ou a de uva ?",
+    "Me passa a receita",
+    "No primeiro que vc botou na caneca foi água gelada ou água fervente?"
+   ],
+   "desejos": [
+    "Faz uma receita de cuca, mulherr",
+    "Agora só falta de o dia pudim quente quer de maçã e de abacaxi",
+    "Me passa a receita",
+    "Que bonito grava um vídeo fazendo"
+   ],
+   "objecoes": [
+    "Colocar no congelador e esperar congelar já demora meia hora",
+    "Não é mais fácil vc fazer um pra vc",
+    "Porque ela nao faz video ensinando em vez de fingir que comeu sem querer o doce da filha"
+   ],
+   "elogios": [
+    "Só eu que amo essa dinâmica 'engraçada' de vdo deles",
+    "O mais satisfatório é ver ela comendo",
+    "Uma receita ótima muito obrigado",
+    "Mas é inteligente e linda"
+   ],
+   "frases_exatas": [
+    "Meu TDAH é Tão forte que eu ia passar no rosto",
+    "Skincare não é pra o rosto?",
+    "Isso e geladinha de morango",
+    "Nunca é para ela é sempre uma amiga para mim querida",
+    "O nome já diz tudo",
+    "Fazendo vou fazer não tô nem aí vou fazer agora"
+   ],
+   "ideias_produto": [
+    "E-book de receitas rápidas de geladinhos e doces práticos",
+    "Curso ensinando sobre receitas fáceis para fazer em casa com poucos ingredientes",
+    "Guia de sobremesas virais para fazer em minutos"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Meu TDAH é Tão forte que eu ia passar no rosto",
+    "l": 411
+   },
+   {
+    "t": "Da pra fazer de maça testei aí não tenho ingredientes 😊❤",
+    "l": 186
+   },
+   {
+    "t": "Só eu que amo essa dinâmica \"engraçada\".de vdo deles kkk???",
+    "l": 82
+   },
+   {
+    "t": "Do jeito q eu sou eu ia tacar na cara ;-; o nome já diz tudo  Edit: Nossa em um dia já tem isso tudo de likes ?:52",
+    "l": 63
+   },
+   {
+    "t": "Isso e geladinha de morango 🍓",
+    "l": 43
+   },
+   {
+    "t": "Pior que nunca é pra mãe kkkk 😅",
+    "l": 38
+   },
+   {
+    "t": "Gente se ela sabe que toda vez não é pra ela por que ela continua comendo",
+    "l": 37
+   },
+   {
+    "t": "A mãe come tudo que a filha faz e ela não sabe se e dela",
+    "l": 15
+   },
+   {
+    "t": "Ela é feita a pé e boca aberta cuida da minha querida😢",
+    "l": 6
+   },
+   {
+    "t": "Ela só fala quando a mulher come😂😂😂❤",
+    "l": 5
+   },
+   {
+    "t": "Tudo ela coloca lá pra a mãe comer ;-;",
+    "l": 5
+   },
+   {
+    "t": "Eu também tenho TDH achando que elas iam passar na cara😂😂",
+    "l": 3
+   }
+  ],
+  "analisado": "2026-10-23T18:38:11+00:00"
+ },
+ "hUd3GeU1NPE": {
+  "id": "hUd3GeU1NPE",
+  "titulo": "RECEITAS SIMPLES #rshorts",
+  "canal": "Claudiana Kaele",
+  "canal_id": "UCXVrujKN42nPuR-F_Ft5MdA",
+  "inscritos": 300000,
+  "publicado": "2026-10-16T21:49:59Z",
+  "duracao": 62,
+  "views": 3021406,
+  "likes": 50862,
+  "comentarios": 210,
+  "outlier": 12.0,
+  "nichos": [
+   "receitas-gerais"
+  ],
+  "termo": "receita barata",
+  "achado": "2026-10-23T18:26:13+00:00",
+  "gancho": {
+   "gancho_falado": "Prontinho o meu skincare! Vou só deixar aqui para dar o ponto e já volto.",
+   "texto_tela": "Comendo o skincare✨ Da mini querida",
+   "visual_inicial": "Uma jovem segurando uma travessa de vidro com uvas verdes e pretas em uma mesa com toalha de crochê.",
+   "tipo_gancho": "humor",
+   "formato": "atuação / sketch de humor",
+   "emocao": "diversão e curiosidade",
+   "retencao": "A expectativa de ver a reação de outra pessoa comendo o 'skincare' (que na verdade é fruta).",
+   "cta": "",
+   "por_que_funciona": "Usa um termo da moda ('skincare') aplicado de forma cômica e absurda a comida, gerando identificação e surpresa imediata.",
+   "modelo_gancho": "Prontinho o meu [produto de beleza]! Vou só deixar aqui para dar o ponto e já volto.",
+   "variacoes": [
+    "Prontinho o meu protetor solar! Vou só deixar aqui para dar o ponto e já volto.",
+    "Prontinho o meu sérum anti-idade! Vou só deixar aqui para dar o ponto e já volto.",
+    "Prontinho o meu creme hidratante! Vou só deixar aqui para dar o ponto e já volto."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Confusão inicial achando que a receita era um produto de skincare para passar no rosto",
+    "Dúvidas sobre o funcionamento real de nutrientes como o colágeno no organismo",
+    "Medo de manchar a pele com limão"
+   ],
+   "correcoes": [
+    "Sinto informar, mas o colágeno q tá na gelatina é uma proteína, ou seja, quando for pro estômago, as enzimas digestivas vão destruí-lo",
+    "Limão mancha a pele viu"
+   ],
+   "duvidas": [
+    "Essa água na xícara é água morna ou gelada?",
+    "É para esper ou levar para geladeira",
+    "Me fala qual é a marca do sabão porque daí eu vou tá fazendo viu"
+   ],
+   "desejos": [
+    "Sempre qual é a receita da minha querida",
+    "Queria a receita",
+    "Da para fazer com morangos"
+   ],
+   "objecoes": [
+    "Vídeo sem graça"
+   ],
+   "elogios": [
+    "É bem gostoso mesmo eu já salvei o vídeo pra mim fazer outro dia",
+    "Um que delicia",
+    "Que tudo amei"
+   ],
+   "frases_exatas": [
+    "Do jeito que eu sou BURRO eu ia pegar isso e passar na cara",
+    "eu literalmente achando que era para esfregar na cara",
+    "So agr que eu percebi q é na verdade um tutorial, nao uma Historinha de Humor",
+    "Uva congelada literalmente minha comida favorita",
+    "Eu achando q era pra passar na cara",
+    "Agora deu água foi na boca viu menina",
+    "Deu vontade de comer afe"
+   ],
+   "ideias_produto": [
+    "Guia de receitas rápidas e simples que parecem brincadeira mas são deliciosas",
+    "E-book de mitos e verdades sobre skincare com alimentos e colágeno",
+    "Curso rápido de sobremesas fáceis para fazer em casa"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Do jeito que eu sou BURRO eu ia pegar isso e passar na cara ;-;",
+    "l": 528
+   },
+   {
+    "t": "eu literalmente achando que era para esfregar na cara ksksks",
+    "l": 358
+   },
+   {
+    "t": "Sinto informar, mas o colágeno q tá na gelatina é uma proteína, ou seja, quando for pro estômago, as enzimas digestivas vão destruí-lo em aminoácidos que não necessariamente vão se transformar em colágeno novamente e ir pra sua pele, e sim vão pra corrente sanguínea e o organismo vái usar para forma",
+    "l": 207
+   },
+   {
+    "t": "Eu achando q era pra passar na cara",
+    "l": 160
+   },
+   {
+    "t": "É bem gostoso mesmo eu já salvei o vídeo pra mim fazer outro dia❤😂",
+    "l": 79
+   },
+   {
+    "t": "Sempre qual é a receita da minha querida",
+    "l": 33
+   },
+   {
+    "t": "Um que delicia ❤❤😮😅",
+    "l": 7
+   },
+   {
+    "t": "Impede antes de comer ou",
+    "l": 5
+   },
+   {
+    "t": "So agr que eu percebi q é na verdade um tutorial, nao uma Historinha de Humor KKKKK",
+    "l": 4
+   },
+   {
+    "t": "Vou fazer agora❤😋🤤",
+    "l": 3
+   },
+   {
+    "t": "Mas você é enxerida viu ninguém mandou você se intrometer não",
+    "l": 3
+   },
+   {
+    "t": "Vídeo sem graça",
+    "l": 3
+   }
+  ],
+  "analisado": "2026-10-23T18:38:23+00:00"
+ },
+ "T4KzP1zduY8": {
+  "id": "T4KzP1zduY8",
+  "titulo": "Beterraba desse jeito mudou minha opinião 🫜",
+  "canal": "Ana Carolina Oliosi",
+  "canal_id": "UClWe7GWZOs1f7X6URSBNblw",
+  "inscritos": 21600,
+  "publicado": "2026-10-03T12:56:13Z",
+  "duracao": 84,
+  "views": 2009612,
+  "likes": 72076,
+  "comentarios": 1442,
+  "outlier": 9.6,
+  "nichos": [
+   "receitas-gerais"
+  ],
+  "termo": "receita barata",
+  "achado": "2026-10-23T18:26:13+00:00",
+  "gancho": {
+   "gancho_falado": "Eu duvido que beterraba desse jeito você não goste.",
+   "texto_tela": "",
+   "visual_inicial": "Mulher com óculos segurando um garfo com beterraba temperada na frente da câmera",
+   "tipo_gancho": "desafio",
+   "formato": "talking head",
+   "emocao": "curiosidade",
+   "retencao": "A promessa de ensinar a fazer uma receita que muda o conceito sobre um ingrediente que muitas pessoas não gostam",
+   "cta": "",
+   "por_que_funciona": "Usa um desafio direto que desperta a curiosidade e o ceticismo do espectador, fazendo-o querer provar o contrário.",
+   "modelo_gancho": "Eu duvido que [ingrediente/alimento] desse jeito você não goste.",
+   "variacoes": [
+    "Eu duvido que brócolis desse jeito você não goste.",
+    "Eu duvido que jiló desse jeito você não goste.",
+    "Eu duvido que fígado desse jeito você não goste."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Pessoas que não gostam de beterraba ou de cebola",
+    "Pessoas que enjoam de comer beterraba sempre do mesmo jeito",
+    "Anemia profunda por perda de sangue na menstruação devido à menopausa",
+    "Pessoas que não se dão bem com pimenta do reino e precisam excluir da alimentação"
+   ],
+   "correcoes": [
+    "Arrancou quase a metade da beterraba junto com a casca no mandolim",
+    "O limão é indispensável, tem que ter",
+    "Não uso pimenta do reino por cuidado e por não me dar bem",
+    "Aproveito a casca para fazer suco com laranja ou outra fruta"
+   ],
+   "duvidas": [
+    "Qual é o nome desse objeto (mandolin)?",
+    "Como fazer xarope de beterraba para fortalecer o sangue?"
+   ],
+   "desejos": [
+    "Fazer a receita para ver se gosta",
+    "Comer beterraba crua fora de hora para não comer besteira",
+    "Servir a receita em festas e para a família",
+    "Aproveitar as cascas da beterraba em outras preparações"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Até quem não gostava de beterraba ou cebola comeu e amou",
+    "Ficou maravilhosa, suculenta e é pura saúde",
+    "Acabou em 2 dias e o marido já pediu para fazer mais",
+    "Receita maravilhosa e ao mesmo tempo tão simples",
+    "O segredo é a cebola e o toque do mel",
+    "Nem precisa cozinhar, dica excelente"
+   ],
+   "frases_exatas": [
+    "Eu não sou fã de beterraba mas fiz assim e amei",
+    "Até minha filha que não gosta de cebola comeu e gostou",
+    "Meu marido amou kkkk acabou em 2 dias",
+    "Nem precisa cozinhar",
+    "Ficou maravilhosa, ela fica suculenta",
+    "Achei a melhor receita de beterraba",
+    "Até quem dizia que não gostava comeu e repetiu",
+    "Cansei de comer saladas de beterraba assim! É pura saúde!"
+   ],
+   "ideias_produto": [
+    "E-book de receitas fáceis e saborosas com vegetais para quem não gosta de legumes",
+    "Guia prático de aproveitamento integral dos alimentos (usando cascas de beterraba e outros vegetais)",
+    "Curso de saladas criativas e molhos para não enjoar da dieta",
+    "Guia de utensílios essenciais de cozinha (como o mandolim) e como usá-los sem desperdício"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Eu não sou fã de beterraba mas fiz assim e amei. Comi tudo kkk até minha filha que não gosta de cebola comeu e gostou também. Mas o limão é indispensável, tem que ter.",
+    "l": 658
+   },
+   {
+    "t": "3 beterraba, 1 cebola rocha, suco de 1 limão, pimenta do reino, sal, azeite, mel. Passar a cebola e as beterrabas no mandolim",
+    "l": 438
+   },
+   {
+    "t": "Vou fazer pea ver se gosto, prefiro beterrabas cozidas.  Tenho um canteiro enorme de beterrabas na minha horta,  amo plantar verduras, legumes, frutas...😊",
+    "l": 159
+   },
+   {
+    "t": "Mulher apredir fazer a salada e o nome desse objeto, mandolin😂",
+    "l": 133
+   },
+   {
+    "t": "Amooooo, eu costumo comer beterraba crua em cubos, fora de hora pra não comer besteira 😮😅",
+    "l": 132
+   },
+   {
+    "t": "eu fiz aqui em casa gostei bastante mais meu marido amou kkkk acabou em 2 dias e ele já pediu pra fazer mais 😂❤ obrigada",
+    "l": 123
+   },
+   {
+    "t": "Minha mãe sempre fez assim e é divino!!! Ela da uma curtida. Usávamos o tempero tradicional de azeite, sal e limão e fica show. Acho que o segredo é a cebola!",
+    "l": 97
+   },
+   {
+    "t": "Eu amo beterraba  de qualquer. Jeito.",
+    "l": 41
+   },
+   {
+    "t": "Top. Na hora de comer, no prato, na porção separada pra comer eu ainda colocaria um ovo cozido grosseiramente picado",
+    "l": 26
+   },
+   {
+    "t": "Amo beterraba assim então deve ser maravilhosa !!Vou fazer. ❤",
+    "l": 24
+   },
+   {
+    "t": "Eu aproveito a casca pra fazer suco com laranja ou outra fruta.🥰",
+    "l": 18
+   },
+   {
+    "t": "Cansei de comer saladas de beterraba assim ! É pura saúde ! Maravilhosa 🤔😋",
+    "l": 17
+   }
+  ],
+  "analisado": "2026-10-23T18:39:00+00:00"
+ },
+ "uH2NVc8hdn4": {
+  "id": "uH2NVc8hdn4",
+  "titulo": "DOCE DE LEITE DELICIOSO #super #dicas #doces #shorts #receitas #shortvideo #foryou #viral #top #like",
+  "canal": "Thiago Severo-Super Dicas",
+  "canal_id": "UCVvpvKhYCw2f4uW54e74-eQ",
+  "inscritos": 52400,
+  "publicado": "2026-10-01T09:18:33Z",
+  "duracao": 171,
+  "views": 1349588,
+  "likes": 42362,
+  "comentarios": 1055,
+  "outlier": 27.9,
+  "nichos": [
+   "receitas-gerais"
+  ],
+  "termo": "receita barata",
+  "achado": "2026-10-23T18:26:13+00:00",
+  "gancho": {
+   "gancho_falado": "Se chegar visita de surpresa na sua casa, lembra dessa receita",
+   "texto_tela": "",
+   "visual_inicial": "Uma mão segurando um pedaço de doce branco e macio cortado em quadradinhos numa travessa",
+   "tipo_gancho": "identificacao",
+   "formato": "mãos fazendo",
+   "emocao": "curiosidade",
+   "retencao": "promessa de receita fácil com poucos ingredientes e que parece trabalhosa",
+   "cta": "já salva esse vídeo agora",
+   "por_que_funciona": "Conecta imediatamente com uma dor comum (receber visita de última hora) oferecendo uma solução rápida e impressionante.",
+   "modelo_gancho": "Se chegar [situação inesperada], lembra de [solução rápida]",
+   "variacoes": [
+    "Se chegar visita de surpresa na sua casa, lembra desse café gelado",
+    "Se faltar energia na sua casa, lembra desse truque",
+    "Se chegar visita de surpresa na sua casa, lembra desse petisco"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Minha glicemia explodiu só de olhar",
+    "Sobremesa pra ter o resto do dia como um rei (só no trono kkkkk)"
+   ],
+   "correcoes": [
+    "Ela não deixou claro o quanto de leite em pó vai",
+    "Qual é a quantidade do leite em pó?"
+   ],
+   "duvidas": [
+    "Qual a contidade de leite em pó?",
+    "É o pacote todo, 200g?"
+   ],
+   "desejos": [
+    "Vou fazer o meu com castanhas e nozes pra ficar crocante",
+    "Imaginava botar um coco ralado aí junto",
+    "Vou fazer para meus netos que gostam muito de doces"
+   ],
+   "objecoes": [
+    "Leite em pó esta caro pra visitar"
+   ],
+   "elogios": [
+    "Esse doce é uma delícia, e muito nostálgico pra mim",
+    "Boa receita, gostoso e fácil de fazer, perfeito",
+    "Sou doceira ha 5 décadas achei lindo rápido e lindo",
+    "Gosto assim receita fácil gostei vou fazer"
+   ],
+   "frases_exatas": [
+    "Minha glicemia explodiu só de olhar",
+    "Esse doce é uma delícia, e muito nostálgico pra mim",
+    "Ela não deixou claro o quanto de leite em pó vai",
+    "Leite em pó esta caro pra visitar",
+    "Sobremesa pra ter o resto do dia como um rei",
+    "Gostoso e fácil de fazer, perfeito",
+    "Vou fazer o meu com castanhas e nozes pra ficar crocante",
+    "Se chegar visita de surpresa na minha casa. Eu finjo que estou de saída."
+   ],
+   "ideias_produto": [
+    "E-book de receitas rápidas com leite em pó e ingredientes baratos",
+    "Curso de doces caseiros tradicionais fáceis para iniciantes e avós",
+    "Guia de sobremesas econômicas para o dia a dia"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Se chegar visita de surpresa na  minha casa. Eu finjo que estou de saída.",
+    "l": 365
+   },
+   {
+    "t": "Minha glicemia explodiu só de olhar 😂",
+    "l": 217
+   },
+   {
+    "t": "Esse doce é uma delícia,  e muito nostálgico pra mim, me lembra a minha tia, ela smp comprava p mim e p ela❤ muito legal, não sabia que era assim que se fazia... gratidão ❤️",
+    "l": 109
+   },
+   {
+    "t": "Vou fazer o meu com castanhas e nozes pra ficar crocante.",
+    "l": 100
+   },
+   {
+    "t": "Dorce de leite 2 xicara de açúcar  Meia xicara de lete 1 colher de sopa de manteiga  Mistura muito bem Depois de mistura liga o fogo no medio Vae mexendo assim q chega no ponto desliga fogo Colca o leite ninho Vae mexendo Depois colica na forma",
+    "l": 80
+   },
+   {
+    "t": "Hum que delícia vou fazer para meus netos que gostam muito de doces 😋 gratidão",
+    "l": 50
+   },
+   {
+    "t": "Imagina botar um coco ralado aí junto 😊",
+    "l": 40
+   },
+   {
+    "t": "Eu moro em Salvador, eu amei a receita",
+    "l": 18
+   },
+   {
+    "t": "Sobremesa pra ter o resto do dia como um rei (só no trono kkkkk)",
+    "l": 15
+   },
+   {
+    "t": "Gostei muito dessa receita moro em águas lindas de Goiás",
+    "l": 14
+   },
+   {
+    "t": "Deve ser uma delícia mas por favor qual é a quantidade do leite em pó?",
+    "l": 12
+   },
+   {
+    "t": "Eu moro na Suécia e com certeza eu vou experimentar. Obrigada! 🌷🇸🇪",
+    "l": 8
+   }
+  ],
+  "analisado": "2026-10-23T18:37:45+00:00"
  }
 }
