@@ -1,1 +1,1092 @@
-{}
+{
+ "gerado": "2026-10-23T01:57:24+00:00",
+ "total_videos": 21,
+ "tipos_gancho_geral": [
+  [
+   "identificacao",
+   7
+  ],
+  [
+   "curiosidade",
+   4
+  ],
+  [
+   "polemica",
+   2
+  ],
+  [
+   "erro-comum",
+   2
+  ],
+  [
+   "segredo",
+   1
+  ],
+  [
+   "humor",
+   1
+  ],
+  [
+   "historia",
+   1
+  ],
+  [
+   "confronto",
+   1
+  ],
+  [
+   "pergunta",
+   1
+  ],
+  [
+   "autoridade",
+   1
+  ]
+ ],
+ "nichos": {
+  "receitas-gerais": {
+   "nome": "Receitas e air fryer",
+   "videos": 3,
+   "tipos_gancho": [
+    [
+     "polemica",
+     1
+    ],
+    [
+     "curiosidade",
+     1
+    ],
+    [
+     "segredo",
+     1
+    ]
+   ],
+   "formatos": [
+    [
+     "mãos fazendo",
+     2
+    ],
+    [
+     "talking head",
+     1
+    ]
+   ],
+   "melhores_ganchos": [
+    {
+     "id": "ANJ8m3daNpc",
+     "titulo": "ATÉ QUEM NÃO GOSTA VAI QUERER! #Shorts #YouTubeShorts #receitas",
+     "views": 532171,
+     "outlier": 21.0,
+     "gancho": "Você não vai mais dizer que berinjela é sem graça depois de ver essa receita.",
+     "modelo": "Você não vai mais dizer que [alimento/objeto] é [qualidade negativa] depois de ver [esta/este] [receita/método].",
+     "tipo": "curiosidade"
+    },
+    {
+     "id": "vLeUZyazerg",
+     "titulo": "🥓 Torresmo Crocante na Air Fryer com Fermento: Truque Fácil Fica Sequinho e Delicioso! #shorts",
+     "views": 365499,
+     "outlier": 12.8,
+     "gancho": "É só misturar fermento Royal no toucinho que você vai se surpreender com o resultado.",
+     "modelo": "É só misturar [ingrediente incomum] no [alimento] que você vai se surpreender com o resultado.",
+     "tipo": "segredo"
+    },
+    {
+     "id": "Io1LCXfPUBk",
+     "titulo": "MANUAL BASICO DO JOVEM DE 18 ANOS: BATATA 🍟🥔",
+     "views": 6829549,
+     "outlier": 6.2,
+     "gancho": "É por isso que você tem 18 anos na cara e não sabe nem fazer uma batata na Air Fryer.",
+     "modelo": "É por isso que você tem [idade/tempo] de [atividade] e ainda não sabe nem [ação básica do nicho].",
+     "tipo": "polemica"
+    }
+   ],
+   "dores": [
+    {
+     "tema": "Medo de toxinas, pragas ou mal súbito com alimentos",
+     "qtd": 2,
+     "exemplo": "medo de cortar berinjela e encontrar verme"
+    },
+    {
+     "tema": "Frustração com receitas que não dão certo ou ficam muchas",
+     "qtd": 2,
+     "exemplo": "batalhar com batatas que ficam muchas na air fryer"
+    },
+    {
+     "tema": "Preocupação com danos ao estômago e saúde por ingredientes inadequados",
+     "qtd": 1,
+     "exemplo": "Isso destrói o estômago não façam essa bomba"
+    },
+    {
+     "tema": "Preto e preguiça para elaborar pratos complexos",
+     "qtd": 1,
+     "exemplo": "falta de tempo ou preguiça extrema para elaborar algo para comer"
+    },
+    {
+     "tema": "Preocupação com a sujeira e limpeza pós-preparo",
+     "qtd": 1,
+     "exemplo": "Eu gostaria de saber como ficou este forno e quem limpou"
+    }
+   ],
+   "correcoes": [
+    {
+     "tema": "Contestação de ingredientes inadequados (como fermento vs bicarbonato)",
+     "qtd": 1,
+     "exemplo": "Esse toucinho foi e frito. Difícil enganar uma dona de casa"
+    },
+    {
+     "tema": "Dicas de preparo correto para crocância (azeite, tempo, temperatura)",
+     "qtd": 1,
+     "exemplo": "preaquecer a air fryer e usar um borrifador com fio de azeite"
+    },
+    {
+     "tema": "Alertas sobre segurança alimentar e cozimento de vegetais",
+     "qtd": 1,
+     "exemplo": "berinjela deve ser consumida muito bem cozida e é melhor frita que assada por causa de toxinas"
+    }
+   ],
+   "objecoes": [
+    {
+     "tema": "Desconfiança sobre a segurança e saúde da receita",
+     "qtd": 1,
+     "exemplo": "Isso não deve ser bom pra saúde gente fermento em pó acho que deveria ser bicarbonato né"
+    },
+    {
+     "tema": "Preguiça de fazer processos longos na air fryer",
+     "qtd": 1,
+     "exemplo": "demasiado complicado para quem usa a air fryer por preguiça"
+    },
+    {
+     "tema": "Aversão aos ingredientes principais da receita",
+     "qtd": 1,
+     "exemplo": "não gosto de berinjela"
+    }
+   ],
+   "desejos": [
+    {
+     "tema": "Alcançar a crocância perfeita por fora e maciez por dentro",
+     "qtd": 2,
+     "exemplo": "conseguir fazer uma batata que fique crocante por fora e macia por dentro"
+    },
+    {
+     "tema": "Praticidade e rapidez no dia a dia",
+     "qtd": 1,
+     "exemplo": "ter praticidade e rapidez no preparo na air fryer"
+    },
+    {
+     "tema": "Fazer receitas apetitosas para a família em casa",
+     "qtd": 1,
+     "exemplo": "Vou fazer aqui em casa pros meus amores"
+    },
+    {
+     "tema": "Fazer vegetais de um jeito que agrade quem não gosta",
+     "qtd": 1,
+     "exemplo": "aprender a preparar berinjela de um jeito que até quem não gosta vai querer comer"
+    }
+   ],
+   "duvidas": [
+    {
+     "tema": "Questionamento sobre substituições e ingredientes corretos",
+     "qtd": 1,
+     "exemplo": "Uai ,colocou fermento duas vezes?"
+    },
+    {
+     "tema": "Dúvidas sobre o passo a passo omitido no vídeo",
+     "qtd": 1,
+     "exemplo": "Você lavou a carne depois do fermento? Não ficou claro isso"
+    },
+    {
+     "tema": "Dúvidas sobre a perda de nutrientes no processo",
+     "qtd": 1,
+     "exemplo": "Acho que tem vitamina zero depois dessa preparação... Será? Assando fininho assim?"
+    },
+    {
+     "tema": "Dúvidas sobre adaptação de equipamentos (forno vs air fryer)",
+     "qtd": 1,
+     "exemplo": "Da certo fazer no forno tbm????"
+    }
+   ],
+   "ideias_produto": [
+    {
+     "tema": "Guia definitivo de petiscos crocantes e fáceis na Air Fryer",
+     "qtd": 2,
+     "exemplo": "Guia definitivo de petiscos perfeitos feitos na Air Fryer"
+    },
+    {
+     "tema": "Manual de limpeza, manutenção e truques reais sem sujeira",
+     "qtd": 1,
+     "exemplo": "Manual de limpeza e manutenção da Air Fryer após receitas gordurosas"
+    },
+    {
+     "tema": "Curso de culinária prática para iniciantes e preguiçosos",
+     "qtd": 1,
+     "exemplo": "curso rápido de receitas descomplicadas para quem tem preguiça de cozinhar"
+    },
+    {
+     "tema": "Guia de substituições saudáveis e seguras em receitas virais",
+     "qtd": 1,
+     "exemplo": "Guia de substituições saudáveis de ingredientes em receitas virais"
+    }
+   ],
+   "resumo": "O público deste nicho sente medo e desconfiança em relação a ingredientes e métodos de preparo que parecem prejudiciais à saúde ou difíceis de limpar. Quer praticidade extrema, economia de tempo e receitas infalíveis que fiquem crocantes de verdade na Air Fryer. Contesta truques estranhos, como o uso de fermento ou ingredientes tóxicos, e questiona a veracidade dos vídeos virais.",
+   "angulos": [
+    "Como conseguir batatas perfeitamente crocantes na Air Fryer sem complicação e sem errar o ponto",
+    "O guia anti-fraude da Air Fryer: desmascarando truques virais que estragam a comida e o seu estômago",
+    "Petiscos de boteco super crocantes na Air Fryer feitos do jeito certo, sem sujeira e sem ingredientes estranhos",
+    "Como fazer legumes e vegetais odiados (como berinjela) virarem pratos deliciosos e livres de toxinas",
+    "Receitas express para quem tem preguiça de cozinhar mas não abre mão de comer bem e com praticidade"
+   ],
+   "_assinatura": [
+    "ANJ8m3daNpc",
+    "Io1LCXfPUBk",
+    "vLeUZyazerg"
+   ]
+  },
+  "treino": {
+   "nome": "Treino / academia",
+   "videos": 2,
+   "tipos_gancho": [
+    [
+     "humor",
+     1
+    ],
+    [
+     "erro-comum",
+     1
+    ]
+   ],
+   "formatos": [
+    [
+     "vídeo de dança em grupo",
+     1
+    ],
+    [
+     "narração+b-roll",
+     1
+    ]
+   ],
+   "melhores_ganchos": [
+    {
+     "id": "TnU5vJ8ymEc",
+     "titulo": "O pós treino 💃🏻| #boiadeira | #anacastela | #shorts",
+     "views": 3339076,
+     "outlier": 15.5,
+     "gancho": "",
+     "modelo": "[Mostrar pessoas] fazendo uma dança engraçada após [situação estressante/cansativa]",
+     "tipo": "humor"
+    },
+    {
+     "id": "KT4HfG1ZIrk",
+     "titulo": "O melhor treino para emagrecer e queimar gordura",
+     "views": 370823,
+     "outlier": 3.7,
+     "gancho": "O melhor treino para emagrecer não é correr, nem fazer abdominais e muito menos puxar peso.",
+     "modelo": "O melhor [assunto] para [objetivo] não é [solução óbvia 1], nem [solução óbvia 2] e muito menos [solução óbvia 3].",
+     "tipo": "erro-comum"
+    }
+   ],
+   "dores": [
+    {
+     "tema": "Gordura abdominal excessiva",
+     "qtd": 1,
+     "exemplo": "minha barriga tá o xu xu beleza de grande"
+    },
+    {
+     "tema": "Aversão a exercícios desgastantes",
+     "qtd": 1,
+     "exemplo": "Ai Deussssss odeio burpee"
+    }
+   ],
+   "correcoes": [
+    {
+     "tema": "Excesso de enrolação nos vídeos",
+     "qtd": 1,
+     "exemplo": "3 horas de enrolação pra mostrar o treino"
+    },
+    {
+     "tema": "Risco de lesão na coluna",
+     "qtd": 1,
+     "exemplo": "Adeus coluna"
+    },
+    {
+     "tema": "Ceticismo com métodos e defesa do básico (dieta e cardio)",
+     "qtd": 1,
+     "exemplo": "não acreditem nisso, faça cardio, corra na rua ou esteira, e faça dieta"
+    }
+   ],
+   "objecoes": [
+    {
+     "tema": "Demora excessiva para entregar a informação principal",
+     "qtd": 1,
+     "exemplo": "O cara leva um dia só pra falar o que é"
+    }
+   ],
+   "desejos": [
+    {
+     "tema": "Obter receitas para emagrecimento",
+     "qtd": 1,
+     "exemplo": "Gostei quero receber a receita"
+    }
+   ],
+   "duvidas": [],
+   "ideias_produto": [
+    {
+     "tema": "E-book de receitas para emagrecimento",
+     "qtd": 1,
+     "exemplo": "E-book de receitas para emagrecimento"
+    },
+    {
+     "tema": "Guia de treinos rápidos sem enrolação",
+     "qtd": 1,
+     "exemplo": "Guia de treinos rápidos sem enrolação"
+    },
+    {
+     "tema": "Programa de queima de gordura em casa",
+     "qtd": 1,
+     "exemplo": "Programa de queima de gordura em casa"
+    }
+   ],
+   "resumo": "O público fitness demonstra forte frustração com conteúdos longos e enrolados, buscando soluções práticas e imediatas para emagrecer. Há um grande interesse por receitas fáceis e treinos rápidos para eliminar a gordura abdominal, embora exista preocupação com lesões e ceticismo em relação a métodos milagrosos. A audiência anseia por direcionamento claro e materiais prontos para aplicação direta no dia a dia.",
+   "angulos": [
+    "Como queimar a gordura da barriga em casa sem precisar fazer burpees insuportáveis.",
+    "Chega de enrolação: o treino direto ao ponto que você faz em poucos minutos.",
+    "Aprenda a proteger sua coluna enquanto treina pesado sem se machucar.",
+    "Receitas práticas e saborosas para acelerar o seu emagrecimento sem sofrimento.",
+    "Por que o básico bem feito (dieta e cardio) ainda é o melhor caminho para secar."
+   ],
+   "_assinatura": [
+    "KT4HfG1ZIrk",
+    "TnU5vJ8ymEc"
+   ]
+  },
+  "pilates-yoga": {
+   "nome": "Pilates / yoga / alongamento",
+   "videos": 3,
+   "tipos_gancho": [
+    [
+     "identificacao",
+     3
+    ]
+   ],
+   "formatos": [
+    [
+     "talking head",
+     3
+    ]
+   ],
+   "melhores_ganchos": [
+    {
+     "id": "aQ0DIrYL-Lc",
+     "titulo": "Treino de força para mulheres com 60 anos ou mais",
+     "views": 568130,
+     "outlier": 29.5,
+     "gancho": "Treino de força para mulheres com 60 anos ou mais usando uma cadeira e também um cabo de vassoura.",
+     "modelo": "Treino de [benefício] para [público-alvo] usando [item comum] e [item comum].",
+     "tipo": "identificacao"
+    },
+    {
+     "id": "1CYqsKTcVdA",
+     "titulo": "Pilates em casa 5 minutos por dia - 3 Exercícios para aliviar as dores no joelho",
+     "views": 136868,
+     "outlier": 7.1,
+     "gancho": "Você sente dores no joelho e não tem tempo de fazer exercícios?",
+     "modelo": "Você sente [dor/problema] e não tem tempo para [solução difícil], faça [ação rápida] que vai te ajudar.",
+     "tipo": "identificacao"
+    },
+    {
+     "id": "9_u8unNddaA",
+     "titulo": "3 Exercícios de Pilates usando a parede da sua casa",
+     "views": 107587,
+     "outlier": 5.6,
+     "gancho": "Se você tem mais de 50 anos, faça esses três exercícios de Pilates usando a parede da sua casa para aliviar as suas dores.",
+     "modelo": "Se você tem mais de [idade], faça [ação] usando [recurso] para [benefício].",
+     "tipo": "identificacao"
+    }
+   ],
+   "dores": [
+    {
+     "tema": "Dores na coluna, lombar e ciático",
+     "qtd": 1,
+     "exemplo": "dores fortes na lombar"
+    },
+    {
+     "tema": "Dores e problemas nos joelhos",
+     "qtd": 1,
+     "exemplo": "dores no joelho"
+    },
+    {
+     "tema": "Interrupção forçada dos treinos por limitações",
+     "qtd": 1,
+     "exemplo": "tive que parar por uns 4 meses"
+    }
+   ],
+   "correcoes": [
+    {
+     "tema": "Capacidade física na melhor idade",
+     "qtd": 1,
+     "exemplo": "Mulher de 60 tá brocando, 2025 rodei 7.000 km de bike."
+    }
+   ],
+   "objecoes": [],
+   "desejos": [
+    {
+     "tema": "Exercícios para dores específicas (joelho, hérnia e piriforme)",
+     "qtd": 1,
+     "exemplo": "Exercícios para hérnia de disco"
+    },
+    {
+     "tema": "Retomar a prática de exercícios",
+     "qtd": 1,
+     "exemplo": "vou voltar"
+    }
+   ],
+   "duvidas": [
+    {
+     "tema": "Segurança dos exercícios para quem tem lesões e condições específicas",
+     "qtd": 2,
+     "exemplo": "Pode fazer mesmo tendo dor?"
+    },
+    {
+     "tema": "Como funcionam as inscrições e valores",
+     "qtd": 1,
+     "exemplo": "Gostaria de saber quanto está a mensalidade"
+    },
+    {
+     "tema": "Necessidade de aquecimento prévio",
+     "qtd": 1,
+     "exemplo": "precisa de aquecimento?"
+    }
+   ],
+   "ideias_produto": [
+    {
+     "tema": "Programa de Pilates focado em alívio de dores articulares e na coluna",
+     "qtd": 2,
+     "exemplo": "Programa de Pilates em casa focado em alívio de dores pós-cirúrgicas no joelho"
+    },
+    {
+     "tema": "Pilates adaptado para condições especiais (pós-cirúrgico, mastectomia)",
+     "qtd": 2,
+     "exemplo": "Pilates adaptado para pós-mastectomia"
+    },
+    {
+     "tema": "Curso online acessível para a melhor idade com foco em longevidade",
+     "qtd": 1,
+     "exemplo": "Curso online ou programa de treinos voltado para mulheres acima de 60 anos com mensalidade acessível"
+    }
+   ],
+   "resumo": "Este público sofre intensamente com dores crônicas na coluna, lombar, joelhos e ciático, buscando desesperadamente alívio e exercícios adaptados às suas condições físicas específicas. Eles querem soluções práticas para fazer em casa, mas questionam se as práticas são seguras para quem já passou por cirurgias, mastectomia ou tem artrose. Contestam a própria limitação física e buscam validação de que podem envelhecer com alta performance e autonomia.",
+   "angulos": [
+    "Alívio de dores crônicas na lombar e joelhos através do Pilates em casa",
+    "Exercícios seguros para quem tem hérnia de disco, artrose ou dores ciáticas",
+    "Pilates adaptado e seguro para mulheres mastectomizadas ou no pós-cirúrgico",
+    "Como manter a alta performance e vitalidade física após os 60 anos",
+    "Guia prático para retomar os treinos sem medo de piorar as dores"
+   ],
+   "_assinatura": [
+    "1CYqsKTcVdA",
+    "9_u8unNddaA",
+    "aQ0DIrYL-Lc"
+   ]
+  },
+  "espiritualidade": {
+   "nome": "Espiritualidade / oração",
+   "videos": 5,
+   "tipos_gancho": [
+    [
+     "curiosidade",
+     2
+    ],
+    [
+     "erro-comum",
+     1
+    ],
+    [
+     "identificacao",
+     1
+    ],
+    [
+     "historia",
+     1
+    ]
+   ],
+   "formatos": [
+    [
+     "talking head",
+     4
+    ],
+    [
+     "tela dividida",
+     1
+    ]
+   ],
+   "melhores_ganchos": [
+    {
+     "id": "LidfuDCz7Ok",
+     "titulo": "Nunca saia da cama sem estas três orações 🙏 #shorts",
+     "views": 709271,
+     "outlier": 34.1,
+     "gancho": "nunca saia da cama sem dizer estas três orações a Deus.",
+     "modelo": "nunca [ação diária] sem [fazer/dizer] [número] [elementos/ações] [benefício/resultado].",
+     "tipo": "erro-comum"
+    },
+    {
+     "id": "b2URXjK7s6A",
+     "titulo": "Deus não decepciona    #shorts #aparecidaborges #gospel #oração",
+     "views": 211282,
+     "outlier": 27.8,
+     "gancho": "Eu nunca vi ninguém esperar em Deus pra ser decepcionado.",
+     "modelo": "Eu nunca vi ninguém [esperar / tentar] [situação] e se [resultado negativo].",
+     "tipo": "identificacao"
+    },
+    {
+     "id": "H_c3OoMx6Vo",
+     "titulo": "[REVELADO] PLANOS DE DEUS PARA O BRASIL 🇧🇷 🙌🏽 #shorts #oração #profecia #deus",
+     "views": 389406,
+     "outlier": 10.0,
+     "gancho": "Olha que profecia poderosa para o nosso país!",
+     "modelo": "Olha que [revelação/profecia] [adjetivo] para o nosso [país/futuro]!",
+     "tipo": "curiosidade"
+    },
+    {
+     "id": "UWJznqH2eqg",
+     "titulo": "\"O Preço das Nossas Escolhas\"🌿 #espiritismo #allankardec#oração#chicoxavier#shorts#deusnocontrole",
+     "views": 222629,
+     "outlier": 7.4,
+     "gancho": "O Chico teve um sobrinho...",
+     "modelo": "O [Famoso/Personagem] teve um [parente/caso] que...",
+     "tipo": "historia"
+    },
+    {
+     "id": "FgQ5QlorLrI",
+     "titulo": "4 Palavras Para Dormir em Paz e Despertar Melhor 🙏 #shorts #oração #pazinterior",
+     "views": 132165,
+     "outlier": 5.7,
+     "gancho": "nunca vá dormir sem dizer estas quatro coisas para Deus antes de fechar os olhos",
+     "modelo": "Nunca vá [ação] sem [fazer X] antes de [momento chave], a última muda completamente [resultado]",
+     "tipo": "curiosidade"
+    }
+   ],
+   "dores": [
+    {
+     "tema": "Sobrecarga, cansaço e situações difíceis do dia a dia",
+     "qtd": 4,
+     "exemplo": "situações difíceis e dias cansativos"
+    },
+    {
+     "tema": "Necessidade urgente de proteção e livramento para a família e lar",
+     "qtd": 4,
+     "exemplo": "Senhor cuide de mim, familiares e amigos"
+    },
+    {
+     "tema": "Espera prolongada por milagres, angústia e sensação de deserto",
+     "qtd": 1,
+     "exemplo": "Espera prolongada por milagres e respostas (meses ou anos de angústia)"
+    },
+    {
+     "tema": "Culpa, medo do passado, da morte e incompreensão de sofrimentos pessoais",
+     "qtd": 1,
+     "exemplo": "queria saber o que eu fui no passado pra merecer a vida que levo hoje"
+    },
+    {
+     "tema": "Ansiedade noturna, medos e dificuldade para dormir em paz",
+     "qtd": 1,
+     "exemplo": "medos, preocupações e dúvidas ao final do dia"
+    }
+   ],
+   "correcoes": [
+    {
+     "tema": "Cobrança por ação prática e responsabilidade familiar em vez de apenas rezar",
+     "qtd": 1,
+     "exemplo": "a questão não é pedir oração, é pedir na justiça que o pai e a mãe assumam a responsabilidade"
+    },
+    {
+     "tema": "Demanda por explicações mais aprofundadas sobre conexões espirituais e históricas",
+     "qtd": 1,
+     "exemplo": "faltou explicar o porquê Chico tinha que cuidar, qual a ligação dele no século 18 com este carrasco"
+    }
+   ],
+   "objecoes": [
+    {
+     "tema": "Reserva ou restrição religiosa em relação a doutrinas específicas (ex: espiritismo)",
+     "qtd": 1,
+     "exemplo": "não sou espírita, mas reconheço o trabalho dele"
+    },
+    {
+     "tema": "Dificuldade de se colocar no lugar do outro em situações de extremo sacrifício",
+     "qtd": 1,
+     "exemplo": "no lugar dele eu recusaria, pois não tenho vocação de ser mãe"
+    }
+   ],
+   "desejos": [
+    {
+     "tema": "Proteção, guia e livramento divino para si, familiares e nação",
+     "qtd": 3,
+     "exemplo": "Deus proteja eu, minhas filhas, meus netos"
+    },
+    {
+     "tema": "Intimidade com Deus, avivamento e alcance de milagres e promessas",
+     "qtd": 3,
+     "exemplo": "Estamos precisando de um avivamento"
+    },
+    {
+     "tema": "Paz interior, sono tranquilo e capacidade de entregar a vida nas mãos de Deus",
+     "qtd": 1,
+     "exemplo": "dormir tranquilo e acordar melhor no dia seguinte"
+    },
+    {
+     "tema": "Compreensão profunda sobre leis reencarnatórias e propósitos da vida",
+     "qtd": 1,
+     "exemplo": "quer saber mais sobre a vida reencarnatória e histórias profundas"
+    },
+    {
+     "tema": "Firmeza na fé para suportar períodos de espera e desertos",
+     "qtd": 1,
+     "exemplo": "Continuar firme na fé durante a espera"
+    }
+   ],
+   "duvidas": [
+    {
+     "tema": "Questões sobre conexões de vidas passadas, carmas e propósitos existenciais",
+     "qtd": 1,
+     "exemplo": "qual a ligação do Chico com este carrasco para ser ele a cuidar dele"
+    },
+    {
+     "tema": "Dúvidas existenciais e sobre o pós-vida",
+     "qtd": 1,
+     "exemplo": "o que somos nós?"
+    }
+   ],
+   "ideias_produto": [
+    {
+     "tema": "Jornadas, desafios e correntes de oração de 21 dias",
+     "qtd": 3,
+     "exemplo": "Desafio ou Jornada de Oração de 21 Dias"
+    },
+    {
+     "tema": "E-books, guias e diários de orações matinais ou noturnas",
+     "qtd": 3,
+     "exemplo": "E-book ou Guia de Orações Matinais para Começar o Dia"
+    },
+    {
+     "tema": "Áudios guiados de proteção, relaxamento e paz para a família",
+     "qtd": 2,
+     "exemplo": "Áudio-guia de Orações de Proteção para a Família e Filhos"
+    },
+    {
+     "tema": "Devocionais e guias práticos para manter a fé na espera prolongada",
+     "qtd": 1,
+     "exemplo": "Devocional ou guia prático para manter a fé durante a espera prolongada"
+    },
+    {
+     "tema": "Materiais sobre Karma, leis reencarnatórias e ensinamentos de conforto para a alma",
+     "qtd": 1,
+     "exemplo": "Guia prático sobre o Karma e as Leis Reencarnatórias explicado de forma simples"
+    }
+   ],
+   "resumo": "O público deste nicho sente um profundo esgotamento emocional, dores familiares e ansiedade com o futuro, buscando desesperadamente por proteção divina, milagres e paz interior. Eles querem guias práticos, jornadas de oração e conforto espiritual para enfrentar o 'deserto' e as lutas diárias. No entanto, contestam explicações superficiais sobre karmas, pedem mais responsabilidade prática em problemas familiares e rejeitam conteúdos que fujam de suas crenças centrais.",
+   "angulos": [
+    "Como encontrar paz e adormecer sem ansiedade após um dia exaustivo de lutas",
+    "O poder da oração de proteção blindando sua família e seus filhos contra todo o mal",
+    "Como manter a fé inabalável quando você já espera pelo seu milagre há meses ou anos",
+    "Entendendo o propósito do seu 'deserto': como transformar o esgotamento em força espiritual",
+    "Guia prático de orações diárias para blindar o seu lar e guiar seus passos com leveza"
+   ],
+   "_assinatura": [
+    "FgQ5QlorLrI",
+    "H_c3OoMx6Vo",
+    "LidfuDCz7Ok",
+    "UWJznqH2eqg",
+    "b2URXjK7s6A"
+   ]
+  },
+  "relacionamento": {
+   "nome": "Relacionamento",
+   "videos": 1,
+   "tipos_gancho": [
+    [
+     "curiosidade",
+     1
+    ]
+   ],
+   "formatos": [
+    [
+     "talking head",
+     1
+    ]
+   ],
+   "melhores_ganchos": [
+    {
+     "id": "SsIJbhzX37U",
+     "titulo": "O que deixa o homem louco pela mulher? #dhuanklescastro #relacionamento #shorts",
+     "views": 216112,
+     "outlier": 15.0,
+     "gancho": "Você sabe que a mulher que quer fazer falta pra um homem ela precisa fazer uma única coisa",
+     "modelo": "Você sabe que para [fazer X] você precisa fazer apenas [uma coisa]?",
+     "tipo": "curiosidade"
+    }
+   ],
+   "dores": [
+    {
+     "tema": "Anulação pessoal e perda de anos em relacionamento ruim",
+     "qtd": 1,
+     "exemplo": "perdi 28 anos jogados no lixo num relacionamento ruim"
+    },
+    {
+     "tema": "Falta de priorização e exaustão cuidando do parceiro",
+     "qtd": 1,
+     "exemplo": "priorizava tudo menos eu e cuidava dele"
+    },
+    {
+     "tema": "Saudade de si mesma e perda da própria identidade",
+     "qtd": 1,
+     "exemplo": "saudade de mim mesma tbm"
+    },
+    {
+     "tema": "Cansaço emocional após sucessivas decepções amorosas",
+     "qtd": 1,
+     "exemplo": "depois de muita decepção eu comecei a entender"
+    }
+   ],
+   "correcoes": [
+    {
+     "tema": "O homem interessado fica de qualquer forma, sem exigir fórmulas",
+     "qtd": 1,
+     "exemplo": "o homem que te quer ele vai ficar com você de qualquer jeito, não existe fórmula pra aproximar homem"
+    },
+    {
+     "tema": "Relações que exigem esforço para ser vista já começam erradas",
+     "qtd": 1,
+     "exemplo": "se vc precisar fazer algo para a pessoa te enxergar já começou errado"
+    }
+   ],
+   "objecoes": [],
+   "desejos": [
+    {
+     "tema": "Adquirir o livro indicado",
+     "qtd": 1,
+     "exemplo": "quero o livro"
+    },
+    {
+     "tema": "Ganhar material de leitura e apoio emocional",
+     "qtd": 1,
+     "exemplo": "quero ganhar esse livro, por favor"
+    }
+   ],
+   "duvidas": [],
+   "ideias_produto": [
+    {
+     "tema": "Livro físico ou digital sobre amor próprio e independência emocional",
+     "qtd": 1,
+     "exemplo": "Livro físico ou digital sobre amor próprio e independência emocional"
+    },
+    {
+     "tema": "Guia prático para reconquistar a própria identidade após casamento frustrado",
+     "qtd": 1,
+     "exemplo": "Guia prático para reconquistar a própria identidade após um casamento frustrado"
+    }
+   ],
+   "resumo": "O público feminino sente profundo arrependimento por ter investido anos em relacionamentos infelizes, anulando-se em prol do parceiro. Elas buscam resgatar a própria identidade, anseiam por ferramentas práticas como livros de desenvolvimento emocional e rejeitam a ideia de que precisam se esforçar para conquistar ou manter um homem. Contestam ativamente a necessidade de fórmulas de aproximação, defendendo que o amor verdadeiro não exige autoanulação.",
+   "angulos": [
+    "Como parar de perder anos da sua vida tentando agradar quem não te valoriza",
+    "O fim da ilusão: por que você não precisa fazer malabarismos para prender um homem",
+    "Resgate a mulher que ficou para trás: o caminho de volta para si mesma após um relacionamento anulador",
+    "Chega de cuidar de quem não cuida de você: resgatando sua prioridade e independência emocional",
+    "Se você precisa implorar ou se esforçar para ser vista, o relacionamento já começou errado"
+   ],
+   "_assinatura": [
+    "SsIJbhzX37U"
+   ]
+  },
+  "desenvolvimento": {
+   "nome": "Desenvolvimento pessoal / produtividade",
+   "videos": 6,
+   "tipos_gancho": [
+    [
+     "identificacao",
+     2
+    ],
+    [
+     "confronto",
+     1
+    ],
+    [
+     "pergunta",
+     1
+    ],
+    [
+     "autoridade",
+     1
+    ],
+    [
+     "polemica",
+     1
+    ]
+   ],
+   "formatos": [
+    [
+     "talking head",
+     2
+    ],
+    [
+     "slideshow",
+     2
+    ],
+    [
+     "atuação dramática em cena",
+     1
+    ],
+    [
+     "narração+b-roll",
+     1
+    ]
+   ],
+   "melhores_ganchos": [
+    {
+     "id": "AKUojNbIbeI",
+     "titulo": "Homem casado dá Carona#motivação #reflexão#homem#mulher#shorts  #deus#relacionamento.Verena Araújo..",
+     "views": 103178,
+     "outlier": 12.4,
+     "gancho": "Homem casado tem que ser na rua tão curto e grosso quanto mulher casada deve ser.",
+     "modelo": "[Tipo de pessoa] tem que ser na rua tão [característica] quanto [outro tipo de pessoa] deve ser.",
+     "tipo": "polemica"
+    },
+    {
+     "id": "M7aaP5dki34",
+     "titulo": "Trocaram ele por uma máquina… e a máquina travou.😱 #Shorts #Historias #motivação #deus #fe",
+     "views": 1017968,
+     "outlier": 10.0,
+     "gancho": "Vai comprar tudo de você?",
+     "modelo": "Vai [ação agressiva] de você? Então escuta bem, [aviso forte]!",
+     "tipo": "confronto"
+    },
+    {
+     "id": "7k9m86EJa8o",
+     "titulo": "7 de outubro de 2026",
+     "views": 153370,
+     "outlier": 8.7,
+     "gancho": "Minha filha, teria um pouquinho de comida?",
+     "modelo": "[Pessoa], teria um pouco de [recurso/ajuda]?",
+     "tipo": "pergunta"
+    },
+    {
+     "id": "nCmn3xpEoMw",
+     "titulo": "#motivação #gratidao #foryou #shorts",
+     "views": 132422,
+     "outlier": 8.4,
+     "gancho": "Faça o seu melhor todos os dias, porque mesmo que ninguém veja, Deus vê.",
+     "modelo": "Faça o seu melhor em [área da vida], porque mesmo que [autoridade/mundo] não veja, [força maior/resultados] vê.",
+     "tipo": "autoridade"
+    },
+    {
+     "id": "Zts35GjLNXc",
+     "titulo": "\"É sobre isso\" ☕🥀 #shorts #reflexão #filosofia #viral #fypshorts #foryou #motivação #frases #fyp",
+     "views": 141096,
+     "outlier": 8.0,
+     "gancho": "Se quiser conhecer uma pessoa não observe o que ela faz, mas o que ela ama. Agostinho",
+     "modelo": "Se quiser [desejo/objetivo], não observe [ação superficial], mas [essência/motivação].",
+     "tipo": "identificacao"
+    },
+    {
+     "id": "Yslr85CagGI",
+     "titulo": "\"Sobre isso\" ☕🥀 #shorts #filosofia #reflexão #fypshorts #motivação #foryou #viral #filosofo #frases",
+     "views": 136491,
+     "outlier": 7.8,
+     "gancho": "Se tudo que você ofereceu não foi suficiente, ofereça a sua ausência. O sal não está no cardápio, mas quando falta... você sente.",
+     "modelo": "Se tudo que você ofereceu não foi suficiente, ofereça [sua ausência]. O [elemento essencial] não está visível, mas quando falta... você sente.",
+     "tipo": "identificacao"
+    }
+   ],
+   "dores": [
+    {
+     "tema": "Sofrimento por falta de reciprocidade e abandono em relacionamentos",
+     "qtd": 2,
+     "exemplo": "Pois respeitei tanto ,dei amor ,cuidado ,atenção... e advinhem ? Acabou"
+    },
+    {
+     "tema": "Sentimento de escassez, solidão e dificuldade financeira",
+     "qtd": 1,
+     "exemplo": "É difícil olhar prus lados e não tem nada"
+    },
+    {
+     "tema": "Frustração com o caráter e ingratidão das pessoas",
+     "qtd": 2,
+     "exemplo": "Frustração com o caráter das pessoas"
+    },
+    {
+     "tema": "Carência por aprovação, validação e histórico de relações abusivas",
+     "qtd": 1,
+     "exemplo": "fui pisada demais"
+    }
+   ],
+   "correcoes": [
+    {
+     "tema": "Julgar pelas ações e não apenas pelas palavras",
+     "qtd": 1,
+     "exemplo": "Observe o que a pessoa faz, pois ações valem mais do que palavras"
+    },
+    {
+     "tema": "Questionar a moralidade e as escolhas alheias",
+     "qtd": 1,
+     "exemplo": "Será mesmo? Ela é casada com um cara divorciado! Vai vendo…."
+    },
+    {
+     "tema": "Aplicar o pragmatismo e referências históricas na convivência",
+     "qtd": 1,
+     "exemplo": "Maquiavél já dizia há quinhentos anos atrás"
+    }
+   ],
+   "objecoes": [],
+   "desejos": [
+    {
+     "tema": "Ver histórias completas e continuações rápidas sem enrolação",
+     "qtd": 1,
+     "exemplo": "Quero ver a continuação dá história e esse Arrogante se Lascar Deus é fiel"
+    },
+    {
+     "tema": "Abundância financeira e prosperidade",
+     "qtd": 1,
+     "exemplo": "Que Deus me dê em dobro"
+    },
+    {
+     "tema": "Autossuficiência e paz interior",
+     "qtd": 1,
+     "exemplo": "estar satisfeito consigo mesmo"
+    }
+   ],
+   "duvidas": [
+    {
+     "tema": "Como lidar com a solidão prolongada e casamentos sem afeto",
+     "qtd": 1,
+     "exemplo": "Eu sou casado mas não tenho esposo como é que eu faço tô com 14 anos sem ninguém do meu lado e aí como é que fica"
+    },
+    {
+     "tema": "Curiosidade sobre trilhas sonoras dos vídeos",
+     "qtd": 1,
+     "exemplo": "Qual nome dessa musica?"
+    },
+    {
+     "tema": "Por que os vídeos demoram para avançar na história",
+     "qtd": 1,
+     "exemplo": "demora muito pra passar porque será"
+    }
+   ],
+   "ideias_produto": [
+    {
+     "tema": "Série de narrativas e infoprodutos focados em histórias reais de superação",
+     "qtd": 1,
+     "exemplo": "Série de histórias em formato de áudio ou vídeo longo (infoproduto de narrativa contínua)"
+    },
+    {
+     "tema": "Guia de limites, postura e inteligência relacional no casamento",
+     "qtd": 1,
+     "exemplo": "Guia de limites e postura no casamento para evitar traições e amizades perigosas"
+    },
+    {
+     "tema": "Curso ou mentoria para reconstrução emocional e superação de dependência",
+     "qtd": 2,
+     "exemplo": "Curso sobre reconstrução emocional após separação e como lidar com a dependência afetiva"
+    }
+   ],
+   "resumo": "O público deste nicho sente profunda frustração com relacionamentos falhos, ingratidão e falta de reciprocidade emocional. Eles querem histórias completas de superação e orientações práticas para estabelecer limites e recuperar a autoestima. Contestam a falta de lealdade alheia e a demora na entrega de conteúdos sequenciais.",
+   "angulos": [
+    "Como parar de mendigar atenção e validação de quem só te usa",
+    "O teste das ações: descubra o real caráter de quem está ao seu lado antes que seja tarde",
+    "Por que você se dedica tanto e acaba abandonado(a): a dinâmica oculta da dependência afetiva",
+    "Histórias reais de quem deu a volta por cima após a ingratidão e a traição",
+    "Como recuperar a paz interior e a autossuficiência quando parece que você está sozinho(a) há anos"
+   ],
+   "_assinatura": [
+    "7k9m86EJa8o",
+    "AKUojNbIbeI",
+    "M7aaP5dki34",
+    "Yslr85CagGI",
+    "Zts35GjLNXc",
+    "nCmn3xpEoMw"
+   ]
+  },
+  "casa": {
+   "nome": "Casa / limpeza / organização",
+   "videos": 1,
+   "tipos_gancho": [
+    [
+     "identificacao",
+     1
+    ]
+   ],
+   "formatos": [
+    [
+     "tela dividida",
+     1
+    ]
+   ],
+   "melhores_ganchos": [
+    {
+     "id": "MYYf8heOo8o",
+     "titulo": "Armadilha caseira para moscas com garrafa PET 🪰😳 #shorts",
+     "views": 1133048,
+     "outlier": 21.9,
+     "gancho": "moscas incomodando dentro de casa?",
+     "modelo": "[Problema doméstico irritante] dentro de casa?",
+     "tipo": "identificacao"
+    }
+   ],
+   "dores": [
+    {
+     "tema": "Incentivo ou incômodo com moscas e insetos",
+     "qtd": 2,
+     "exemplo": "tenho pavor dessas moscas"
+    }
+   ],
+   "correcoes": [
+    {
+     "tema": "Uso de recipientes rasos em vez de garrafas",
+     "qtd": 1,
+     "exemplo": "Já fiz mais não em garrafa pati em recipiente, rasos gostei"
+    }
+   ],
+   "objecoes": [
+    {
+     "tema": "Ceticismo sobre a eficácia da dica",
+     "qtd": 3,
+     "exemplo": "Só vou dar nota quando eu testar kkkk não creio nisso"
+    }
+   ],
+   "desejos": [
+    {
+     "tema": "Testar a solução caseira imediatamente",
+     "qtd": 3,
+     "exemplo": "vou fazer amanhã"
+    }
+   ],
+   "duvidas": [
+    {
+     "tema": "Dúvida se a dica realmente funciona",
+     "qtd": 2,
+     "exemplo": "Rapaz... é verdade?"
+    }
+   ],
+   "ideias_produto": [
+    {
+     "tema": "Guia de soluções caseiras contra pragas",
+     "qtd": 1,
+     "exemplo": "Guia definitivo de soluções caseiras e naturais contra pragas domésticas"
+    },
+    {
+     "tema": "E-book de receitas ecológicas",
+     "qtd": 1,
+     "exemplo": "E-book de receitas ecológicas para limpeza e controle de insetos no calor"
+    }
+   ],
+   "resumo": "O público demonstra grande incômodo com a proliferação de insetos típicos das estações mais quentes. Há um forte desejo de testar soluções caseiras imediatamente para resolver o problema de forma prática. Contudo, prevalece a desconfiança quanto à eficácia real dos métodos antes de uma comprovação prática.",
+   "angulos": [
+    "Como se livrar das moscas no calor usando apenas ingredientes que você tem em casa",
+    "O teste definitivo: essa misturinha caseira contra insetos realmente funciona?",
+    "Pare de sofrer com pragas domésticas no verão com este método simples",
+    "Aprenda a adaptar receitas caseiras em recipientes rasos para maior eficácia",
+    "Soluções ecológicas e naturais para manter sua casa livre de insetos sem gastar nada"
+   ],
+   "_assinatura": [
+    "MYYf8heOo8o"
+   ]
+  }
+ }
+}
