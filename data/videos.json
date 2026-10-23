@@ -4418,8 +4418,120 @@
   ],
   "termo": "receita para emagrecer",
   "achado": "2026-10-23T18:26:12+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Essa receita é completamente viciante e rende vários.",
+   "texto_tela": "ISSO É VICIANTE!",
+   "visual_inicial": "Cubinhos de sobremesa recheados caindo em uma tigela branca e, em seguida, a criadora segurando um deles bem perto da câmera.",
+   "tipo_gancho": "curiosidade",
+   "formato": "b-roll com talking head",
+   "emocao": "desejo",
+   "retencao": "Apresentação imediata do resultado final super estético e apetitoso, gerando o desejo instantâneo de descobrir como preparar em casa.",
+   "cta": "nenhum",
+   "por_que_funciona": "Combina apelo visual imediato (doce bonito e apetitoso caindo na tigela) com uma afirmação hiperbólica que desperta o paladar e a curiosidade de quem quer comer doce sem sair da dieta.",
+   "modelo_gancho": "Essa receita de [preparo/prato] é completamente viciante e rende [benefício/quantidade]!",
+   "variacoes": [
+    "Essa receita de bombom de brownie fit é completamente viciante e rende a semana toda!",
+    "Esse snack salgado de grão-de-bico é completamente viciante e tem pouquíssimas calorias!",
+    "Essa sobremesa gelada de maracujá é completamente viciante e fica pronta em 5 minutos!"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Iogurte grego causa cólicas insuportáveis",
+    "Preço do whey e de produtos fitness está muito alto"
+   ],
+   "correcoes": [
+    "O iogurte é zero açúcar, mas a pessoa coloca essência de baunilha, mel e geleia cheia de açúcar",
+    "O que não vai de açúcar no iogurte vai exageradamente no resto da receita",
+    "Essência de baunilha não é natural, tem xarope de milho que é pior que açúcar",
+    "Não tem o crédito na descrição"
+   ],
+   "duvidas": [
+    "Como saber quantas gramas de proteína tem?",
+    "Será que goiabada dá certo, mas sem o chocolate?"
+   ],
+   "desejos": [
+    "Fazer a receita adaptada (sem mel ou com outro iogurte)",
+    "Substituir ingredientes da receita"
+   ],
+   "objecoes": [
+    "O que adianta ser sem açúcar e colocar mel e geleia?",
+    "Isso é uma porcaria, não tem nada de saudável",
+    "Diabetes à vista",
+    "Esse Yorgus é caro e ruim"
+   ],
+   "elogios": [
+    "Ideia maravilhosa / Genial",
+    "Franuit caseiro, perfeito",
+    "Vicia mesmo",
+    "Legal a receita"
+   ],
+   "frases_exatas": [
+    "Receita doce proteico pra não sair da dieta",
+    "O que adianta o iogurte não ter açúcar e colocar geleia?",
+    "Não TINHA açúcar, mas ela providenciou",
+    "Diabetes à vista",
+    "Vicia mesmo",
+    "Aí eu como só a forminha toda",
+    "Isso é uma porcaria não tem nada de saudável",
+    "Quem consegue achar o erro?"
+   ],
+   "ideias_produto": [
+    "Guia de substituições inteligentes de ingredientes fit para evitar falsas receitas saudáveis",
+    "E-book de receitas doces realmente zero açúcar e de baixo custo"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Yogurte + mel + baunilha + geleia + choco 70%",
+    "l": 26
+   },
+   {
+    "t": "Kkkkk....o yougurt é zero açúcar, aí a pessoa põe essência de baunilha, mel e geleia.....quem consegue achar o erro?",
+    "l": 17
+   },
+   {
+    "t": "Não TINHA açúcar, lactose e gordura, mas ela providenciou. 😅",
+    "l": 11
+   },
+   {
+    "t": "Ideia maravilhosa",
+    "l": 9
+   },
+   {
+    "t": "Tão colocando proteína em tudo, por isso falta whey e o que sobra, já está em 200 reais o pacote de 1kg da Growth",
+    "l": 8
+   },
+   {
+    "t": "Legal a receita. E também o top, o olho e a embalagem do iogurte, tudo combinando.😊",
+    "l": 5
+   },
+   {
+    "t": "Quem agarrar essa criatura aí, não solta não.",
+    "l": 4
+   },
+   {
+    "t": "Oque não vai de açúcar no yogurte vai exageradamente no resto da receita 😂",
+    "l": 4
+   },
+   {
+    "t": "Legal ❤❤",
+    "l": 4
+   },
+   {
+    "t": "Como saber quantas gramas de proteína tem?",
+    "l": 4
+   },
+   {
+    "t": "nhaam...",
+    "l": 3
+   },
+   {
+    "t": "Que moça bonita ❤",
+    "l": 2
+   }
+  ],
+  "analisado": "2026-10-23T23:15:51+00:00"
  },
  "rcdVLBSMYoQ": {
   "id": "rcdVLBSMYoQ",
@@ -4949,5 +5061,935 @@
    }
   ],
   "analisado": "2026-10-23T18:37:45+00:00"
+ },
+ "7rtVM0rBRvs": {
+  "id": "7rtVM0rBRvs",
+  "titulo": "Testemunho de Cura do Cantor Saulo! Muito forte! #shorts #testemunho #testemunhoforte #jesuslovesyou",
+  "canal": "Sopro do Espírito",
+  "canal_id": "UCBFEC8NBWTfti_whfMNtGjQ",
+  "inscritos": 512000,
+  "publicado": "2026-10-08T21:00:27Z",
+  "duracao": 180,
+  "views": 1382423,
+  "likes": 78903,
+  "comentarios": 2441,
+  "outlier": 0.8,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": null,
+  "dores": null
+ },
+ "5XUYCjIN4Yw": {
+  "id": "5XUYCjIN4Yw",
+  "titulo": "Testemunho de Conversão do Pr. Ricardo Braga! Muito forte! #shorts #testemunho #testemunhoforte #fé",
+  "canal": "Sopro do Espírito",
+  "canal_id": "UCBFEC8NBWTfti_whfMNtGjQ",
+  "inscritos": 512000,
+  "publicado": "2026-09-29T21:00:26Z",
+  "duracao": 180,
+  "views": 1171793,
+  "likes": 76881,
+  "comentarios": 856,
+  "outlier": 0.7,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": null,
+  "dores": null
+ },
+ "OLQbEs0p9R8": {
+  "id": "OLQbEs0p9R8",
+  "titulo": "Testemunho MUITO FORTE do Pr. Thiago de Assis!🥹 #shorts #testemunho #testemunhoforte #jesuslovesyou",
+  "canal": "Sopro do Espírito",
+  "canal_id": "UCBFEC8NBWTfti_whfMNtGjQ",
+  "inscritos": 512000,
+  "publicado": "2026-10-15T21:00:23Z",
+  "duracao": 180,
+  "views": 1118358,
+  "likes": 76745,
+  "comentarios": 1152,
+  "outlier": 0.7,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": null,
+  "dores": null
+ },
+ "iVwbR7PlIdw": {
+  "id": "iVwbR7PlIdw",
+  "titulo": "MENSAGEM DE DESPERTAMENTO ESPIRITUAL #gospel #espiritosanto #Deus #shorts",
+  "canal": "Fabiano@Alves",
+  "canal_id": "UCJbcKBfcuAqlLriFDHtr5-Q",
+  "inscritos": 894000,
+  "publicado": "2026-10-10T23:49:30Z",
+  "duracao": 114,
+  "views": 630437,
+  "likes": 24262,
+  "comentarios": 1127,
+  "outlier": 6.4,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": {
+   "gancho_falado": "ALERTA SEVERO",
+   "texto_tela": "TENHO PROPÓSITO COM DEUS",
+   "visual_inicial": "Um homem falando diretamente para a câmera com legenda grande na tela, com tela dividida mostrando um apresentador abaixo.",
+   "tipo_gancho": "autoridade",
+   "formato": "tela dividida",
+   "emocao": "urgência",
+   "retencao": "promessa adiada de uma mensagem divina importante para o espectador",
+   "cta": "",
+   "por_que_funciona": "Usa palavras de forte apelo emocional (\"alerta severo\", \"Deus\") logo no início, gerando curiosidade imediata e urgência.",
+   "modelo_gancho": "[ALERTA SEVERO] [Deus] está chamando a sua atenção",
+   "variacoes": [
+    "ALERTA SEVERO, o universo está chamando a sua atenção.",
+    "ALERTA SEVERO, seu dinheiro está chamando a sua atenção.",
+    "ALERTA SEVERO, sua saúde está chamando a sua atenção."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "inimigos espirituais",
+    "o amor de muitos esfriariam",
+    "Deus eu preciso desse despertar"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "me ajude Senhor, a cada dia me firmar na tua presença",
+    "senhor abençoe o Brasil toma nas tuas mãos Senhor liberta",
+    "cure cure cure"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Que mensagem linda meu DEUS",
+    "Verdade verdadeira",
+    "Exatamente faz sentindo suas alertas"
+   ],
+   "frases_exatas": [
+    "Eu creio e recebo em nome de Jesus",
+    "Deus é bom em todo tempo",
+    "Gratidão Senhor por cuidar de mim",
+    "O REI está Voltando",
+    "JESUS CRISTO em breve VOLTARÁ",
+    "Deus eu preciso desse despertar"
+   ],
+   "ideias_produto": [
+    "Devocional diário de fortalecimento espiritual",
+    "Guia de oração contra inimigos espirituais",
+    "Curso de estudo bíblico sobre o fim dos tempos"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Que mensagem linda meu DEUS  como DEUS nos ama ALELUIA",
+    "l": 50
+   },
+   {
+    "t": "Verdade verdadeira 👏👏👏👏👏👏👏👏👏🙌🙌🙌🙌",
+    "l": 47
+   },
+   {
+    "t": "Amém glória Deus aleluia amém eu recebo tomo posse em nome de Jesus amém",
+    "l": 38
+   },
+   {
+    "t": "Senhor obrigado por essa palavra. Amém 🙏✋❤",
+    "l": 16
+   },
+   {
+    "t": "Grroria Deus aleluia, verdade amém Jesus 🙏🙏",
+    "l": 14
+   },
+   {
+    "t": "Glórias a Deus,me ajude Senhor,a cada dia me firmar na tua presença ❤",
+    "l": 13
+   },
+   {
+    "t": "Amem Glória Deus abençoe cada ✋️ ✋️ ✋️ ✋️ ✋️",
+    "l": 13
+   },
+   {
+    "t": "Glórias a Deus pela minha vida Amém gratidão Deus",
+    "l": 13
+   },
+   {
+    "t": "Amém glória a Deus aleluia Deus é fiel e justo",
+    "l": 13
+   },
+   {
+    "t": "Amém meu senhor e salvador Jesus Cristo amém 🙏🙏 🙏",
+    "l": 12
+   },
+   {
+    "t": "DEUS é bom em todo tempo o tempo todo eu creio em nome de Jesus amém",
+    "l": 10
+   },
+   {
+    "t": "Amém Deus e maravilhoso",
+    "l": 10
+   }
+  ],
+  "analisado": "2026-10-23T23:17:21+00:00"
+ },
+ "FNi_trZgUyM": {
+  "id": "FNi_trZgUyM",
+  "titulo": "As 7 vezes em que Deus se deixou ver na Bíblia",
+  "canal": "Cristo ou Nada ",
+  "canal_id": "UCIo0N715F7Oc9dG7MTHCw1A",
+  "inscritos": 81300,
+  "publicado": "2026-09-30T23:30:39Z",
+  "duracao": 144,
+  "views": 805684,
+  "likes": 80542,
+  "comentarios": 11521,
+  "outlier": 28.3,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": {
+   "gancho_falado": "A Bíblia diz que ninguém pode ver a face de Deus e continuar vivo.",
+   "texto_tela": "A BÍBLIA DIZ QUE NINGUÉM PODE",
+   "visual_inicial": "Um homem de costas olhando para uma luz intensa e divina vinda do céu em meio a montanhas escuras.",
+   "tipo_gancho": "curiosidade",
+   "formato": "narração+b-roll",
+   "emocao": "muralha de mistério",
+   "retencao": "Promessa de revelar 7 momentos em que isso aconteceu, mantendo o espectador até o final para ver o topo da lista.",
+   "cta": "",
+   "por_que_funciona": "Usa um paradoxo bíblico intrigante (ninguém pode ver Deus, mas a Bíblia mostra que alguns viram) combinado com uma lista numerada decrescente, o que gera alta curiosidade imediata.",
+   "modelo_gancho": "A Bíblia diz que [regra absoluta], mas ela registra [exceções chocantes].",
+   "variacoes": [
+    "A medicina diz que [condição é impossível], mas este caso registra [exceção milagrosa].",
+    "A lei proíbe [ação], mas este documento revela [vez exata que aconteceu].",
+    "A história diz que [personagem morreu], mas há registros de que ele [fez outra coisa]."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "cura minha alma e vida"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Jesus me proteja minha família"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "o nosso Deus está vivo",
+    "Jesus é o rosto de Deus",
+    "Ele está presente entre nós"
+   ],
+   "frases_exatas": [
+    "Eu creio no poder de Senhor Jesus Amém",
+    "A ti senhor só gratidão",
+    "O Senhor Jesus é a explicação máxima do amor de Deus",
+    "Jesus é o rosto de Deus",
+    "Eu creio e tomo posse dessa palavra",
+    "Deus todo poderoso assim é Eu creio",
+    "teme a Deus e guarde os seus mandamentos",
+    "Jesus ou nada"
+   ],
+   "ideias_produto": []
+  },
+  "top_comentarios": [
+   {
+    "t": "Eu creio no poder de Senhor Jesus Amém",
+    "l": 204
+   },
+   {
+    "t": "A ti senhor só gratidão louvado seja o teu nome o nosso Deus está vivo.",
+    "l": 80
+   },
+   {
+    "t": "Aleluia aleluia aleluia jesus, glória!!... DEUS seja Louvado e Exaltado sempre 🙏🙏🙏🙏🔥🔥🔥🔥🔥",
+    "l": 67
+   },
+   {
+    "t": "Amém eu creio Deus é vivo e tem todo poder no céu i na terra",
+    "l": 62
+   },
+   {
+    "t": "Jesus é o rosto de Deus, amém, eu creio em sua palavra, amém.",
+    "l": 49
+   },
+   {
+    "t": "ELE está presente em nosso meio !!!❤❤❤",
+    "l": 48
+   },
+   {
+    "t": "Jesus Cristo é o rosto de Deus amém senhor Jesus Cristo glória a Deus 🙏🙏🙏🙏🙏🙏🙏",
+    "l": 46
+   },
+   {
+    "t": "EITA GLÓRIAS ALELUIA SOMENTE GRATIDÃO SEMPRE GRATIDÃO ETERNAMENTE AO NOSSO DEUS ÚNICO",
+    "l": 44
+   },
+   {
+    "t": "Que Deus seja louvado 🙏🏼",
+    "l": 35
+   },
+   {
+    "t": "Jesus Cristo amém gratidão senhor por tudo que Deus tem poder de mover montanhas mover montanhas",
+    "l": 35
+   },
+   {
+    "t": "Amém. Gloria a Deus, por tudo!! Gratidão a ele, por tudo!!!",
+    "l": 33
+   },
+   {
+    "t": "O Senhor Jesus é a explicação máxima do amor de Deus,para vida da humanidade...",
+    "l": 32
+   }
+  ],
+  "analisado": "2026-10-23T23:16:29+00:00"
+ },
+ "sDsj2H0TlSg": {
+  "id": "sDsj2H0TlSg",
+  "titulo": "🙏 JESUS ESTÁ VOLTANDO! 😭❤️ #jesus #fé #deus #shorts #viral #evangelho #cristo #bíblia",
+  "canal": "CAMINHO DA FÉ ",
+  "canal_id": "UClU0m-KlEhvOc79muI77R5A",
+  "inscritos": 209000,
+  "publicado": "2026-10-18T16:00:34Z",
+  "duracao": 62,
+  "views": 329417,
+  "likes": 11299,
+  "comentarios": 162,
+  "outlier": 16.8,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": {
+   "gancho_falado": "",
+   "texto_tela": "",
+   "visual_inicial": "Um homem parecido com Jesus correndo animado em uma paisagem desértica com nuvens no céu.",
+   "tipo_gancho": "identificacao",
+   "formato": "animação",
+   "emocao": "surpresa",
+   "retencao": "A narrativa visual com reviravoltas sobre a poluição do mundo e a intervenção divina.",
+   "cta": "",
+   "por_que_funciona": "Usa uma figura religiosa pop e conhecida mundialmente em uma situação inusitada animada que causa forte curiosidade instantânea.",
+   "modelo_gancho": "O que acontece quando [figura icônica] encontra [situação cotidiana moderna]",
+   "variacoes": [
+    "O que acontece quando Buda encontra um smartphone sem bateria",
+    "O que acontece quando Papai Noel chega no Polo Norte em chamas",
+    "O que acontece quando um anjo cai em uma metrópole poluída"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Jesus eu quero tanto que o meu vô de volta",
+    "me salvou da depressão e agora estou mais feliz que nunca"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Jesus salva a vida de todo mundo",
+    "espalhem o evangelho"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Amém 100% Amém Deus é bom",
+    "Jesus he is the truth and life"
+   ],
+   "frases_exatas": [
+    "Jesus eu quero tanto que o meu vô de volta",
+    "Jesus está voltando espalhem o evangelho",
+    "Amém meu DEUS que ME SALVO",
+    "meu jesus já me salvou da depressão e agora estou mais feliz que nunca",
+    "Jesus will always win, and the devil will always lose",
+    "Levanta esse sofá menino Jesus mudou mundo inteiro e não desistiu"
+   ],
+   "ideias_produto": [
+    "Devocional diário sobre superação da depressão pela fé",
+    "Guia prático de orações para conforto familiar e luto",
+    "Curso online sobre como evangelizar e espalhar a palavra"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Jesus eu quero tanto que o meu vô de volta 🙍🛐💟☦️💟🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠",
+    "l": 17
+   },
+   {
+    "t": "Amén jesus está voltando espalhem o evangelho",
+    "l": 8
+   },
+   {
+    "t": "❤❤❤1🙏🏼🙏🏼",
+    "l": 7
+   },
+   {
+    "t": "Amém ❤❤❤Jesus  Cristo",
+    "l": 6
+   },
+   {
+    "t": "🙏🙏🙏🙏🙏🙏🙏🙏❤️jbf",
+    "l": 5
+   },
+   {
+    "t": "Deus você pode fazer até todos ele ele protege a pessoa pode fazer até tudo",
+    "l": 4
+   },
+   {
+    "t": "Deus salva a vida de todo mundo❤❤❤❤❤❤❤❤😢😢😢😢😢😮😮",
+    "l": 4
+   },
+   {
+    "t": "Amém",
+    "l": 4
+   },
+   {
+    "t": "AMÉM meu DEUS que ME SALVO 🙏🙏🙏🙏🙏",
+    "l": 4
+   },
+   {
+    "t": "Amém a Deus 💖💖🙏🙏🙏🙏🙏🙏🙏",
+    "l": 4
+   },
+   {
+    "t": "Amen ❤😊❤😊😊❤I Love you Jesus ❤😊❤😊❤😊❤",
+    "l": 3
+   },
+   {
+    "t": "Amén❤❤❤❤❤❤❤❤",
+    "l": 2
+   }
+  ],
+  "analisado": "2026-10-23T23:17:12+00:00"
+ },
+ "T8_fZj7WRXo": {
+  "id": "T8_fZj7WRXo",
+  "titulo": "Testemunho muito sobrenatural do Pr. Marcos Alves! 😭 #shorts #testemunho #sobrenatural #inveja #fe",
+  "canal": "Firmes na Promessa",
+  "canal_id": "UC587aKR4ouMDv47ItvPYrOA",
+  "inscritos": 2470,
+  "publicado": "2026-10-19T22:00:12Z",
+  "duracao": 180,
+  "views": 377869,
+  "likes": 25101,
+  "comentarios": 840,
+  "outlier": 6.6,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": {
+   "gancho_falado": "Tinha um pastor lá na época",
+   "texto_tela": "Tinha um pastor lá",
+   "visual_inicial": "Homem de meia-idade, careca e de barba por fazer, falando diretamente para a câmera em estúdio com iluminação roxa.",
+   "tipo_gancho": "historia",
+   "formato": "talking head",
+   "emocao": "curiosidade",
+   "retencao": "promessa adiada sobre o que aconteceu quando ele voltou ao local",
+   "cta": "",
+   "por_que_funciona": "Começa in media res com um personagem instigante (\"um pastor lá\"), criando imediatas expectativa e curiosidade no espectador.",
+   "modelo_gancho": "Tinha um [personagem/tipo de pessoa] lá na época que [ação bizarra/inesperada]",
+   "variacoes": [
+    "Tinha um cliente lá na loja que toda vez que eu passava falava...",
+    "Tinha um aluno na faculdade que toda vez que eu chegava dizia...",
+    "Tinha um vizinho lá no prédio que toda vez que me via fazia..."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Preciso me liberta 😢mts vícios orem por mim",
+    "Temos muitas pessoas especiais com grande potencial, perdida na lama das drogas alcoolismo",
+    "Amém eu preciso tanto de um socorro urgente",
+    "Que Deus Todo Poderoso envie um bom Anjo para ajudar meu marido a se libertar do vício do álcool",
+    "Deus também vai mim ajudar a mim livrar desse vício"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Amém eu Creio, em nome de JESUS !!",
+    "Vamos orar por todos viciados"
+   ],
+   "objecoes": [
+    "É tem quem não acredita em milagres"
+   ],
+   "elogios": [
+    "Não sei porque que eu choro, com este tipo de testemunho,é mto forte",
+    "Isso é:: Deus na vida do homem..... Glória a Deus....",
+    "Não podia começar... Melhor minha sexta feira.....",
+    "Que testemunho lindo irmão Deus abençoe a sua vida",
+    "Carambaaa, eu arrepiei todo"
+   ],
+   "frases_exatas": [
+    "Revela a presença real de Deus",
+    "Preciso me liberta mts vícios orem por mim",
+    "Deus é Deus, não importa a situação",
+    "Amém eu preciso tanto de um socorro urgente",
+    "DEUS NUNCA FALHA NUNCA",
+    "ALGUÉM ESTAVA ORANDO MUITO POR ELE",
+    "O AMOR DE DEUS É INFINITO",
+    "Carambaaa, eu arrepiei todo"
+   ],
+   "ideias_produto": [
+    "Campanha de oração online focada em libertação de vícios e alcoolismo",
+    "E-book de testemunhos de transformação e superação espiritual",
+    "Mentoria ou programa de apoio para famílias lidarem com parentes dependentes químicos"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "😭😭😭. Não sei porque que eu choro, com este tipo de testemunho,é mto forte. Revela a presença real de Deus, não como o homem quer ver na excelência da sua glória,mas na sua glória de poder.",
+    "l": 189
+   },
+   {
+    "t": "Preciso me liberta 😢mts vícios orem por mim",
+    "l": 106
+   },
+   {
+    "t": "Isso é:: Deus na vida do homem..... Glória a Deus....",
+    "l": 68
+   },
+   {
+    "t": "Pkp... Não podia começar... Melhor minha sexta feira..... 😢😢.. meu senhor.... Obrigado....",
+    "l": 50
+   },
+   {
+    "t": "eu quero servir a esse Deus meu irmão tô precisando muito muito dele",
+    "l": 33
+   },
+   {
+    "t": "Certeza que  tinha um joelho dobrado orando por ele.😢❤",
+    "l": 15
+   },
+   {
+    "t": "glória a Deus",
+    "l": 15
+   },
+   {
+    "t": "Temos muitas pessoas especiais com grande potencial, perdida na lama das drogas alcoolismo.etc  Escravidão escamas nos olhos !!",
+    "l": 12
+   },
+   {
+    "t": "Deus é Deus, não importa a situação, Deus é Deus.",
+    "l": 12
+   },
+   {
+    "t": "Amém eu preciso tanto de um socorro urgente",
+    "l": 12
+   },
+   {
+    "t": "DEUS NUNCA FALHA NUNCA E VIDA QUE SEGUE",
+    "l": 10
+   },
+   {
+    "t": "Deus maravilhoso e fiel amém",
+    "l": 8
+   }
+  ],
+  "analisado": "2026-10-23T23:17:31+00:00"
+ },
+ "Z_l8qOnK5Rc": {
+  "id": "Z_l8qOnK5Rc",
+  "titulo": "Esse testemunho vai impactar seu coração! 🥹 #shorts #testemunho #sabedoria #inveja #fe",
+  "canal": "Firmes na Promessa",
+  "canal_id": "UC587aKR4ouMDv47ItvPYrOA",
+  "inscritos": 2470,
+  "publicado": "2026-10-14T22:00:05Z",
+  "duracao": 178,
+  "views": 351414,
+  "likes": 13961,
+  "comentarios": 181,
+  "outlier": 6.2,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": null,
+  "dores": null
+ },
+ "gVfIII_sNiY": {
+  "id": "gVfIII_sNiY",
+  "titulo": "São Miguel Arcanjo.  29 de setembro. #deus #reflexão #shorts #anjos #jesus",
+  "canal": "Santos o Amigo",
+  "canal_id": "UCfj-vb1PU1xO3f21PUKuLBQ",
+  "inscritos": 14100,
+  "publicado": "2026-09-29T19:34:20Z",
+  "duracao": 128,
+  "views": 319252,
+  "likes": 22306,
+  "comentarios": 2376,
+  "outlier": 24.9,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": {
+   "gancho_falado": "Em nome do Pai, do Filho e do Espírito Santo",
+   "texto_tela": "Bom Dia - DIA DE SÃO MIGUEL ARCANJO - 29 DE SETEMBRO - em nome do pai",
+   "visual_inicial": "Ilustração clássica de São Miguel Arcanjo com armadura, espada e asas, pisando em uma serpente sob nuvens dramáticas.",
+   "tipo_gancho": "identificacao",
+   "formato": "slideshow",
+   "emocao": "fé e proteção",
+   "retencao": "A oração contínua e o apelo à proteção contra o mal prendem o fiel até o final.",
+   "cta": "",
+   "por_que_funciona": "Conecta-se imediatamente com a devoção religiosa e o desejo de proteção espiritual logo cedo.",
+   "modelo_gancho": "Em nome do Pai, do Filho e do Espírito Santo, [chame o santo protetor] nos proteja...",
+   "variacoes": [
+    "Em nome do Pai, do Filho e do Espírito Santo, São Jorge guerreiro nos cubra com seu manto...",
+    "Em nome do Pai, do Filho e do Espírito Santo, Nossa Senhora nos envolva em sua luz...",
+    "Em nome do Pai, do Filho e do Espírito Santo, meu santo anjo da guarda nos guie hoje..."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "São Miguel arcanjo livra mim de todo mal dos inimigos",
+    "São Miguel Arcanjo com tua espada quebra todas as correntes negativas do meu caminho",
+    "São Miguel Arcanjo me proteja dos ataques invisíveis",
+    "Livrai de todo o mal e protege eu e todos da minha família",
+    "Me livrai de toda injustiça e inimizades e olho gordo e palavras contrárias"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "São Miguel Arcanjo me dê forças pra viver",
+    "O são Miguel arcanjo realize todos os meus sonhos profética",
+    "São Miguel daí um emprego para meu filho Danielio",
+    "Me traga uma oportunidade de trabalho através dos meus contatos",
+    "Traga me bençãos em minha vida, saúde amor paz fartura abundância financeira"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Amém gratidão infinita são Miguel Arcanjo por tua proteção",
+    "Obrigado São Miguel. Proteja- me contra todo o mal",
+    "Eu creio e recebo, toda proteção e bençãos de São Miguel Arcanjo"
+   ],
+   "frases_exatas": [
+    "São Miguel Arcanjo me dê forças pra viver",
+    "Com tua espada quebra todas as correntes negativas do meu caminho",
+    "Eu creio, em nome de Jesus",
+    "Eu creio eu recebo eu tomo posse em nome de Jesus Cristo",
+    "São Miguel arcanjo defendei me no combate e aos meus",
+    "O Senhor é o meu refúgio, a minha fortaleza e Nele confiarei",
+    "São Miguel Arcanjo me proteja dos ataques invisíveis",
+    "Príncipe das batalhas celestial gratidão"
+   ],
+   "ideias_produto": [
+    "Novena guiada de São Miguel Arcanjo em áudio para proteção diária",
+    "E-book de orações fortes de quebra de demandas e proteção espiritual",
+    "Imagens e talismãs abençoados de São Miguel Arcanjo com a espada",
+    "Desafio de 21 dias de oração e prosperidade financeira com os Arcanjos"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "São Miguel arcanjo livra mim de todo mal dos inimigos amém amém",
+    "l": 30
+   },
+   {
+    "t": "São Miguel arcanjo  Miguel arcanjo  nós   abençoe nos proteja de todas mal amém amém ❤🙏🏻🙏🏻🙏🏻❤",
+    "l": 27
+   },
+   {
+    "t": "São Miguel Arcanjo me dê forças pra viver Amém 🙏",
+    "l": 25
+   },
+   {
+    "t": "SAO MIGUEL ARCANJO COM TUA ESPADA QUEBRA TODAS AS CORRENTES NEGATIVADO OS MEUS CAMINHOS AMÉM AMÉM AMÉM ❤❤❤",
+    "l": 20
+   },
+   {
+    "t": "Amém gratidão infinita são Miguel Arcanjo por tua proteção livramentos gratidão por estares sempre presente em nossas vidas em nossa defesa gratidão infinita 🙏🌞🌹😘💖",
+    "l": 19
+   },
+   {
+    "t": "❤ AMÉM são Miguel arcanjo protegei e minha família gratidão por tudo que Deus abençoe sempre amém 🙏❤️👏💙🙌💟💘❤️‍🩹🤩✋💕🥰😍🎉🙏",
+    "l": 16
+   },
+   {
+    "t": "Amém  são Miguel  arcanjo proteja minha vida e do meus filho de todo mal Amém amém amém",
+    "l": 15
+   },
+   {
+    "t": "Amem 🙏 amem 🙏 amem 🙏 sangue dê Jesus mim porifico é são Miguel arcanjo mim proteja mim defender dê todos malis deste mundo amem 🙏🙏🙏❤❤❤",
+    "l": 13
+   },
+   {
+    "t": "Amém senhor Jesus Cristo GRATIDÃO por toda proteção que tem sempre em casa, em nome eu muita grata o sangue de Jesus me purifique.amem.",
+    "l": 13
+   },
+   {
+    "t": "Amém obrigado Deus abençoe nosso dia gratidão senhor por mais esse dia que sencia seja abençoado pra todos nós sempre amém ❤❤❤❤amém",
+    "l": 13
+   },
+   {
+    "t": "Amém amém amém 🙏🏻🙏🏻🙏🏻 Miguel são Miguel arcanjo 🙏🏼",
+    "l": 12
+   },
+   {
+    "t": "Amém 🙏 rogai por nós São Miguel Arcanjo.",
+    "l": 12
+   }
+  ],
+  "analisado": "2026-10-23T23:16:42+00:00"
+ },
+ "GDAW9huO3Jo": {
+  "id": "GDAW9huO3Jo",
+  "titulo": "Salmos 37:5 #fé #fe #vidaconjugal #palavradedeus #deus #amor #jesus #mensagem #oração #gratidão",
+  "canal": "O diário de um vencedor",
+  "canal_id": "UCNuZHLx_ngSSJrNL-alZVgA",
+  "inscritos": 5420,
+  "publicado": "2026-10-04T16:50:36Z",
+  "duracao": 14,
+  "views": 212266,
+  "likes": 7624,
+  "comentarios": 717,
+  "outlier": 62.7,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": {
+   "gancho_falado": "",
+   "texto_tela": "Salmos 37:5 \"Entrega o teu caminho ao Senhor, confia nEle, e o mais Ele fará.\"",
+   "visual_inicial": "Um livro bíblico aberto com versículo em destaque sobre fundo amarelo com texto explicativo.",
+   "tipo_gancho": "identificacao",
+   "formato": "slideshow",
+   "emocao": "esperança e conforto",
+   "retencao": "mensagem reconfortante e inspiradora que convida à leitura pausada até o fim.",
+   "cta": "",
+   "por_que_funciona": "Combina um versículo bíblico muito conhecido com uma mensagem de acolhimento visualmente limpa e calmante, gerando identificação imediata com pessoas passando por dificuldades.",
+   "modelo_gancho": "[Versículo Bíblico] [Mensagem de esperança para o seu dia]",
+   "variacoes": [
+    "Provérbios 3:5 Confie no Senhor de todo o seu coração.",
+    "Filipenses 4:13 Tudo posso naquele que me fortalece.",
+    "Salmos 23:1 O Senhor é o meu pastor e nada me faltará."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Pai o senhor sabe tudo o que passando",
+    "Te entrego senhor, todas as criaturas que me fazem sofrer",
+    "me der sabedoria pra mim suportar todas as dificuldades que surgirem na minha vida",
+    "desata os nós da minha familia toda"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Senhor está tudo em suas maos o que peço todos os dias sei que Deus está no controle",
+    "tomo posse dessa palavra pra minha vida",
+    "guarda nossa entrada e nossa saída livrai e defeidei nos de todos perigos de todos males",
+    "deus entrego minha vida e a vida dos meus filhos e minha família na suas mãos"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Tenha fé e paciência para esperar o tempo dele",
+    "Obrigado DEUS por tua palavra aonde eu posso confiar",
+    "Deus é fiel"
+   ],
+   "frases_exatas": [
+    "Eu creio e recebo",
+    "Tá nas tuas mãos senhor",
+    "Tudo posso naquele que me fortalece",
+    "Deus está no controle de tudo",
+    "Eu creio e tomo posse",
+    "Obrigado meu criador e meu mestre",
+    "Deus é fiel",
+    "Nas tuas mãos eu entrego a minha vida"
+   ],
+   "ideias_produto": [
+    "Novena ou desafio de oração de 21 dias para desatar nós familiares",
+    "Devocional diário com Salmos para momentos de dificuldade e sofrimento",
+    "Guia prático de orações para proteção e libertação de todo mal"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Eu creio senhor Amém 🙏",
+    "l": 23
+   },
+   {
+    "t": "Amém glórias a DEUS tudo posso naquele que mim fortalece amém",
+    "l": 21
+   },
+   {
+    "t": "Tenha fé e paciência para esperar o tempo dele ,do senhor Jesus Cristo! No fim e no tempo certo ele te abençoará com todo amor❤ gratidão eterna",
+    "l": 13
+   },
+   {
+    "t": "Amém eu creio e confio em nome do senhor Jesus Cristo maravilhoso sempre amém 🙏🙏 aleluia 🙏",
+    "l": 9
+   },
+   {
+    "t": "Eu creio e agradeço, obrigado por tudo meu criador e meu mestre.",
+    "l": 9
+   },
+   {
+    "t": "Eu confio em Deus amém 🙏",
+    "l": 7
+   },
+   {
+    "t": "🙏🏼🙏🏼🙏🏼",
+    "l": 6
+   },
+   {
+    "t": "Tá nas tuas mãos senhor seja feita a tua vontade",
+    "l": 6
+   },
+   {
+    "t": "Amém Deus",
+    "l": 6
+   },
+   {
+    "t": "Amém glória Deus abençoe sempre a nossas vidas família 🙏",
+    "l": 5
+   },
+   {
+    "t": "Amém Eu Creio e Recebo 🖐🏼🙏🏼 Louvado seja Deus Aleluia 🙌🏼🙏🏼🙏🏼🫂❤️",
+    "l": 4
+   },
+   {
+    "t": "Amém eu creio em Deus ❤❤",
+    "l": 4
+   }
+  ],
+  "analisado": "2026-10-23T23:16:20+00:00"
+ },
+ "3bOh_uk1sDE": {
+  "id": "3bOh_uk1sDE",
+  "titulo": "ESSA MENSAGEM É PRA VOCÊ!🙏🏼 #deus #fe #shorts",
+  "canal": "Deus Perfeito",
+  "canal_id": "UC2nY4DgDNjz4UKTvzA7_75A",
+  "inscritos": 52800,
+  "publicado": "2026-09-25T20:23:08Z",
+  "duracao": 79,
+  "views": 106121,
+  "likes": 14971,
+  "comentarios": 3881,
+  "outlier": 24.5,
+  "nichos": [
+   "espiritualidade"
+  ],
+  "termo": "mensagem de deus",
+  "achado": "2026-10-23T23:12:34+00:00",
+  "gancho": {
+   "gancho_falado": "Filho, não passa esse vídeo ainda. Quero te fazer uma pergunta que talvez seja difícil de responder...",
+   "texto_tela": "CONFIE EM DEUS, ELE CUIDA DE TUDO",
+   "visual_inicial": "Ilustração de Jesus orando ao pé da cruz com pôr do sol dramático",
+   "tipo_gancho": "parada",
+   "formato": "narração+b-roll",
+   "emocao": "curiosidade e reflexão espiritual",
+   "retencao": "promessa de uma reflexão íntima sobre fé e exposição digital",
+   "cta": "",
+   "por_que_funciona": "Interrompe a rolagem com um apelo pessoal e emocional ('Filho, não passa') aliado a uma pergunta que gera culpa e curiosidade.",
+   "modelo_gancho": "Filho, não passa esse vídeo ainda. Quero te fazer uma pergunta sobre [tema]...",
+   "variacoes": [
+    "Filho, não passa esse vídeo ainda. Quero te fazer uma pergunta sobre o teu futuro...",
+    "Filho, não passa esse vídeo ainda. Quero te fazer uma pergunta sobre a tua família...",
+    "Filho, não passa esse vídeo ainda. Quero te fazer uma pergunta sobre as tuas finanças..."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "cura meu estômago e alimpa a minha vista",
+    "peço oração para restaurar a minha família",
+    "peço oração para curar a minha doença",
+    "pessoas invejosas e interesseiras que só atrapalham a minha vida"
+   ],
+   "correcoes": [],
+   "duvidas": [
+    "eu tenho dificuldade de em compartilha mensagem eu preciso aprender"
+   ],
+   "desejos": [
+    "proteja todos da minha família",
+    "eu creio que a minha benção está mais perto do que longe",
+    "eu recebo essa benção em nome de Jesus Cristo",
+    "eu creio tomo posse eu recebo as palavras Divina"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Jesus é o meu melhor amigo",
+    "Deus é fiel e bom",
+    "o senhor é meu pastor e nada me faltará",
+    "Deus está em primeiro lugar em minha vida",
+    "gratidão por tudo que você já fez por mim"
+   ],
+   "frases_exatas": [
+    "O senhor é meu pastor e nada me faltará",
+    "JESUS É O MEU MELHOR AMIGO",
+    "Deus não abandona os seus filhos",
+    "A minha benção está mais perto do que longe",
+    "Eu não tenho vergonha de falar do senhor",
+    "Até aqui, me ajudou o Senhor",
+    "Deus é tudo pra mim",
+    "Eu creio, tomo posse e recebo"
+   ],
+   "ideias_produto": [
+    "Devocional diário de oração e gratidão",
+    "Guia de cura e restauração familiar pela fé",
+    "Curso prático de como usar a tecnologia para compartilhar a palavra"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Clara - Jesus faz parte mi vida,mi família, Jesus és meu primeiro lugar  amém 🙏🙏🙏❤❤❤❤❤",
+    "l": 55
+   },
+   {
+    "t": "O senhor é meu pastor e nada me faltará",
+    "l": 51
+   },
+   {
+    "t": "Deus e minha vida ele e maravilhoso ❤❤❤ eu amo Jesus amém 🙏🏻",
+    "l": 49
+   },
+   {
+    "t": "Jesus Cristo meu Deus e tudo na minha vida amém graças a Deus glórias aleluias amém gratidão senhor",
+    "l": 44
+   },
+   {
+    "t": "JESUS É O MEU MELHOR AMIGO,FILHO DA MAIS LINDA DAS MULHERES 🙏🏻 PORTUGAL",
+    "l": 38
+   },
+   {
+    "t": "EU só tenho a agradecer 🙌 por tudo que o senhor Jesus já fez e continua fazendo o melhor pra mim e pra minha família ❤❤❤ amém 🙌 glória a Deus o meu dia esta abençoado 🙌",
+    "l": 36
+   },
+   {
+    "t": "Eu jamais deixaria de falar  no nome  de meu Senhor seja com quem fosse porquê  o meu coração e minha vida pertence ao meu Deus e Senhor Amém Amém Amém",
+    "l": 32
+   },
+   {
+    "t": "Deus está  sempre comigo e com a minha famílias amen ❤amen❤amen❤amen❤amrn❤",
+    "l": 31
+   },
+   {
+    "t": "Amem amém amém obrigado Deus abençoe a minha família e cura meu estômago e alimpa a minha vista em nome de Jesus",
+    "l": 31
+   },
+   {
+    "t": "Deus  está  em primeiro  lugar  em minha vida.",
+    "l": 29
+   },
+   {
+    "t": "Nunca pois Deus  não abandona os seus filhos e um pai deve sempre  estar em primeiro lugar.    AMÉM GRATIDÃO ETERNA SENHOR DEUS",
+    "l": 28
+   },
+   {
+    "t": "Eu creio que a minha benção está mais perto do que longe. Amém Amém Amém ❤❤❤",
+    "l": 27
+   }
+  ],
+  "analisado": "2026-10-23T23:16:57+00:00"
  }
 }
