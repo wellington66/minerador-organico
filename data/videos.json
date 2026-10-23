@@ -518,7 +518,7 @@
   "inscritos": 85500,
   "publicado": "2026-09-24T23:50:21Z",
   "duracao": 71,
-  "views": 370823,
+  "views": 372667,
   "likes": 0,
   "comentarios": 49,
   "outlier": 3.7,
@@ -772,8 +772,8 @@
   "inscritos": 402000,
   "publicado": "2026-10-10T11:01:11Z",
   "duracao": 66,
-  "views": 107587,
-  "likes": 768,
+  "views": 107675,
+  "likes": 769,
   "comentarios": 18,
   "outlier": 5.6,
   "nichos": [
@@ -2067,8 +2067,110 @@
   ],
   "termo": "motivação",
   "achado": "2026-10-23T00:43:04+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Ele tem 55 anos e tem esse físico.",
+   "texto_tela": "ELE TEM 55 ANOS",
+   "visual_inicial": "Um senhor de 55 anos de óculos mostrando um físico extremamente musculoso e definido em uma academia.",
+   "tipo_gancho": "resultado-chocante",
+   "formato": "narração+b-roll",
+   "emocao": "espanto",
+   "retencao": "A curiosidade imediata de entender como um homem comum de 55 anos conseguiu atingir uma transformação física tão inacreditável.",
+   "cta": "",
+   "por_que_funciona": "O contraste gritante entre o estereótipo da idade ('rosto de vovô') e um corpo de fisiculturista de elite quebra completamente o padrão de rolagem nos primeiros frames.",
+   "modelo_gancho": "Ele tem [idade/condição improvável] e tem esse [resultado impressionante/fora da curva].",
+   "variacoes": [
+    "Ele tem apenas 16 anos e já construiu essa empresa milionária.",
+    "Ela começou aos 50 anos e hoje tem essa flexibilidade inacreditável.",
+    "Ele reprovou 10 vezes e hoje lidera essa grande equipe de elite."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Aparência envelhecida ou 'acabada' associada à idade avançada"
+   ],
+   "correcoes": [
+    "O corpo é de 55 anos mas o rosto parece de 70 ou 80 anos",
+    "Uso intenso de esteroides anabolizantes ('suco' / 'bomba')",
+    "A idade informada no vídeo está incorreta ou inconsistente"
+   ],
+   "duvidas": [
+    "Qual é o protocolo de recursos ergogenicos?"
+   ],
+   "desejos": [
+    "Conseguir manter um bom shape na maturidade ('ainda tem jeito pra mim que tô com 43')"
+   ],
+   "objecoes": [
+    "Natural nunca",
+    "A custa de anabolizantes"
+   ],
+   "elogios": [
+    "Shape foda",
+    "O corpo está em excelente forma",
+    "E o melhor de tudo: 100% natural"
+   ],
+   "frases_exatas": [
+    "E o melhor de tudo: 100% natural",
+    "O corpo está em excelente forma",
+    "Shape foda",
+    "Ainda tem jeito pra mim que tô com 43",
+    "Pura BOMBA"
+   ],
+   "ideias_produto": [
+    "Guia de musculação e longevidade para homens acima dos 40 anos",
+    "Curso sobre reposição hormonal e uso consciente de ergogênicos na maturidade"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "E o melhor de tudo: 100% natural.,   👀",
+    "l": 12
+   },
+   {
+    "t": "55 anos e com o rosto de 80 + com certeza esteroides e muito 💉💉💉💉💉💉💀",
+    "l": 10
+   },
+   {
+    "t": "Caramba, o cara tá com corrente de caminhão nos ombros",
+    "l": 9
+   },
+   {
+    "t": "O corpo está em excelente forma, porém ele parece ter setenta anos.",
+    "l": 6
+   },
+   {
+    "t": "Achei que era 84 anos kkk.  Mas o shape está em dia mesmo",
+    "l": 5
+   },
+   {
+    "t": "Durateston no músculo 😂😂😂",
+    "l": 4
+   },
+   {
+    "t": "Eu também vou toma o suco, 63 anos pra pegar as novidades.😂😂",
+    "l": 3
+   },
+   {
+    "t": "55 anos de contribuição 😂",
+    "l": 3
+   },
+   {
+    "t": "NATURAL DE TAUBATÉ  !!!😂😂😂",
+    "l": 3
+   },
+   {
+    "t": "Caraca mais o véi tomou asteróides é não foi pouco não 😂🤣 ksksksks dessa vez se superou mermão.",
+    "l": 3
+   },
+   {
+    "t": "Com 55 está parecendo que tem 70 kkkk",
+    "l": 2
+   },
+   {
+    "t": "Pura BOMBA",
+    "l": 2
+   }
+  ],
+  "analisado": "2026-10-23T07:56:31+00:00"
  },
  "YOoXNhO2ioE": {
   "id": "YOoXNhO2ioE",
@@ -2087,8 +2189,117 @@
   ],
   "termo": "motivação",
   "achado": "2026-10-23T00:43:04+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Dinheiro vs conhecimento. Vamos acompanhar.",
+   "texto_tela": "",
+   "visual_inicial": "Tela dividida em formato de react, com o criador no microfone embaixo e dois homens presos no fundo de um buraco profundo em cima.",
+   "tipo_gancho": "curiosidade",
+   "formato": "tela dividida",
+   "emocao": "curiosidade",
+   "retencao": "Estrutura de duelo/experimento visual, onde o espectador precisa ver até o fim para descobrir quem sai do buraco e qual é a moral da história.",
+   "cta": "",
+   "por_que_funciona": "Usa um dilema clássico (dinheiro x sabedoria) encenado em uma situação física inusitada, provocando reflexão instantânea e curiosidade pelo desfecho.",
+   "modelo_gancho": "[Conceito A] versus [Conceito B]. Vamos acompanhar.",
+   "variacoes": [
+    "Esforço bruto versus estratégia. Vamos acompanhar.",
+    "Trabalhar 14 horas por dia versus trabalhar inteligente. Vamos acompanhar.",
+    "Disciplina versus motivação. Vamos ver o que acontece."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "E pra ter dinheiro agente precisa de oquê😢",
+    "Os dois chegaram lá Agora os que não têm nenhum dos dois",
+    "Vida hoje em dia hiiii"
+   ],
+   "correcoes": [
+    "Material vem de dinheiro e o conhecimento aplicado neste vídeo exigiu material...n faz sentido seu vídeo",
+    "Então mano aquele je fez o barco de dinheiro não teve conhecimento?? o dinheiro é apenas o resultado de conhecimento",
+    "Tipo pessoas com dinheiro não tem conhecimento??? Esse vídeo está tudo ao contrário",
+    "E onde que o cara de conhecimento acha os materiais que ele usa??"
+   ],
+   "duvidas": [
+    "E onde que o cara de conhecimento acha os materiais que ele usa??🧐",
+    "O mundo está assim e qual é a tua moral desta história?",
+    "E pra ter dinheiro agente precisa de oquê😢",
+    "Dinheiro acaba?",
+    "E a corda comprou com oque?"
+   ],
+   "desejos": [],
+   "objecoes": [
+    "a vida não assim. Necessário dinheiro.",
+    "Muito dinheiro sem conhecimento, pode te prejudicar",
+    "o único lugar que o dinheiro não tem impacto é o reino de Deus"
+   ],
+   "elogios": [
+    "Muita verdade",
+    "Verdade"
+   ],
+   "frases_exatas": [
+    "O melhor de tudo é que elas sempre devem andar juntos",
+    "Dinheiro sem Conhecimento de nada vale",
+    "Conhecimento +Dinheiro =vida/ sobrevivência",
+    "O dinheiro é apenas o resultado de conhecimento",
+    "O conhecimento faz a pessoa vivir a vida de um modo mais inteligente",
+    "O Dinheiro te dá a facilidade de pagar qualquer pessoa ou coisa",
+    "Tem que haver um equilíbrio"
+   ],
+   "ideias_produto": [
+    "Curso sobre a relação e equilíbrio entre inteligência financeira e geração de riqueza",
+    "Guia prático de como transformar conhecimento em dinheiro"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Eu acredito que tem que haver um equilíbrio. Muito dinheiro sem conhecimento, pode te prejudicar, e encontrares pessoas que vão sugar teu dinheiro, é preciso conhecimento para poder administrá-lo. O mesmo se aplica pra quem tem conhecimento, é preciso dinheiro para ele poder dar conforto a sua famíl",
+    "l": 9
+   },
+   {
+    "t": "E onde que o cara de conhecimento acha os materiais que ele usa??🧐",
+    "l": 6
+   },
+   {
+    "t": "😢😢😢😢😢 pois é,é a realidade das coisas",
+    "l": 3
+   },
+   {
+    "t": "O melhor de tudo é que elas sempre devem andar juntos porque pra se construir um yate, tem que se ter conhecimento e muito dinheiro pra se investir!",
+    "l": 3
+   },
+   {
+    "t": "Ha coisas que Dinheiro não compra mas Dinheiro sem Conhecimento de nada vale  logo posso concluir que : Conhecimento +Dinheiro =vida/ sobrevivência.",
+    "l": 3
+   },
+   {
+    "t": "A bíblia diz que o dinheiro responde tudo",
+    "l": 3
+   },
+   {
+    "t": "Twiwh",
+    "l": 2
+   },
+   {
+    "t": "😂😂😂😂",
+    "l": 2
+   },
+   {
+    "t": "Dinheiro 😂",
+    "l": 2
+   },
+   {
+    "t": "O mundo está assim e qual é a tua moral desta história?",
+    "l": 2
+   },
+   {
+    "t": "E pra ter dinheiro agente precisa de oquê😢",
+    "l": 2
+   },
+   {
+    "t": "Verdade",
+    "l": 1
+   }
+  ],
+  "analisado": "2026-10-23T07:45:38+00:00"
  },
  "nCmn3xpEoMw": {
   "id": "nCmn3xpEoMw",
@@ -2569,8 +2780,108 @@
   ],
   "termo": "motivação",
   "achado": "2026-10-23T00:43:04+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Você progrediu muito desde que nos conhecemos e tem todos os méritos por isso",
+   "texto_tela": "SOLTE O PASSADO PARA VIVER O SEU FUTURO!",
+   "visual_inicial": "Cena em close-up do personagem Sid (A Era do Gelo) falando diretamente para a tela com expressão empática",
+   "tipo_gancho": "identificacao",
+   "formato": "clipe de animação/filme",
+   "emocao": "reflexão",
+   "retencao": "A curiosidade e impacto emocional de ouvir uma lição profunda vinda de um personagem conhecido por ser cômico",
+   "cta": "",
+   "por_que_funciona": "Usa a nostalgia e conexão imediata com uma animação famosa para entregar uma mensagem de desenvolvimento pessoal profunda, gerando alta identificação e compartilhamento.",
+   "modelo_gancho": "SOLTE [algo negativo do passado] PARA VIVER [resultado desejado no futuro]!",
+   "variacoes": [
+    "SOLTE O MEDO DE ERRAR PARA VIVER O SUCESSO FINANCEIRO!",
+    "SOLTE OS HÁBITOS RUINS PARA VIVER A SUA MELHOR VERSÃO!",
+    "SOLTE A OPINIÃO DOS OUTROS PARA VIVER A SUA PRÓPRIA VIDA!"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Quem fica preso no passado elem dela se destruir ela destrói quem está do lado dela",
+    "O passado é um fantasma que insiste em aparecer",
+    "Mais é difícil",
+    "Difícil",
+    "Um dia eu consigo 😢😢"
+   ],
+   "correcoes": [
+    "Precisamos do passado para errar menos no futuro"
+   ],
+   "duvidas": [],
+   "desejos": [
+    "que venha um futuro muito melhor"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Falou tudo",
+    "Verdade"
+   ],
+   "frases_exatas": [
+    "Quem fica preso no passado destrói quem está do lado dela",
+    "O passado é um fantasma que insiste em aparecer",
+    "Mais é difícil",
+    "Um dia eu consigo",
+    "Precisamos do passado para errar menos no futuro",
+    "Falou tudo",
+    "que venha um futuro muito melhor"
+   ],
+   "ideias_produto": [
+    "Guia prático para superar o passado e viver o presente",
+    "Método de inteligência emocional para lidar com memórias dolorosas"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Quem fica preso no passado elem dela se destruir ela destrói quem está do lado dela então tranque o passado e viva presente e o futuro só Deus proverá",
+    "l": 2
+   },
+   {
+    "t": "🙏🙏🙏🙏",
+    "l": 1
+   },
+   {
+    "t": "Um dia eu consigo 😢😢",
+    "l": 1
+   },
+   {
+    "t": "Glória a Deus 🙌🏽",
+    "l": 1
+   },
+   {
+    "t": "❤❤",
+    "l": 0
+   },
+   {
+    "t": "Verdade",
+    "l": 0
+   },
+   {
+    "t": "Amém 🙏🏼 glória a Deus 🙏🏼❤",
+    "l": 0
+   },
+   {
+    "t": "Obrigado",
+    "l": 0
+   },
+   {
+    "t": "❤❤❤❤😊",
+    "l": 0
+   },
+   {
+    "t": "🥰",
+    "l": 0
+   },
+   {
+    "t": "😂😂😂😂.verdade",
+    "l": 0
+   },
+   {
+    "t": "Verdade ❤",
+    "l": 0
+   }
+  ],
+  "analisado": "2026-10-23T07:39:19+00:00"
  },
  "M8xAYNgxO4w": {
   "id": "M8xAYNgxO4w",
@@ -2590,8 +2901,114 @@
   ],
   "termo": "dica de limpeza",
   "achado": "2026-10-23T00:43:04+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Não dê banho no seu cachorro sem ver isso. Este é um truque caseiro para eliminar todas as pulgas e carrapatos sem produtos químicos.",
+   "texto_tela": "Não de banho no seu cachorro sem ver isso",
+   "visual_inicial": "Mão borrifando produto no dorso de um cão infestado de carrapatos, com centenas deles caindo pelo chão.",
+   "tipo_gancho": "pare-de",
+   "formato": "narração+b-roll",
+   "emocao": "choque",
+   "retencao": "O visual chocante e agoniante de centenas de parasitas caindo gera curiosidade instantânea para descobrir a fórmula caseira que causou aquilo.",
+   "cta": "",
+   "por_que_funciona": "Combina um alerta negativo de urgência ('não faça isso antes de ver') com um estímulo visual extremo e quase inacreditável que prende a atenção nos primeiros milissegundos.",
+   "modelo_gancho": "Não [faça ação comum] no seu [alvo] sem ver isso...",
+   "variacoes": [
+    "Não limpe o seu sofá encardido sem ver isso...",
+    "Não lave suas roupas brancas amareladas sem ver isso...",
+    "Não use veneno para baratas na sua casa sem ver isso..."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Cachorros e gatos sofrendo com infestação extrema de carrapatos e pulgas",
+    "Resgate de animais em situação de muita judiação e abandono nas ruas"
+   ],
+   "correcoes": [
+    "Tem que tomar cuidado pra não intoxicar o cachorro!"
+   ],
+   "duvidas": [
+    "Que mistura é essa?"
+   ],
+   "desejos": [
+    "Livrar os animais de parasitas de forma barata e eficiente",
+    "Saber se a receita realmente funciona antes de aplicar"
+   ],
+   "objecoes": [
+    "Tomara que funcione, as misturas são boas pra outros fins",
+    "Credo não sei como ainda está vivo o cachorro!!"
+   ],
+   "elogios": [
+    "Caraca!!! Caíu tudo... Muito bom!!",
+    "Nota 10 / Nota mil para a dica",
+    "Parabéns a quem tomou essa atitude e salvou esse pobre animal",
+    "Excelente, ótimo pra qualidade de vida do cachorro"
+   ],
+   "frases_exatas": [
+    "Caraca!!! Caíu tudo... Muito bom!!",
+    "Não sei como ainda está vivo o cachorro",
+    "Que judiação, bênçãos pelo resgate e cuidados",
+    "Tomara que funcione",
+    "Muito bom e barata esta dica",
+    "Ótimo resultado!",
+    "Guardada a sugestão preciosa",
+    "Salvou esse pobre animal"
+   ],
+   "ideias_produto": [
+    "Guia digital de receitas caseiras e seguras para eliminar pulgas e carrapatos sem intoxicar o pet",
+    "Manual de primeiros socorros e cuidados para resgate de animais de rua"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Credo não sei como ainda está vivo o cachorro!! Nota 10 mas tem um pó que é muito eficiente Talflon top",
+    "l": 115
+   },
+   {
+    "t": "Eu uso raramente no meu nunca mais teve talftop e muito bom",
+    "l": 44
+   },
+   {
+    "t": "Eu estou assistindo o seu vídeo daqui da cidade de Figueirópolis -TO",
+    "l": 29
+   },
+   {
+    "t": "BHA trabalhei com banho e tosa peguei muitos cachorros como esse.",
+    "l": 22
+   },
+   {
+    "t": "Que judiação Bênçãos pelo resgate e cuidados",
+    "l": 21
+   },
+   {
+    "t": "De.   Eunápolis. Bahia.  Carrapatos ❤❤❤",
+    "l": 17
+   },
+   {
+    "t": "Resgatei um gato que estava nas ruas estava de pulgas dá cabeça as patinhas fiz essa receita não ficou uma saiu tudo o fofinho ❤️ gatinho ficou limpinho Deus abençoe vocês 🙌 qui faz um canal em pró de ajudar aos animais eles merecem todo o nosso respeito e cuidado pois os animais são puro amor envia",
+    "l": 15
+   },
+   {
+    "t": "Tomara que funcione, as misturas são. Boas são boas pra outros fins ,❤😂❤",
+    "l": 13
+   },
+   {
+    "t": "Estou assistindo da Cidade de Cacimbinhas Alagoas 💋❤️",
+    "l": 10
+   },
+   {
+    "t": "Sorocaba SP",
+    "l": 10
+   },
+   {
+    "t": "Bom dia amigo e muito bom e top sou dê Caruaru penanbuco nota 10",
+    "l": 8
+   },
+   {
+    "t": "Que mistura é essa? Tem que tomar cuidado pra não intoxicar o cachorro!🎉",
+    "l": 7
+   }
+  ],
+  "analisado": "2026-10-23T07:52:07+00:00"
  },
  "MYYf8heOo8o": {
   "id": "MYYf8heOo8o",
@@ -2739,8 +3156,35 @@
   ],
   "termo": "dica de limpeza",
   "achado": "2026-10-23T00:43:04+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Mãe, por que você está pendurada na janela limpando o vidro? Não faça isso",
+   "texto_tela": "MÃE POR QUE VOCÊ ESTÁ PENDURADA LIMPANDO O VIDRO NÃO FAÇA ISSO",
+   "visual_inicial": "Uma mulher perigosamente debruçada para fora de uma janela alta tentando limpar o vidro ensaboado com um rodo.",
+   "tipo_gancho": "pergunta",
+   "formato": "narração+b-roll",
+   "emocao": "apreensão",
+   "retencao": "curiosidade para ver a solução tecnológica e segura prometida para substituir o esforço perigoso.",
+   "cta": "Se quiser um desses de graça deixa um like",
+   "por_que_funciona": "Abre com uma cena de alto impacto visual e risco que desperta alarme imediato no espectador. O diálogo dramático prepara perfeitamente o terreno para a introdução do produto solucionador.",
+   "modelo_gancho": "[Pessoa], por que você está [ação perigosa/cansativa]? Não faça isso, senão [consequência negativa]!",
+   "variacoes": [
+    "Mãe, por que você está subindo nessa escada bamba para pintar o teto? Não faça isso, você pode cair!",
+    "Amigo, por que você está esfregando essa panela queimada com tanta força? Não faça isso, vai estragar o teflon!",
+    "Pai, por que você está puxando esse sofá pesado sozinho? Não faça isso, vai travar sua coluna!"
+   ]
+  },
+  "dores": {},
+  "top_comentarios": [
+   {
+    "t": "H74",
+    "l": 8
+   },
+   {
+    "t": "O gente😂😂😂",
+    "l": 3
+   }
+  ],
+  "analisado": "2026-10-23T07:49:03+00:00"
  },
  "LptL3UE9km4": {
   "id": "LptL3UE9km4",
@@ -2761,5 +3205,398 @@
   "achado": "2026-10-23T00:43:06+00:00",
   "gancho": null,
   "dores": null
+ },
+ "cf61_XMSpgA": {
+  "id": "cf61_XMSpgA",
+  "titulo": "🍫🥤 Gelado de Alpino Cremoso: Bebida Gelada Fácil, Rápida e Irresistível! #shorts",
+  "canal": "Aprimoraaíreceitas",
+  "canal_id": "UCGiON3gu3NF4mhRPijzWY_g",
+  "inscritos": 22500,
+  "publicado": "2026-10-07T21:16:30Z",
+  "duracao": 22,
+  "views": 512166,
+  "likes": 8899,
+  "comentarios": 248,
+  "outlier": 18.0,
+  "nichos": [
+   "receitas-gerais"
+  ],
+  "termo": "receita fácil e rápida",
+  "achado": "2026-10-23T07:38:18+00:00",
+  "gancho": {
+   "gancho_falado": "",
+   "texto_tela": "Meu novo vício 😍🤤🤌🏻✨",
+   "visual_inicial": "Um copo de vidro transparente decorado com corações sobre uma bancada preta, enquanto a pessoa começa a adicionar ingredientes rapidamente com efeitos sonoros ASMR",
+   "tipo_gancho": "curiosidade",
+   "formato": "mãos fazendo",
+   "emocao": "desejo",
+   "retencao": "O ritmo acelerado estilo ASMR e a curiosidade de ver como vai ficar a mistura final da bebida gelada",
+   "cta": "",
+   "por_que_funciona": "A frase curta 'Meu novo vício' gera curiosidade imediata sobre qual receita é tão boa a esse ponto. Os cortes rápidos e os sons satisfatórios (ASMR) prendem a atenção visual e auditiva do público.",
+   "modelo_gancho": "Meu novo vício [emoji/adjetivo]",
+   "variacoes": [
+    "Meu novo vício para as tardes de calor 🤤✨",
+    "O café gelado que virou meu novo vício 😍🧊",
+    "Essa sobremesa rápida virou meu novo vício 🍫🤌🏻"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Dor de barriga e diarreia imediata após o consumo",
+    "Intolerância à lactose atacando forte",
+    "Prisão de ventre (usado ironicamente como laxante)",
+    "Picos de glicemia e risco para diabéticos"
+   ],
+   "correcoes": [
+    "Excesso de leite (leite com leite em pó, leite de caixinha e leite condensado)",
+    "Gosto aguado ou excessivamente doce",
+    "Alto custo de preparo dos ingredientes"
+   ],
+   "duvidas": [],
+   "desejos": [
+    "Receita de açaí com leite Ninho",
+    "Adicionar Nutella ou mais coberturas",
+    "Adicionar café na receita"
+   ],
+   "objecoes": [
+    "Bomba calórica e glicêmica perigosa",
+    "Causa diarreia certa (laxante caseiro)",
+    "Muito caro para fazer"
+   ],
+   "elogios": [
+    "A receita é muito gostosa e uma delícia",
+    "Excelente edição do vídeo"
+   ],
+   "frases_exatas": [
+    "O trono lhe aguarda em poucos minutos",
+    "Laxante caseiro 2.0",
+    "Meu novo jeito de morrer",
+    "Um diabético cai duro",
+    "O intolerante à lactose no seu dia menos ousado",
+    "A privada que lute",
+    "Bomba calórica e glicêmica"
+   ],
+   "ideias_produto": [
+    "E-book de receitas fit e de baixa carga glicêmica para substituir bombas de açúcar",
+    "Guia de receitas adaptadas para intolerantes à lactose",
+    "Curso rápido de edição de vídeos para criadores de conteúdo culinário"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "É uma delícia, mas antes de beber verifica se o estoque de papel higiênico está ok.",
+    "l": 387
+   },
+   {
+    "t": "Pra quem está com prisão de ventre deve ser ótimo. 😂",
+    "l": 120
+   },
+   {
+    "t": "Leite em pó com leite de caixinha com leite condensado e com chocolate ao leite. O trono lhe aguarda em poucos minutos... é um belo laxante.",
+    "l": 112
+   },
+   {
+    "t": "Laxante caseiro  2.0 da Dona Diva.",
+    "l": 67
+   },
+   {
+    "t": "\"Meu novo jeito de morrer😍🤤🤌✨️\"   Só isso que vem na minha mente",
+    "l": 32
+   },
+   {
+    "t": "Um diabético cai duro.😅😅😅",
+    "l": 18
+   },
+   {
+    "t": "Muito bom esse diurético fecal de 1800calorias que te faz perder 5kg.",
+    "l": 13
+   },
+   {
+    "t": "O diabetes vendo vc querer isso 🤡🤡🤡",
+    "l": 10
+   },
+   {
+    "t": "Caganeira é certa 👍",
+    "l": 6
+   },
+   {
+    "t": "Minha nova diabete😍🤤🤌✨️",
+    "l": 6
+   },
+   {
+    "t": "Amantes de Lactose amam mais ainda.",
+    "l": 4
+   },
+   {
+    "t": "Meu novo vício:❌️    Meu novo ciclo de diabete:✅️",
+    "l": 2
+   }
+  ],
+  "analisado": "2026-10-23T07:40:49+00:00"
+ },
+ "8f_JcgDk_zY": {
+  "id": "8f_JcgDk_zY",
+  "titulo": "🍗🤤 FRANGO CREMOSO: UMA RECEITA FÁCIL, DELICIOSA E PERFEITA PARA O ALMOÇO! #shorts",
+  "canal": "Aprimoraaíreceitas",
+  "canal_id": "UCGiON3gu3NF4mhRPijzWY_g",
+  "inscritos": 22500,
+  "publicado": "2026-10-13T21:46:52Z",
+  "duracao": 48,
+  "views": 272166,
+  "likes": 6055,
+  "comentarios": 40,
+  "outlier": 9.5,
+  "nichos": [
+   "receitas-gerais"
+  ],
+  "termo": "receita fácil e rápida",
+  "achado": "2026-10-23T07:38:18+00:00",
+  "gancho": {
+   "gancho_falado": "",
+   "texto_tela": "Meu novo vício 😍🍗🤤🤌🏻✨",
+   "visual_inicial": "Bifes de peito de frango temperados sendo colocados para dourar em uma frigideira com azeite quente.",
+   "tipo_gancho": "curiosidade",
+   "formato": "mãos fazendo",
+   "emocao": "desejo",
+   "retencao": "A curiosidade de descobrir qual é a combinação de ingredientes que transforma um simples peito de frango em um 'vício'.",
+   "cta": "",
+   "por_que_funciona": "A expressão 'meu novo vício' cria prova de valor imediata e desperta o apetite do espectador, que assiste ao preparo hipnotizante esperando o resultado final.",
+   "modelo_gancho": "Meu novo vício [emojis apelativos]",
+   "variacoes": [
+    "Meu novo vício do café da manhã 🤤🍳✨",
+    "Minha nova sobremesa viciante em 3 minutos 🍫😍",
+    "Meu novo vício pré-treino rápido e barato 🍌💪🔥"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Força mesmo é ser saudável sem esses ingredientes",
+    "Tipo de receita que eu amaria e meu marido não",
+    "Aflição de frigideira sem a tampa, caga todo o fogão de óleo",
+    "Aí só não gosto do frango sem escalda"
+   ],
+   "correcoes": [
+    "Isso é ia kkkk o povo não sabe mais nem distinguir",
+    "Acho que não fritou direito não gosto de coisas mal passada"
+   ],
+   "duvidas": [],
+   "desejos": [
+    "Põe requeijão tbm que fica melhor ainda,e se fizer ele em tiras tbm, até filé de boi tbm",
+    "Põe leite de côco junto ummmmmm",
+    "Se colocar um curry vira comida Índia"
+   ],
+   "objecoes": [
+    "Pobre fazendo gororoba e chama de gourmet e cada uma viu"
+   ],
+   "elogios": [
+    "Tudo com queijo e derivados fica bom",
+    "Com arroz é uma delícia!",
+    "Eita, pra quem não sabe o que fazer pro almoço é uma maravilha",
+    "Difícil não ser bom"
+   ],
+   "frases_exatas": [
+    "Tudo com queijo e derivados fica bom",
+    "Pra que serve creme de leite hoje eu tento por em tudo",
+    "Eu gosto é assim fartura",
+    "Com arroz é uma delícia!",
+    "Eita, pra quem não sabe o que fazer pro almoço é uma maravilha",
+    "Difícil não ser bom",
+    "Pura Delicia"
+   ],
+   "ideias_produto": [
+    "E-book de receitas rápidas para o almoço sem complicação",
+    "Guia de adaptações de receitas para agradar o parceiro ou a família",
+    "Curso de culinária prática com substituições saudáveis mantendo o sabor"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Tudo com queijo e derivados fica bom. Força mesmo é ser saudável sem esses ingredientes!!!",
+    "l": 19
+   },
+   {
+    "t": "Quando era criança eu pensava pra que serve creme de leite hoje eu tento por em tudo que vejo na frente como pode ficar tão maravilhoso",
+    "l": 11
+   },
+   {
+    "t": "Eu gosto é assim fartura",
+    "l": 11
+   },
+   {
+    "t": "Põe requeijão tbm que fica melhor ainda,e se fizer ele em tiras tbm, até filé de boi tbm",
+    "l": 3
+   },
+   {
+    "t": "Com arroz é uma delícia! 🎉",
+    "l": 3
+   },
+   {
+    "t": "Tipo de receita que eu amaria e meu marido não kkkk",
+    "l": 3
+   },
+   {
+    "t": "Delícia 😊",
+    "l": 3
+   },
+   {
+    "t": "Aflição de frigideira sem a tampa 😢, caga todo o fogão de óleo 😅",
+    "l": 3
+   },
+   {
+    "t": "Nasceu até mais um pedaço de frango",
+    "l": 1
+   },
+   {
+    "t": "Tacou lhe a caixa inteira seloko",
+    "l": 1
+   },
+   {
+    "t": "Delícia 😋",
+    "l": 1
+   },
+   {
+    "t": "Com arroz é uma delícia! 🎉",
+    "l": 1
+   }
+  ],
+  "analisado": "2026-10-23T07:42:45+00:00"
+ },
+ "INS5ms32iSY": {
+  "id": "INS5ms32iSY",
+  "titulo": "pizza de frigideira fácil! você vai querer fazer toda semana #shorts",
+  "canal": "Receitas Simplese Raiz",
+  "canal_id": "UCibafI0Cx4PHf9vlRbIGapw",
+  "inscritos": 10700,
+  "publicado": "2026-10-09T19:32:31Z",
+  "duracao": 56,
+  "views": 175954,
+  "likes": 4740,
+  "comentarios": 84,
+  "outlier": 5.1,
+  "nichos": [
+   "receitas-gerais"
+  ],
+  "termo": "receita fácil e rápida",
+  "achado": "2026-10-23T07:38:18+00:00",
+  "gancho": {
+   "gancho_falado": "Depois que você aprender a fazer essa pizza de frigideira, vai querer preparar toda semana.",
+   "texto_tela": "",
+   "visual_inicial": "Mão finalizando uma pizza na frigideira com calabresa e orégano, cortando e puxando uma fatia com queijo derretido esticando.",
+   "tipo_gancho": "resultado-chocante",
+   "formato": "narração+b-roll",
+   "emocao": "desejo",
+   "retencao": "Apresentação imediata do resultado final extremamente apetitoso (cheese pull), gerando curiosidade sobre como fazer uma massa perfeita na frigideira.",
+   "cta": "",
+   "por_que_funciona": "Combina apelo visual imediato de 'food porn' (queijo puxando) com uma promessa audaciosa de que a receita é tão fácil e gostosa que se tornará um hábito semanal.",
+   "modelo_gancho": "Depois que você aprender a fazer [prato irresistível], vai querer preparar toda semana.",
+   "variacoes": [
+    "Depois que você aprender a fazer esse pão de queijo de frigideira, vai querer preparar toda semana.",
+    "Depois que você aprender a fazer essa sobremesa de 3 ingredientes, vai querer preparar todo fim de semana.",
+    "Depois que você aprender a fazer esse frango crocante na air fryer, nunca mais vai querer fazer frito."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Eu fiz mas não gostei da massa",
+    "Cade o fermento biológico nao vai fermento nao entendi"
+   ],
+   "correcoes": [
+    "Quem for diabético,troca o trigo por farelo de aveia",
+    "Massa e de panquecas",
+    "Não leva fermento?",
+    "Não vai fermento?",
+    "Não precisa de fermento???"
+   ],
+   "duvidas": [
+    "Posso trocar o trigo por tapioca?",
+    "Como faz ? A massa wtc thank"
+   ],
+   "desejos": [
+    "Recheio de atum também fica saborosa",
+    "Falta a cebola e azeitonas",
+    "Faria uma de cada sabor",
+    "Manda o link dessa frigideira",
+    "Se quiser a massa mais espessa,coloca fermento",
+    "Vou fazer com frango e milho muito bom"
+   ],
+   "objecoes": [
+    "Cade o fermento biológico nao vai fermento nao entendi",
+    "Eu fiz mas não gostei da massa"
+   ],
+   "elogios": [
+    "Ótimo Muito prático",
+    "Perfeito amei até o recheio",
+    "Suareceita e inperðivel",
+    "Muito bom vou fazer para meus netos eles amam, esta delicia",
+    "Ficou umas delicia"
+   ],
+   "frases_exatas": [
+    "pizza de frigideira fácil!",
+    "você vai querer fazer toda semana",
+    "vários recheios",
+    "muito prático",
+    "faria uma de cada sabor",
+    "ótimo para exercer a criatividade",
+    "manda o link dessa frigideira",
+    "quem for diabético, troca o trigo por farelo de aveia"
+   ],
+   "ideias_produto": [
+    "E-book de receitas de pizzas de frigideira criativas e rápidas",
+    "Guia de substituições saudáveis para massas (sem trigo e para diabéticos)",
+    "Curso de lanches rápidos de frigideira para fazer para a família e netos",
+    "Lista de recomendações de utensílios e frigideiras essenciais"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Queijo coalho em cubos pequeno, pedacinho de bacon e mussarela e umas folhinhas de manjericão.",
+    "l": 11
+   },
+   {
+    "t": "Amooooo pizza .",
+    "l": 11
+   },
+   {
+    "t": "Quem for diabético,troca o trigo por farelo de aveia.❤",
+    "l": 8
+   },
+   {
+    "t": "Recheio de atum também fica saborosa",
+    "l": 6
+   },
+   {
+    "t": "FRANGO.COM.CATUPIRI. GOSTEI.NOTA10❤😊",
+    "l": 5
+   },
+   {
+    "t": "Falta a cebola e azeitonas Joia  delicias",
+    "l": 5
+   },
+   {
+    "t": "Nossa dá para exercer a criatividade. Vários recheios.  Ótimo 😊",
+    "l": 4
+   },
+   {
+    "t": "Uuuuuu que bom obrigado 🫂🫂🫂💕",
+    "l": 4
+   },
+   {
+    "t": "Amooooo pizza",
+    "l": 4
+   },
+   {
+    "t": "Deus.que.de.abençoa.🙏🏿🤚🤚.as.suas.maõs.🙏🏿☝️🙏🏿👍",
+    "l": 4
+   },
+   {
+    "t": "Faria uma de cada sabor😂",
+    "l": 3
+   },
+   {
+    "t": "Eu ❤ Adorei parabéns 🥰🌹 🌷",
+    "l": 2
+   }
+  ],
+  "analisado": "2026-10-23T07:56:45+00:00"
  }
 }
