@@ -1038,8 +1038,114 @@
   ],
   "termo": "oração poderosa",
   "achado": "2026-10-22T21:42:35+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Eu não sou filho do marido da minha mãe...",
+   "texto_tela": "EU NÃO SOU FILHO DO MARIDO",
+   "visual_inicial": "Homem de meia-idade, pele morena, vestindo camiseta verde e usando microfone de pedestal, falando com expressão séria e enfática.",
+   "tipo_gancho": "polemica",
+   "formato": "talking head",
+   "emocao": "choque",
+   "retencao": "A revelação chocante e pessoal logo no início desperta curiosidade imediata sobre a história familiar do pastor.",
+   "cta": "INSCREVA-SE",
+   "por_que_funciona": "Usa uma quebra de expectativa forte logo na primeira frase, abordando temas de segredo familiar e rejeição que geram alto engajamento.",
+   "modelo_gancho": "Eu não sou filho de [parente/marido], eu sou filho de [situação inesperada/outro homem]...",
+   "variacoes": [
+    "Eu não sou herdeiro do meu pai, eu descobri que...",
+    "Eu não sou funcionário daquela empresa, eu sou o dono que...",
+    "Eu não sou aluno daquela escola, eu sou o fundador que..."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "fome e desespero por falta de trabalho e condições para alimentar os filhos",
+    "traumas e cicatrizes de culpa carregados desde a adolescência na igreja",
+    "depressão forte e falta de perspectiva",
+    "sofrimento com julgamentos, crueldade e palavras maldosas da própria família",
+    "luta contra maldições hereditárias e opressão espiritual na família"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "encontrar um verdadeiro amigo ou um 'Ronaldo' para ajudar na caminhada",
+    "viver uma vida com prazer em servir a Deus de todo o ser, não só de palavras",
+    "conseguir trabalho urgente para alimentar os filhos",
+    "cura, libertação espiritual e quebra de maldições para os filhos",
+    "que Deus levante uma multidão de pessoas usadas para resgatar os jovens"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "testemunho muito forte, lindo e impactante",
+    "exemplo maravilhoso de amizade verdadeira do personagem Ronaldo",
+    "reconhecimento da fidelidade, grandeza e poder de Deus nas histórias de resgate"
+   ],
+   "frases_exatas": [
+    "O amigo ama em todo o tempo e para a angústia nasce um irmão.",
+    "Ainda que teu pai e tua mae te abandonem, todavia não te abandonarei, diz o SENHOR.",
+    "Esse Ronaldo é um verdadeiro amigo, há amigos mais chegados que irmãos.",
+    "O filho da maldição se transformou em benção, glória ao Deus vivo.",
+    "Eu quero te conhecer JESUS. Como tenho ouvido falar.mas viver essa vida com prazer em te servi.",
+    "QUEM NASCEU PRA VENCEU NADA IMPEDIRÁ",
+    "Quando Deus quer operar ninguém pode impedir.",
+    "Deus nos tira do limbo e nos faz filho."
+   ],
+   "ideias_produto": [
+    "Devocional ou curso sobre cura de traumas familiares e rejeição na infância/adolescência",
+    "Mentoria ou rede de apoio para libertação espiritual e quebra de maldições hereditárias",
+    "Programa de capacitação ou assistência social e empregabilidade para mães solo em situação de desespero",
+    "Guia prático sobre como ser um 'amigo de aliança' e resgatar pessoas para a fé"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "😢😢  que tristeza , a criança não tem culpa,  mas  as pessoas são cruéis 😢",
+    "l": 1630
+   },
+   {
+    "t": "Esse Ronaldo é um verdadeiro amigo, há amigos mais chegados que irmãos. Glória a Deus.",
+    "l": 1421
+   },
+   {
+    "t": "Ainda que teu pai e tua mae te abandonem, todavia não te abandonarei, diz o SENHOR.",
+    "l": 911
+   },
+   {
+    "t": "Eu quero te conhecer JESUS. Como tenho ouvido falar.mas viver essa vida com prazer em te servi.nao so de palavras .mas de todo meu ser que o senhor mim fez . Olha o meu clamor senhor",
+    "l": 851
+   },
+   {
+    "t": "Ronaldo, esse ser, nao é um homem simples.... É UM ANJO!",
+    "l": 588
+   },
+   {
+    "t": "Esse Ronaldo é do céu  , que DEUS Levante outros , GLÓRIA A JESUS, BELÍSSIMO TESTEMUNHO",
+    "l": 396
+   },
+   {
+    "t": "Esse Ronaldo é o verdadeiro fenômeno",
+    "l": 319
+   },
+   {
+    "t": "Que toda alma perdida encontre um Ronaldo❤",
+    "l": 299
+   },
+   {
+    "t": "Ronaldo, vc é um verdadeiro amigo❤",
+    "l": 241
+   },
+   {
+    "t": "Lindo testemunho! Glória a Deus!",
+    "l": 236
+   },
+   {
+    "t": "Que lindo isso. Eu também queria um Ronaldo dentro da minha igreja... tudo o que eu tive em igreja evangélica é que se a minha família não se converteu, a culpa foi minha, eu, uma adolescente , boba, carregou por anos a culpa de não consertar toda uma família. Hoje, adulta e o peso e a cicatriz aind",
+    "l": 78
+   },
+   {
+    "t": "Isso não é um amigo, isso sim é um irmão em Cristo Jesus❤ gratidão irmão Ronaldo🙏🏾",
+    "l": 77
+   }
+  ],
+  "analisado": "2026-10-23T13:43:32+00:00"
  },
  "LidfuDCz7Ok": {
   "id": "LidfuDCz7Ok",
@@ -1181,8 +1287,118 @@
   ],
   "termo": "oração poderosa",
   "achado": "2026-10-22T21:42:35+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Quando a minha avó morreu e eu continuei na igreja...",
+   "texto_tela": "VÓ MORREU QUE IGREJA PRA GENTE PRA",
+   "visual_inicial": "Mulher jovem com blusa verde, fones de ouvido e microfone de podcast falando.",
+   "tipo_gancho": "historia",
+   "formato": "talking head",
+   "emocao": "surpresa, empatia",
+   "retencao": "promessa adiada sobre o que aconteceu após pedir um milagre a Deus",
+   "cta": "Inscreva-se (no canal)",
+   "por_que_funciona": "Começa com um evento de forte impacto emocional e pessoal ('quando a minha avó morreu'), gerando curiosidade imediata sobre a continuação.",
+   "modelo_gancho": "Quando [evento trágico ou marcante] aconteceu e eu decidi [ação arriscada]...",
+   "variacoes": [
+    "Quando meu pai faleceu e eu decidi abrir meu próprio negócio...",
+    "Quando fui demitida e decidi viajar o mundo sozinha...",
+    "Quando perdi tudo e decidi recomeçar do zero..."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Sou provedora, e queria voltar p o meu interior, apesar de ser barato a minha mas eu não consigo voltar me ajuda",
+    "Esse vídeo me fez chorar tanto....",
+    "Fiz uma [oração] também e agora pergunto por que todos os dias",
+    "É difícil mesmo"
+   ],
+   "correcoes": [
+    "As pessoas acham que Deus é capacho fazendo as coisas quando a gente quer",
+    "Crente é muito egoísta mesmo",
+    "eu n acredito q um Deus q entregou o seu Único filho por nós, seria capaz de colocar uma pessoa num leito pra mostrar q ele é Deus pra outra pessoa"
+   ],
+   "duvidas": [
+    "Tem a parte 2?",
+    "Me lembra pfvr"
+   ],
+   "desejos": [
+    "Parte 2",
+    "me ajuda tudo é um propósito mesmo também tenho um..."
+   ],
+   "objecoes": [
+    "Os outros tem q ir pq vc quer ou precisa. Vc e o centro do mundo",
+    "E ela E bolsonarista."
+   ],
+   "elogios": [
+    "Que lindo testemunho!!! DEUS te abençoe, moça!",
+    "Nossa é bem forte mesmo",
+    "Amo a vida de Rayssa, uma mulher de Deus..."
+   ],
+   "frases_exatas": [
+    "Eu chamo de 'a dor do amor'.",
+    "Quando não vai no amor, vai na dor!",
+    "As pessoas acham que Deus é capacho",
+    "Devemos cuidar com as palavras, qd oramos",
+    "Deus é fiel",
+    "Agindo Deus quem impedirá",
+    "Deus e bom o tempo todo"
+   ],
+   "ideias_produto": [
+    "Guia ou curso sobre como alinhar as expectativas e a linguagem nas orações",
+    "Devocional focado em entender os propósitos de Deus através da dor e do sofrimento familiar",
+    "Mentoria de suporte espiritual e emocional para mulheres sobrecarregadas e provedoras"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Eu chamo de \"a dor do amor\". Glória a Deus.",
+    "l": 101
+   },
+   {
+    "t": "As pessoas acham que Deus é capacho fazendo as coisas quando a gente quer e como a gente quer. Que podemos chegar ao seu trono exigindo alguma coisa kkkkkk",
+    "l": 78
+   },
+   {
+    "t": "Devemos cuidar com as palavras, qd oramos ❤❤",
+    "l": 60
+   },
+   {
+    "t": "Que lindo testemunho!!! DEUS te abençoe, moça! 🙏🙏🙏 Tem a parte 2?",
+    "l": 35
+   },
+   {
+    "t": "Que Deus continue abençoando a família dessa corajosa mulher e a conceda saúde e paz amém.",
+    "l": 9
+   },
+   {
+    "t": "Gloria Dios, El tiene sus métodos de salvación aunque nosotros no entendemos",
+    "l": 9
+   },
+   {
+    "t": "A pronto. Os outros tem q ir pq vc quer ou precisa. Vc e o centro do mundo",
+    "l": 5
+   },
+   {
+    "t": "Deus é fiel 🙏❤️🙏",
+    "l": 4
+   },
+   {
+    "t": "Nossa é bem forte mesmo",
+    "l": 4
+   },
+   {
+    "t": "Isso aí tem a parte 2",
+    "l": 4
+   },
+   {
+    "t": "Quando não vai no amor, vai na dor! Ela já o servia, e os pais precisavam ver o poder DELE. Foi a forma que Deus, sendo tão maravilhoso, fez com que eles enxergassem o caminho de volta. Como o filho pródigo. Foi para o mundo, viveu o que queria, mas tornou à casa do pai, vendo que o mundo não tem na",
+    "l": 3
+   },
+   {
+    "t": "Lindo e o Senhor",
+    "l": 3
+   }
+  ],
+  "analisado": "2026-10-23T13:43:04+00:00"
  },
  "H_c3OoMx6Vo": {
   "id": "H_c3OoMx6Vo",
@@ -1692,8 +1908,108 @@
   ],
   "termo": "oração poderosa",
   "achado": "2026-10-22T21:42:35+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "E Deus manda te dizer...",
+   "texto_tela": "E DEUS MANDA TE DIZER",
+   "visual_inicial": "Homem de capacete sentado na moto ao ar livre falando diretamente para a câmera com tom firme.",
+   "tipo_gancho": "autoridade",
+   "formato": "talking head",
+   "emocao": "esperança",
+   "retencao": "A promessa de que o que foi perdido será superado e a superação de limites bíblicos.",
+   "cta": "",
+   "por_que_funciona": "Usa uma autoridade divina logo no início combinada com citação bíblica direta (Jó 8:7), gerando curiosidade e conexão emocional imediata com quem está passando por dificuldades.",
+   "modelo_gancho": "E [figura de autoridade/Deus] manda te dizer: tudo o que você perdeu [promessa de superação].",
+   "variacoes": [
+    "E o mercado financeiro manda te dizer: tudo o que você perdeu na bolsa vai voltar dobrado.",
+    "E Deus manda te dizer: o seu limite de falências acabou, a sua vitória começou.",
+    "E o seu mentor manda te dizer: o seu limite de vendas acabou hoje."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Tudo que eu perdi Deus vai me dar em dobro",
+    "O que eu tô passando não é para morte é para a vida nesses ossos secos",
+    "peço seu agir na minha vida financeira e física"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Vem espírito santo muda minha história a partir de hoje",
+    "milagre a cura e as bençãos de Deus que vão alcançar minha vida e a vida dos meus filhos",
+    "eu e minha casa vamos vencer viver a vida com abundância e paz e amor a Deus"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Se essa mensagem tocou seu coração",
+    "muito obrigado meu Deus.. gratidão senhor",
+    "Deus abençoe grandemente pela palavra em nome de Jesus Cristo"
+   ],
+   "frases_exatas": [
+    "Eu creio e tomo posse dessa palavra em nome de Jesus",
+    "Tudo que eu perdi Deus vai me dar em dobro",
+    "Vem espírito santo muda minha história a partir de hoje",
+    "O que eu tô passando não é para morte é para a vida",
+    "Eu vou profetizar eu vou vencer",
+    "quem mim prometeu não dormi",
+    "Eu tomo posse do sobrenatural de Meu Deus na minha vida"
+   ],
+   "ideias_produto": [
+    "Orações guiadas em áudio para libertação financeira e física",
+    "Jornal de oração e gratidão diária para o público declarar vitórias",
+    "Devocional focado em restauração de perdas e virada de cenário"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "eu creio PORQUE SÓ O SENHOR É DEUS GLÓRIAS Á NOSSO SENHOR JESUS CRISTO ÁMEM",
+    "l": 36
+   },
+   {
+    "t": "Aleluia Glória a Deus, Amém, Amém. Eu creio, confio, acredito, recebo, tomo posse em nome do nosso Senhor Jesus Cristo, Amém, Amém, Amém.",
+    "l": 22
+   },
+   {
+    "t": "Emm nome de nosso senhor Jesus Cristo amém",
+    "l": 19
+   },
+   {
+    "t": "Amém meu Deus proverá eu creio e tomo posse aleluia",
+    "l": 17
+   },
+   {
+    "t": "Amém, Glorias a Deus Senhor 🙌 🙏",
+    "l": 17
+   },
+   {
+    "t": "Eu creio e tomo posse dessa palavra em nome de Jesus ❤❤❤",
+    "l": 17
+   },
+   {
+    "t": "Glória a Deus!!!!!Eu creio e recebo!!!!❤❤❤",
+    "l": 14
+   },
+   {
+    "t": "Eu creio e tomo posse desta palavra profética em nome de Jesus !🙌🏻🙌🏻",
+    "l": 14
+   },
+   {
+    "t": "Amém eu creio e recebo gratidão a Deus por tudo sempre amém",
+    "l": 14
+   },
+   {
+    "t": "Eu creio em nome de Jesus Cristo.",
+    "l": 13
+   },
+   {
+    "t": "Amém eu creio e recebo e tomo posse dessa palavra em nome de Jesus Cristo amém 🙌🙏🙏🙏🙏🙏🙏🙏",
+    "l": 12
+   },
+   {
+    "t": "Eu creio eu recebo eu tomo posse da palavra profética em nome de Jesus Cristo amém amém 💜🩵💙",
+    "l": 12
+   }
+  ],
+  "analisado": "2026-10-23T13:35:20+00:00"
  },
  "SsIJbhzX37U": {
   "id": "SsIJbhzX37U",
@@ -3203,8 +3519,26 @@
   ],
   "termo": "aprender inglês",
   "achado": "2026-10-23T00:43:06+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Eu vou pintar de preto meu nariz, eu vou pintar de amarelo minha bochecha",
+   "texto_tela": "Portuguese English",
+   "visual_inicial": "Mulher pintando o rosto como abelhinha em uma tela dividida com versão em preto e branco abaixo",
+   "tipo_gancho": "tutorial-direto",
+   "formato": "tela dividida",
+   "emocao": "alegria",
+   "retencao": "promessa adiada da transformação completa na abelhinha e alternância de idiomas",
+   "cta": "",
+   "por_que_funciona": "Combina música animada, pintura facial visualmente atraente e aprendizado bilíngue imediato.",
+   "modelo_gancho": "Eu vou pintar de [cor] meu [parte_corpo], eu vou pintar de [cor] meu [parte_corpo]",
+   "variacoes": [
+    "Eu vou falar em [idioma] meu [tema], eu vou falar em [idioma] minha [tema]",
+    "Eu vou desenhar de [cor] meu [objeto], eu vou desenhar de [cor] meu [objeto]",
+    "Eu vou vestir de [cor] minha [roupa], eu vou vestir de [cor] meu [acessório]"
+   ]
+  },
+  "dores": {},
+  "top_comentarios": [],
+  "analisado": "2026-10-23T13:43:49+00:00"
  },
  "cf61_XMSpgA": {
   "id": "cf61_XMSpgA",
@@ -3598,5 +3932,135 @@
    }
   ],
   "analisado": "2026-10-23T07:56:45+00:00"
+ },
+ "JcSB4_wX_N8": {
+  "id": "JcSB4_wX_N8",
+  "titulo": "A DISCIPLINA DOENTIA DE KEVIN LEVRONE #bodybuilding #olympia #shorts",
+  "canal": "Tomarombando",
+  "canal_id": "UC3_W6W7E0nYd9iEimqoBxwA",
+  "inscritos": 12700,
+  "publicado": "2026-10-19T21:14:23Z",
+  "duracao": 43,
+  "views": 122845,
+  "likes": 5729,
+  "comentarios": 186,
+  "outlier": 3.7,
+  "nichos": [
+   "desenvolvimento"
+  ],
+  "termo": "disciplina",
+  "achado": "2026-10-23T13:32:20+00:00",
+  "gancho": {
+   "gancho_falado": "Kevin Levrone",
+   "texto_tela": "KEVIN LEVRONE",
+   "visual_inicial": "Dois vídeos em tela dividida: em cima uma mesa de podcast com homens conversando, embaixo um fisiculturista musculoso treinando na academia.",
+   "tipo_gancho": "autoridade",
+   "formato": "tela dividida",
+   "emocao": "curiosidade e admiração",
+   "retencao": "promessa de contar sobre a rotina extrema e o mental de um atleta de elite",
+   "cta": "",
+   "por_que_funciona": "Usa o nome de uma lenda do fisiculturismo mundial logo no primeiro segundo, gerando interesse imediato dos fãs do esporte.",
+   "modelo_gancho": "Conheça a história real de [Figura Famosa do Nicho]",
+   "variacoes": [
+    "Conheça a rotina extrema de Ayrton Senna",
+    "Como Arnold Schwarzenegger treinava pesado",
+    "A disciplina implacável de David Goggins"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Dificuldade para treinar e fazer dieta trabalhando 8 horas por dia",
+    "Fome excessiva e mal-estar durante o cárdio",
+    "Dificuldade para perder peso mesmo com restrição calórica"
+   ],
+   "correcoes": [
+    "Atribuir o resultado apenas à genética e à disciplina sem citar os esteroides anabolizantes",
+    "Dizer que ele tinha disciplina o ano todo, sendo que ele parava meses para focar na banda",
+    "Acreditar cegamente nos métodos milagrosos mostrados nos vídeos"
+   ],
+   "duvidas": [
+    "Como ele conseguia treinar pesado comendo tão pouco ou em cetose?",
+    "Qual a quantidade exata de drogas que ele usava?",
+    "Como ele conseguia levantar cargas tão absurdas?"
+   ],
+   "desejos": [
+    "Entender a fórmula real por trás dos físicos da época",
+    "Saber como ter a mesma força e mentalidade na rotina real"
+   ],
+   "objecoes": [
+    "Com os anabolizantes ('suco') fica fácil ganhar massa até em repouso",
+    "É fácil ter esse físico quando se vive apenas para comer e treinar sem trabalhar",
+    "O método é desumano e impossível para quem tem uma vida normal"
+   ],
+   "elogios": [
+    "Reconhecimento do físico estético e insano do Kevin Levrone ('Rei sem coroa')",
+    "Elogios à mentalidade forte e disciplina dos atletas daquela época"
+   ],
+   "frases_exatas": [
+    "Genética, disciplina, mentalidade e DEPOIS o suco...",
+    "Difícil é fazer isso trabalhando 8 horas por dia.",
+    "O rei sem coroa.",
+    "Com suco até em REPOUSO ganha massa muscular",
+    "Esquecem sempre de falar da quantidade de droga",
+    "Mente mega disciplinada, propósito, guerreiro",
+    "O esporte é cruel"
+   ],
+   "ideias_produto": [
+    "Guia de dieta e treino realista para quem trabalha 8 horas por dia",
+    "Conteúdo educativo desmistificando o uso de ergogênicos no fisiculturismo clássico",
+    "Protocolo de mentalidade e foco para atletas naturais"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Genética, disciplina, mentalidade e DEPOIS o suco...",
+    "l": 179
+   },
+   {
+    "t": "Imaxina um homi gigantexxxco",
+    "l": 95
+   },
+   {
+    "t": "Sem falar que a maior parte do ano ele se dedicava a banda dele, e só parava uns 3 meses para treinar para o Olímpia",
+    "l": 48
+   },
+   {
+    "t": "600 k é um peso ABSURDO!!",
+    "l": 14
+   },
+   {
+    "t": "Não é atoa que ele é uma das lendas do bodybuilder",
+    "l": 12
+   },
+   {
+    "t": "Na verdade o Kevin consumia linguado. Era o peixe favorito dele",
+    "l": 12
+   },
+   {
+    "t": "Te digo como ele conseguiu e aqui está a fórmula Mágica 💉",
+    "l": 12
+   },
+   {
+    "t": "\"Halotestin\" é o nome",
+    "l": 11
+   },
+   {
+    "t": "É o suco",
+    "l": 10
+   },
+   {
+    "t": "O corpo começa a gastar a gordura q vc tem pra sobreviver",
+    "l": 9
+   },
+   {
+    "t": "Ué, a energia vem da gordura e músculo, é óbvio.",
+    "l": 8
+   },
+   {
+    "t": "Só vivia pra comer e treinar, é muito mais fácil. Difícil é fazer isso trabalhando 8 horas por dia.",
+    "l": 8
+   }
+  ],
+  "analisado": "2026-10-23T13:42:44+00:00"
  }
 }
