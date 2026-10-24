@@ -3434,10 +3434,10 @@
   "inscritos": 66500,
   "publicado": "2026-09-25T21:00:21Z",
   "duracao": 33,
-  "views": 1133048,
-  "likes": 19722,
-  "comentarios": 860,
-  "outlier": 21.9,
+  "views": 1197931,
+  "likes": 20499,
+  "comentarios": 883,
+  "outlier": 23.2,
   "nichos": [
    "casa"
   ],
@@ -5079,8 +5079,115 @@
   ],
   "termo": "mensagem de deus",
   "achado": "2026-10-23T23:12:34+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "uma irmã chegou em mim pertinho de mim falou assim pastor saulo",
+   "texto_tela": "uma irmã chegou em mim pertinho de mim falou assim pastor saulo",
+   "visual_inicial": "Homem com microfone em um palco falando para o público",
+   "tipo_gancho": "historia",
+   "formato": "talking head",
+   "emocao": "curiosidade",
+   "retencao": "curiosidade para saber o que a irmã falou para o pastor",
+   "cta": "inscreva-se",
+   "por_que_funciona": "O uso de uma narrativa direta e pessoal desperta imediata curiosidade no espectador.",
+   "modelo_gancho": "uma pessoa chegou em mim pertinho de mim falou assim [nome/termo]",
+   "variacoes": [
+    "uma cliente chegou em mim pertinho de mim falou assim [nome do produto]",
+    "um seguidor chegou em mim pertinho de mim falou assim [pergunta ou frase]",
+    "um aluno chegou em mim pertinho de mim falou assim [dúvida comum]"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "perda do esposo para a leucemia e câncer no estômago",
+    "filhos com graves problemas de saúde, nascidos prematuros ou com risco de morte",
+    "luto pela perda de entes queridos (marido, filho, mãe)",
+    "diagnósticos difíceis como câncer, nódulos e dengue hemorrágica",
+    "orações não atendidas da forma esperada no hospital",
+    "dificuldade ou impossibilidade de engravidar"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "salvação e libertação para os filhos, marido e familiares",
+    "cura de doenças graves na família e netos",
+    "ver milagres e restauração no lar",
+    "encontrar vídeos antigos de testemunhos marcantes para salvar e rever"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "testemunho muito forte, impactante e glorioso",
+    "o conteúdo traz a certeza de que Deus é fiel em todo o tempo",
+    "emoção profunda ao ouvir os relatos",
+    "inspiração pela fé e por não murmurar diante das lutas"
+   ],
+   "frases_exatas": [
+    "Deus é fiel mesmo quando perdemos quem amamos",
+    "Eu creio que Ele vai fazer milagres na vida dos meus filhos",
+    "Não consigo parar de ver",
+    "Deus é o único que é fiel em todos os momentos",
+    "Esse testemunho vale a pena, é muito forte",
+    "A fidelidade em não questionar a Deus e somente crer",
+    "Fé sobre fé, luta sobre luta",
+    "Deus é fiel na vida daquele que entrega sua vida nas mãos dEle"
+   ],
+   "ideias_produto": [
+    "Devocional diário focado em superação do luto e doenças através da fé",
+    "Livro digital com coletânea de testemunhos reais de curas e milagres",
+    "Comunidade de intercessão e oração pelas famílias e cura de enfermos",
+    "Série de mentorias ou aulas sobre perseverança na fé em meio ao sofrimento"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Gloria a Deus, Deus é fiel, liberta meus filhos jesus, meu irmão e meus sobrinhos,e completa a salvação no meu lar.",
+    "l": 537
+   },
+   {
+    "t": "Eu perdi meu esposo pra leucemia mas mesmo assim Deus tem sido fiel na minha vida 🙌🏾🙌🏾🙌🏾😢",
+    "l": 479
+   },
+   {
+    "t": "😢 DEUS É FIEL !!!  DEUS É FIEL !!!  DEUS É FIEL !!!",
+    "l": 327
+   },
+   {
+    "t": "Deus é fiel porque dele é por ele e para ele são todas as coisas",
+    "l": 159
+   },
+   {
+    "t": "eu perdi meu esposo faleceu de câncer no estômago. mais mesmo assim Deus tem sido fiel na minha vida e no meu lar.",
+    "l": 154
+   },
+   {
+    "t": "Deus é fiel na minha e na vida de todos aquele que crê ‼️",
+    "l": 138
+   },
+   {
+    "t": "Eu creio nesse Deus ❤😭",
+    "l": 80
+   },
+   {
+    "t": "Meu Deus!! Ouvi esse testemunho há anos atrás ...e há alguns meses  recente procurei tantoooo esse vídeo ...q benção puder rever e claro agora salvar o vídeo",
+    "l": 58
+   },
+   {
+    "t": "Eu já escutei este testemunho completo várias e várias vezes. Sempre assisto pra saber que Deus é o maior sempre. Este testemunho é muito impactante.",
+    "l": 54
+   },
+   {
+    "t": "Deus é fiel..minha caçula, logo apos completar tres aninhos, teve dengue e desenvolveu pra dengue hemorragica.. as plaquetas cairam la em baixo, foi internada desmaiadinha, exames constataram agua no pulmao, agua no abdomen, figado tbm alterado..  ela foi internada as pressas e sem recuperar.. mas a",
+    "l": 47
+   },
+   {
+    "t": "Minha filha nasceu cheia de problemas era tbm de 7 meses deu parada respiratória teve q usar oxigênio os médicos me disse ela talvez vai durar 2 meses  Eu falei com deus se for pra ser minha tira ela daqui se não for leva ela pois está sofrendo muito  Resumo ela saiu do hospital com 15 dias  Os médi",
+    "l": 38
+   },
+   {
+    "t": "Deus é fiel! Eu creio que ele vai fazer milagres na vida dos meus filhos ainda nessa terra,e na vida de cada mãe que intercede pelos filhos, Deus é o mesmo, Ele não mudou, faz milagres da vida aos mortos, faz estéril mãe de filhos e liberta o oprimido, eu creio, a cada um que ler esta mensagem, Jesu",
+    "l": 28
+   }
+  ],
+  "analisado": "2026-10-24T04:46:46+00:00"
  },
  "5XUYCjIN4Yw": {
   "id": "5XUYCjIN4Yw",
@@ -5099,8 +5206,106 @@
   ],
   "termo": "mensagem de deus",
   "achado": "2026-10-23T23:12:34+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Numa mesa cheia de médicos e biólogos, passa uma crente",
+   "texto_tela": "NUMA MESA CHEIA DE MÉDICOS E BIÓLOGOS PASSA UMA CRENTE",
+   "visual_inicial": "Um homem de terno gesticulando em um púlpito com legenda centralizada em destaque",
+   "tipo_gancho": "historia",
+   "formato": "talking head",
+   "emocao": "curiosidade",
+   "retencao": "A expectativa sobre o confronto ou reação da crente na mesa científica",
+   "cta": "INSCREVA-SE",
+   "por_que_funciona": "Usa contraste de grupos (médicos/biólogos vs crente) gerando curiosidade imediata sobre o que vai acontecer.",
+   "modelo_gancho": "Numa mesa cheia de [grupo de prestígio], passa uma [pessoa comum/diferente]",
+   "variacoes": [
+    "Numa mesa cheia de investidores, passa um jovem de chinelo",
+    "Numa sala cheia de especialistas, passa um iniciante",
+    "Numa festa cheia de céticos, passa um homem de fé"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Hoje as pessoas só querem benção. Dar a mão ao próximo, orar pelo próximo nada"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Deus meu! Ajude-me a ser e amar as pessoas como Helene e a mãe dela!"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "O testemunho dele todo é maravilhoso",
+    "Que testemunho lindo!",
+    "A presença do Senhor transforma o ser humano de dentro para fora",
+    "Ele sabia de bíblia, depois teve um encontro com o autor da bíblia"
+   ],
+   "frases_exatas": [
+    "Ele sabia de bíblia, depois teve um encontro com o autor da bíblia.",
+    "Se ele está certo no começo está certo no final.",
+    "Vc conhece o Jesus da cruz, eu conheco o Jesus que está vivo.",
+    "A presença do Senhor transforma o ser humano de dentro para fora.",
+    "A loucura de Deus excede a maior das sabedorias dos homens.",
+    "Nem todo mundo que leu toda bíblia, conhece a Jesus Cristo",
+    "O peso do mundo não estava mais em mim. Transformação imediata, cura e libertação",
+    "Compromisso com Deus tem que ser real. É pegar ou largar!"
+   ],
+   "ideias_produto": [
+    "E-book ou curso sobre como ter um encontro real com Deus para além do conhecimento bíblico teórico",
+    "Guia prático de evangelismo e como amar o próximo na prática",
+    "Devocional focado em testemunhos reais de transformação e fé inabalável"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Eu ouvindo isso e pensando nos estranh0s que frequentam a Unicamp, e pensando nele falando de bíblia. Esse aí foi transformado verdadeiramente no 1 minuto. Glória a Deus.",
+    "l": 593
+   },
+   {
+    "t": "Se ele está certo no começo está certo no final. 🙌🏻🙌🏻🙌🏻",
+    "l": 524
+   },
+   {
+    "t": "Eu sou cristã e bióloga 😢formada em uma federal em 96 .Entrei com Jesus naquela universidade e até hoje, já aposentada não sei viver sem o meu Jesus é impossível pra mim 😢😢😢",
+    "l": 348
+   },
+   {
+    "t": "O testemunho dele todo é maravilhoso ❤",
+    "l": 342
+   },
+   {
+    "t": "Ele sabia de bíblia,depois teve um encontro com o autor da bíblia. ❤",
+    "l": 128
+   },
+   {
+    "t": "Já ouvi esse testemunho centenas de vezes, e a ouvir hoje uma vez mais tive a certeza de que eu posso ouvi-lo milhares de vezes, o resultado sempre será o mesmo 🥹. Jesus é lindo!",
+    "l": 76
+   },
+   {
+    "t": "É assim que Deus trabalha",
+    "l": 74
+   },
+   {
+    "t": "Toda glória seja dada a Deus passam anos e não canso de ouvir a transformação que Deus fez na vida desse pastor",
+    "l": 64
+   },
+   {
+    "t": "Sou o pastor do vídeo, obrigado por me ajudar a pregar o evangelho",
+    "l": 57
+   },
+   {
+    "t": "Que testemunho lindo! Eu também fiz biologia e sempre acreditei que Deus é o princípio, o meio e o fim❤",
+    "l": 56
+   },
+   {
+    "t": "Aleluia!  Glória ao Senhor Jesus!",
+    "l": 52
+   },
+   {
+    "t": "Quem dera a igreja ainda amasse as almas como antes. Hoje as pessoas só querem benção. Dar a mão ao próximo,  orar pelo próximo nada😢",
+    "l": 33
+   }
+  ],
+  "analisado": "2026-10-24T04:46:54+00:00"
  },
  "OLQbEs0p9R8": {
   "id": "OLQbEs0p9R8",
@@ -5119,8 +5324,115 @@
   ],
   "termo": "mensagem de deus",
   "achado": "2026-10-23T23:12:34+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "na época da faculdade",
+   "texto_tela": "NA ÉPOCA DA FACULDADE",
+   "visual_inicial": "Um homem de terno e óculos falando em um microfone em uma igreja",
+   "tipo_gancho": "historia",
+   "formato": "talking head",
+   "emocao": "curiosidade",
+   "retencao": "A expectativa do desdobramento de uma conversa inusitada com um amigo.",
+   "cta": "INSCREVA-SE",
+   "por_que_funciona": "Inicia diretamente no meio de uma narrativa pessoal intrigante, gerando curiosidade imediata no espectador.",
+   "modelo_gancho": "Na época de [evento/lugar], aconteceu algo que mudou [situação]",
+   "variacoes": [
+    "Na época da escola, um amigo me desafiou...",
+    "Na época do primeiro emprego, aconteceu algo bizarro...",
+    "Na época do cursinho, recebi um conselho que..."
+   ]
+  },
+  "dores": {
+   "dores": [
+    "estamos todos doentes, precisando do socorro de Deus",
+    "depressão, ansiedade e angústia",
+    "já tentei me matar duas vezes",
+    "fiquei nessa vida de servico Perdido a mais de 10 anos",
+    "precisando abrir as portas na minha vida profissional, abençoando minhas vendas"
+   ],
+   "correcoes": [
+    "Faltou ainda alguma parte aqui"
+   ],
+   "duvidas": [],
+   "desejos": [
+    "Peço oração por mim, minha esposa e minhas duas filhas",
+    "Que Deus nos conceda cura e abra as portas na minha vida profissional",
+    "que eu nunca mais sinto vergonha daquilo que é maravilhoso: Te servir!"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "que testemunho forte mesmo muito lindo",
+    "QUANDO UM TESTEMUNHO É REAL O SENHOR TESTIFICA",
+    "Não consigo mais sair desse vídeo",
+    "Senti a presença de Deus na hora",
+    "Deus trabalha de forma diferente"
+   ],
+   "frases_exatas": [
+    "Tá com vergonha de mim? Eu já senti vergonha de Cristo!",
+    "QUANDO UM TESTEMUNHO É REAL O SENHOR TESTIFICA",
+    "Não consigo mais sair desse vídeo",
+    "A gente tem que parar de querer entender a forma que Deus quer agir!",
+    "AS PESSOAS VAI OLHAR PRA VC É VER CRISTO",
+    "O Senhor nunca dá as costa.....para aqueles que o procuram",
+    "Ninguém explica Deus, Deus é tremendo",
+    "Jesus jamais abandona seus escolhidos"
+   ],
+   "ideias_produto": [
+    "Campanha de oração online ou vigília digital para cura e libertação",
+    "Guia ou devocional de superação da depressão e ansiedade através da fé",
+    "Mentoria ou curso sobre restauração familiar e financeira para novos convertidos"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Tá com vergonha de mim? Eu já senti vergonha de Cristo! Me perdoa Senhor e que eu nunca mais sinto vergonha daquilo que é maravilhoso: Te servir!",
+    "l": 478
+   },
+   {
+    "t": "O Pastor ganhou um verdadeiro evangelista pra Jesus!  Glória ao Senhor nas alturas!!!!!",
+    "l": 368
+   },
+   {
+    "t": "que testemunho forte mesmo muito lindo",
+    "l": 333
+   },
+   {
+    "t": "QUANDO UM TESTEMUNHO É REAL  O SENHOR TESTIFICA",
+    "l": 74
+   },
+   {
+    "t": "Não consigo mais sair desse vídeo 😢",
+    "l": 57
+   },
+   {
+    "t": "😭😭😭😭😭😭😭😭🙏🏼🙏🏼🙏🏼🙏🏼 Amém, santo, santo é o senhor 🙏🏼",
+    "l": 57
+   },
+   {
+    "t": "Infinita a Graça do nosso Deus!!!! Lindo testemunho! 🙏",
+    "l": 52
+   },
+   {
+    "t": "A gente tem que parar de querer entender a forma que Deus quer agir!! 😅😊",
+    "l": 43
+   },
+   {
+    "t": "FORTEEE!!!! AS PESSOAS VAI  OLHAR PRA VC É VER CRISTO!!! EM VC!!!❤❤❤❤❤❤❤❤❤❤",
+    "l": 36
+   },
+   {
+    "t": "O Senhor nunca dá as costa.....para aqueles que o procuram.",
+    "l": 33
+   },
+   {
+    "t": "Peço oração por mim, minha esposa e minhas duas filhas, pois estamos todos doentes. Que Deus nos conceda cura e abra as portas na minha vida profissional, abençoando minhas vendas. Estamos precisando muito do socorro de Deus. Que Ele tenha misericórdia de nós!",
+    "l": 30
+   },
+   {
+    "t": "Tive um encontro com o Senhor qd tinha 34 anos, me batizei nas águas aos 35 (fevereiro de 97), e de lá para cá NUNCA mais pensei em sair da presença desse Deus maravilhoso!!!    Larguei todos os vícios que tinha e tive a.minha vida transformada pelo poder que só Ele tem e pela Graça derramada para n",
+    "l": 27
+   }
+  ],
+  "analisado": "2026-10-24T04:47:03+00:00"
  },
  "iVwbR7PlIdw": {
   "id": "iVwbR7PlIdw",
@@ -5613,8 +5925,110 @@
   ],
   "termo": "mensagem de deus",
   "achado": "2026-10-23T23:12:34+00:00",
-  "gancho": null,
-  "dores": null
+  "gancho": {
+   "gancho_falado": "Eu já não quero ficar mais aqui, eu quero que Deus me leve",
+   "texto_tela": "EU JÁ NÃO QUERO",
+   "visual_inicial": "Homem falando em um podcast com microfone na frente, fundo escuro e marca 'Firmes na Promessa'",
+   "tipo_gancho": "historia",
+   "formato": "talking head",
+   "emocao": "desespero",
+   "retencao": "narrativa dramática de superação pessoal",
+   "cta": "",
+   "por_que_funciona": "A frase forte e dramática logo no primeiro segundo cria forte conexão emocional e curiosidade sobre o desfecho da história.",
+   "modelo_gancho": "Eu já não quero mais [situação indesejada], eu quero que [resultado drástico]",
+   "variacoes": [
+    "Eu já não quero mais trabalhar nesse emprego, eu quero que apareça uma oportunidade",
+    "Eu já não quero mais tentar emagrecer sozinha, eu quero que alguém me ajude",
+    "Eu já não quero mais morar de aluguel, eu quero que mude minha vida"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Filhos envolvidos no tráfico ou na vida errada, causando sofrimento profundo às mães",
+    "Doença grave na família, internação em UTI e realização de hemodiálise",
+    "Saudade dolorosa de entes queridos falecidos (mãe, pai, irmãos e cônjuge)",
+    "Falta de apoio e cuidado de familiares em momentos de vulnerabilidade",
+    "Sentimento de solidão e falta de importância enquanto se está vivo"
+   ],
+   "correcoes": [],
+   "duvidas": [],
+   "desejos": [
+    "Ver um milagre na vida de familiares que estão nas drogas",
+    "Sentir o orgulho e o perdão de uma mãe",
+    "Ter a oportunidade de amar e ouvir quem está próximo enquanto há tempo"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Testemunho muito forte, emocionante e verdadeiro",
+    "História que impacta o coração e mostra a realidade da vida",
+    "Reconhecimento do poder de Deus para transformar vidas e tirar das drogas"
+   ],
+   "frases_exatas": [
+    "A verdade é que nenhuma mãe tem orgulho de um filho que está no tráfico",
+    "Só Deus mesmo pra tirar alguém dessa vida de drogas, as mães sofrem muito",
+    "A mãe é um presente de Deus",
+    "Mãe ama só porque você existe",
+    "Temos mesmo q amar, falar ouvir enquanto temos um ao outro",
+    "Mãe nunca esquece filho",
+    "A vida real é assim mesmo"
+   ],
+   "ideias_produto": [
+    "Guia ou devocional de oração para mães que intercedem por filhos envolvidos com drogas",
+    "Curso ou mentoria de fortalecimento familiar e perdão à luz da fé",
+    "Livro de testemunhos reais de transformação de vida e superação de vícios"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "A verdade é que nenhuma mãe tem orgulho de um filho que está no tráfico ou na vida errada , pode até aceitar,  mas por dentro ela clama a Deus que tire seu filho da vida errada 🙌🥹",
+    "l": 82
+   },
+   {
+    "t": "Agente acha que esse dia nunca vai chegar para quem amamos 🙏🙏🙏",
+    "l": 66
+   },
+   {
+    "t": "Testemunho forte para honra e glória ao nosso Deus maravilhoso sempre",
+    "l": 41
+   },
+   {
+    "t": "Me emocionou muito esse testemunho muito muito forte",
+    "l": 40
+   },
+   {
+    "t": "Só Deus mesmo, pra tirar alguém dessa vida de drogas, as mães sofrem muito com isso!",
+    "l": 21
+   },
+   {
+    "t": "Se você está com uma vida diferente, com certeza ela está orgulhosa de você.",
+    "l": 20
+   },
+   {
+    "t": "Senti verdade...",
+    "l": 19
+   },
+   {
+    "t": "Amém Deus te abençoe",
+    "l": 15
+   },
+   {
+    "t": "Testemunho forte❤😢",
+    "l": 15
+   },
+   {
+    "t": "Meu namorado passa por isso e o único filho que ele tem não tá cuidando dele, hoje estamos no hospital,dia 5 de Outubro ele fez o aniversário na UTI., só quem ver uma pessoa tentando sobreviver fazendo hemodiálise sabe o quanto é sofrido.Ainda bem que você sabe o quanto sua maizinha te ama muito.",
+    "l": 14
+   },
+   {
+    "t": "A mãe é um presente de Deus! ❤❤❤",
+    "l": 12
+   },
+   {
+    "t": "Verdade  Realidade a vida real é assim mesmo 😢😢😢😢😢",
+    "l": 8
+   }
+  ],
+  "analisado": "2026-10-24T04:46:29+00:00"
  },
  "gVfIII_sNiY": {
   "id": "gVfIII_sNiY",
@@ -5991,5 +6405,245 @@
    }
   ],
   "analisado": "2026-10-23T23:16:57+00:00"
+ },
+ "QW7oRRo2BWg": {
+  "id": "QW7oRRo2BWg",
+  "titulo": "Depois de anos deixando cabelo crescer, descobriram como seria eles curtos!💇🏻😯",
+  "canal": "uRoboT Shorts",
+  "canal_id": "UCGJqfnTR-mfhCYVaTwf_uKg",
+  "inscritos": 218000,
+  "publicado": "2026-10-11T14:00:12Z",
+  "duracao": 14,
+  "views": 671954,
+  "likes": 25050,
+  "comentarios": 44,
+  "outlier": 7.8,
+  "nichos": [
+   "beleza"
+  ],
+  "termo": "cabelo crescer rápido",
+  "achado": "2026-10-24T04:44:42+00:00",
+  "gancho": {
+   "gancho_falado": "Essas garotinhas passaram anos deixando o cabelo crescer",
+   "texto_tela": "Essas garotinhas passaram anos deixando o cabelo crescer",
+   "visual_inicial": "Duas mulheres com cabelos extremamente longos em um parque, mostrando visual impressionante",
+   "tipo_gancho": "curiosidade",
+   "formato": "narração+b-roll",
+   "emocao": "fascinação",
+   "retencao": "A promessa de ver o resultado surpreendente de como ficariam com cabelo curto",
+   "cta": "",
+   "por_que_funciona": "Apresenta um visual hiperbólico e incomum logo no primeiro segundo, gerando forte curiosidade sobre o resultado.",
+   "modelo_gancho": "[Grupo de pessoas] passaram [muito tempo] fazendo [algo extremo] para [resultado]",
+   "variacoes": [
+    "Esses atletas passaram anos treinando para aguentar esse peso",
+    "Essas pessoas passaram meses testando esse produto para ver se funciona",
+    "Esses cozinheiros passaram horas preparando este prato gigante"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Eu não tenho o cabelo desse",
+    "mais fácil de cuidar"
+   ],
+   "correcoes": [
+    "Isso é mentira kk o cabelo delas são apliques e o cabelo natural no máximo dura 1 ano pq cai",
+    "Larga de mentira que o Live não virou robô",
+    "es mentira no se convierte en roboc"
+   ],
+   "duvidas": [],
+   "desejos": [],
+   "objecoes": [
+    "Isso é mentira",
+    "o cabelo delas são apliques"
+   ],
+   "elogios": [
+    "Que cabelos lindos",
+    "cabelo muito lindo",
+    "Cabelo mais grande e lindo",
+    "Cabelo grande do KRAI!"
+   ],
+   "frases_exatas": [
+    "prefere cabelo curto pq pra mim fica mais bonito e mais fácil de cuidar",
+    "Isso é mentira kk o cabelo delas são apliques",
+    "o cabelo natural no máximo dura 1 ano pq cai",
+    "Cabelo grande do KRAI!"
+   ],
+   "ideias_produto": [
+    "Guia para identificar apliques e megahair",
+    "Cronograma capilar para cabelo longo natural não cair",
+    "Curso prático de transição para cabelo curto e prático"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Eu só umas das únicas meninas que prefere cabelo curto pq pra mim fica mais bonito e mais fácil de cuidar",
+    "l": 10
+   },
+   {
+    "t": "O meu like ficou coraçãozinho ele não ficou um robô",
+    "l": 9
+   },
+   {
+    "t": "a de verde tem muita aBUNDÂncia e o cabelo muito lindo",
+    "l": 9
+   },
+   {
+    "t": "Que cabelos lindos 😊",
+    "l": 9
+   },
+   {
+    "t": "Eu não tenho o cabelo desse",
+    "l": 6
+   },
+   {
+    "t": "Todo mundo me chama de Rapunzel por que eu tenho cabelo longo tá bom moço eu sou Emanuelle é o nome do meu pai que tá aqui em cima",
+    "l": 3
+   },
+   {
+    "t": "Rapunzel💜💐",
+    "l": 3
+   },
+   {
+    "t": "Isso é mentira kk o cabelo delas são apliques e o cabelo natural no máximo dura 1 ano pq cai",
+    "l": 2
+   },
+   {
+    "t": "Eu tenho o meu cabelo assim",
+    "l": 2
+   },
+   {
+    "t": "❤❤   ❤❤❤ ❤❤ ❤❤❤😘😘🥰",
+    "l": 2
+   },
+   {
+    "t": "Eopo❤",
+    "l": 2
+   },
+   {
+    "t": "Ara  sei❤😅😂😂😂",
+    "l": 2
+   }
+  ],
+  "analisado": "2026-10-24T04:46:20+00:00"
+ },
+ "QvodtP6sT3Q": {
+  "id": "QvodtP6sT3Q",
+  "titulo": "Ideias de penteados cabelo preso ✨ #cacheadas #penteados #cachos #hairstyle #hair #shorts",
+  "canal": "Lilly Rangel ",
+  "canal_id": "UCjx7GYeJvQSyHfNvG7oGkag",
+  "inscritos": 152000,
+  "publicado": "2026-09-26T13:00:33Z",
+  "duracao": 11,
+  "views": 293098,
+  "likes": 2651,
+  "comentarios": 35,
+  "outlier": 5.2,
+  "nichos": [
+   "beleza"
+  ],
+  "termo": "cabelo crescer rápido",
+  "achado": "2026-10-24T04:44:42+00:00",
+  "gancho": {
+   "gancho_falado": "",
+   "texto_tela": "IDEIAS DE PENTEADOS PRESOS ✨",
+   "visual_inicial": "Ilustrações de 12 modelos diferentes de penteados em cabelos cacheados/crespos exibidas em um grid 4x3.",
+   "tipo_gancho": "lista",
+   "formato": "slideshow",
+   "emocao": "inspiração",
+   "retencao": "diversidade rápida de opções estilosas para testar",
+   "cta": "",
+   "por_que_funciona": "Apresenta uma lista visual instantânea de alta utilidade e estética muito organizada, atraindo quem busca inspiração rápida.",
+   "modelo_gancho": "Ideias de [tema] para [público/situação] ✨",
+   "variacoes": [
+    "Ideias de nail art minimalista para unhas curtas ✨",
+    "Ideias de looks comfy para dias de preguiça ✨",
+    "Ideias de maquiagem rápida para dias corridos ✨"
+   ]
+  },
+  "dores": {
+   "dores": [
+    "Queria saber por que as pessoas só fazem de cabelo cacheado nessa mierda"
+   ],
+   "correcoes": [
+    "É só você não assistir"
+   ],
+   "duvidas": [
+    "Como faz a estrela?"
+   ],
+   "desejos": [
+    "eu quero fazer todos os penteados seu passo todos os dias"
+   ],
+   "objecoes": [],
+   "elogios": [
+    "Amei todos",
+    "O que mais deu certo no meu cabelo foi o oitavo",
+    "Cabelos divos",
+    "Os da bia são bom recomendo",
+    "Lindos"
+   ],
+   "frases_exatas": [
+    "Amei todos",
+    "O que mais deu certo no meu cabelo",
+    "Cabelos divos",
+    "Como faz a estrela?",
+    "Os da bia são bom recomendo",
+    "eu quero fazer todos os penteados"
+   ],
+   "ideias_produto": [
+    "Guia passo a passo de penteados para cabelos cacheados",
+    "Tutorial detalhado de como fazer o penteado de estrela"
+   ]
+  },
+  "top_comentarios": [
+   {
+    "t": "Todos ❤",
+    "l": 6
+   },
+   {
+    "t": "Os da bia são bom recomendo pra quem vai virar ado😮",
+    "l": 5
+   },
+   {
+    "t": "Queria saber por que as pessoas só fazem de cabelo cacheado nessa mierda",
+    "l": 5
+   },
+   {
+    "t": "Amei todos ❤❤😂😢😮😅😊😅",
+    "l": 4
+   },
+   {
+    "t": "Eu tenho cabelo cacheado em Tam o meu e o segunda fileira do 3",
+    "l": 4
+   },
+   {
+    "t": "Como faz a estrela?",
+    "l": 4
+   },
+   {
+    "t": "❤",
+    "l": 3
+   },
+   {
+    "t": "❤❤❤❤😂😂😂",
+    "l": 3
+   },
+   {
+    "t": "Lindos❤",
+    "l": 3
+   },
+   {
+    "t": "Muito bonita ❤❤😊",
+    "l": 3
+   },
+   {
+    "t": "Amei todos❤❤❤❤❤😊😊 lindos💋",
+    "l": 3
+   },
+   {
+    "t": "Yago.  K gdv vc iv",
+    "l": 3
+   }
+  ],
+  "analisado": "2026-10-24T04:46:37+00:00"
  }
 }
